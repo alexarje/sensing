@@ -15,3 +15,6 @@ __pycache__/
 
 # Jupyter Book build artifacts
 _book/
+
+# MyST build outputs
+_build

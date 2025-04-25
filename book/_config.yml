@@ -1,0 +1,8 @@
+latex:
+  use_latex_doc: true
+
+myst_enable_extensions:
+  - mermaid
+
+jupyter:
+  hide_input: true
