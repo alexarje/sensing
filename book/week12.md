@@ -29,12 +29,6 @@ Machine listening relies on various types of data:
 - **Paradata**: Data about the process of data collection or analysis.
 - **User Data**: Information about user interactions and preferences.
 
-### MUS2640 Practicalities
-
-For the MUS2640 course, practical considerations include:
-
-- **Exam Language**: Understanding the terminology and language used in exams.
-- **Exam Questions**: Preparing for the types of questions that may appear.
 
 ### Artificial Intelligence (AI)
 
