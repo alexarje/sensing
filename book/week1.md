@@ -1,12 +1,10 @@
 ---
+title: "Week 1: Tuning in"
 exports:
   - format: pdf
 ---
 
-# Week 1: Tuning in
-
-
-## Sound and music
+# Sound and music
 
 Sound and music are fundamental to human experience, serving as both a medium of communication and a form of artistic expression. Sound is a physical phenomenon characterized by vibrations that travel through a medium, while music is an organized arrangement of sounds that evoke emotional, cognitive, and cultural responses. Research in music psychology highlights how humans perceive and process sound, exploring topics such as pitch, rhythm, timbre, and harmony. Technological advancements, such as digital audio workstations and sound synthesis, have expanded the boundaries of music creation and analysis, enabling new forms of artistic exploration.
 
@@ -15,8 +13,9 @@ Sound and music are fundamental to human experience, serving as both a medium of
 Hearing is the passive physiological process of detecting sound waves through the auditory system, while listening is an active cognitive process that involves interpreting and making meaning of those sounds. In music cognition, listening is a complex activity that engages attention, memory, and emotional processing. Studies have shown that active listening can enhance musical appreciation and understanding, as well as improve auditory skills. Differentiating between hearing and listening is crucial for developing a deeper connection to music and sound in both educational and performance contexts.
 
 
-[Evelyn Glennie: How to Truly Listen](https://www.ted.com/talks/evelyn_glennie_how_to_truly_listen?subtitle=en)
+<!--[Evelyn Glennie: How to Truly Listen](https://www.ted.com/talks/evelyn_glennie_how_to_truly_listen?subtitle=en)-->
 
+<div style="max-width:1024px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/evelyn_glennie_how_to_truly_listen?autoplay=false" width="1024px" height="576px" title="How to truly listen" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen onload="window.parent.postMessage('iframeLoaded', 'https://embed.ted.com')"></iframe></div></div>
 
 ## Embodied music cognition
 
@@ -37,7 +36,51 @@ Multimodality refers to the integration and interaction of multiple sensory moda
 
 
 
-```{exercise}
+### Fundamentals of Music Psychology
+
+Psychology in music focuses on understanding how humans perceive, process, and respond to sound and music. This includes exploring topics such as:
+
+- **Perception**: How the brain interprets sound waves as musical elements like pitch, rhythm, and timbre.
+- **Cognition**: The mental processes involved in understanding and remembering music, including pattern recognition and emotional responses.
+- **Behavior**: How music influences actions, such as movement, performance, and social interaction.
+- **Emotion**: The study of how music evokes feelings and moods, and its role in emotional regulation and expression.
+
+These principles help us understand the universal and individual ways in which music impacts human experience, providing insights into both the psychological and cultural dimensions of music.
+
+There are numerous conferences and communities in music psychology, including:
+
+- **[Neuromusic](https://www.neuromusicconference.org/)**: A conference dedicated to the intersection of neuroscience and music, exploring topics such as music perception, cognition, and therapy.
+
+- **[ESCOM (European Society for the Cognitive Sciences of Music)](https://escom2021.org/)**: A society that organizes conferences and promotes research in the cognitive sciences of music.
+
+- **[ICMPC (International Conference on Music Perception and Cognition)](https://icmpc.org/)**: A biennial conference that brings together researchers from around the world to discuss music perception and cognition.
+
+- **[SMPC (Society for Music Perception and Cognition)](https://www.musicperception.org/)**: A society that hosts conferences and fosters research on the psychological and cognitive aspects of music.
+
+- **[APSCOM (Asia-Pacific Society for the Cognitive Sciences of Music)](https://www.apscom.org/)**: A regional society that promotes research and collaboration in the cognitive sciences of music across the Asia-Pacific region.
+
+- **[ICCMR (International Conference on Cognitive Musicology and Research)](https://www.iccmr.org/)**: A conference focusing on the intersection of cognitive science and musicology, exploring how humans understand and interact with music.
+
+- **[Music and Neurosciences](https://www.fondazione-mariani.org/en/music-and-neurosciences/)**: A conference series exploring the relationship between music and brain function, organized by the Mariani Foundation.
+
+These conferences provide excellent opportunities for networking, collaboration, and staying updated on the latest research in music psychology and cognition.
+
+### Fundamentals of Music Technology
+
+Technology in music involves the use of tools and systems to create, analyze, and manipulate sound. Key areas include:
+
+- **Sound Synthesis**: Generating sound electronically using techniques like additive, subtractive, and granular synthesis.
+- **Digital Audio Processing**: Editing and transforming sound using software tools for tasks such as filtering, equalization, and effects.
+- **Music Information Retrieval (MIR)**: Extracting meaningful information from audio data, such as tempo, key, and genre classification.
+- **Interactive Systems**: Designing systems that respond to user input, enabling real-time music creation and performance.
+
+These technologies expand the possibilities for music creation and analysis, offering new ways to explore and innovate within the field.
+
+Music technology is a thriving scientific discipline with numerous annual conferences and related communities: [ICMC](https://www.computermusic.org/), [SMC](https://smcnetwork.org/), [NIME](https://www.nime.org/), [CMMR](https://cmmr2023.sciencesconf.org/), [ICAD](https://icad.org/), [DAFx](https://www.dafx.de/), [ISMIR](https://www.ismir.net/), [AES](https://www.aes.org/), [TENOR](https://tenor-conference.org/), [ICLI](https://www.liveinterfaces.org/).
+
+
+
+```{note}
 Stand up, close your eyes, and listen to the environment. What do you hear?
 ```
 

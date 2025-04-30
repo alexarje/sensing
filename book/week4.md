@@ -11,8 +11,6 @@ Psychoacoustics explores how humans perceive and interpret sound, bridging the g
 
 Psychoacoustics is vital in fields like audio engineering, music production, and hearing aid design, informing how sound is optimized for human listeners.
 
----
-
 ## Anatomy of the Ear
 
 The human ear is a sophisticated organ responsible for detecting sound and maintaining balance. It consists of three main parts:
@@ -21,7 +19,7 @@ The human ear is a sophisticated organ responsible for detecting sound and maint
 - **Components**: The **pinna** (visible part) and the **ear canal**.
 - **Function**: Collects sound waves and directs them to the **eardrum**, causing vibrations.
 
-![Outer Ear](https://upload.wikimedia.org/wikipedia/commons/6/6f/Outer_ear_anatomy.png)  
+![Outer Ear](https://upload.wikimedia.org/wikipedia/commons/4/40/Ear-anatomy-text-small-en.svg)  
 *Image Source: [Wikipedia - Outer Ear](https://en.wikipedia.org/wiki/Outer_ear)*
 
 ### Middle Ear

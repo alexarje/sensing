@@ -48,7 +48,7 @@ In music production, digital audio workstations (DAWs) and multitrack recording 
 
 
 
-```{Exercise}
+```{note}
 SonicVisualiser
 ```
 

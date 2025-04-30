@@ -1,3 +1,7 @@
+---
+title: "Introduction"
+---
+
 # Introduction
 
 <figure style="float: right; margin-left: 20px;">
@@ -11,7 +15,7 @@ This textbook is written for the course [MUS2640 Sensing Sound and Music](https:
 
 You will be introduced to fundamental principles of acoustics, psychoacoustics, and perception. This includes knowledge about how sound is produced in instruments, reflected in space, and perceived by humans. This is the foundation for how we experience pitch, timbre, harmony, and rhythm in music. You will also learn about computer-based representations of sound and music, and get an overview of digital audio, sound synthesis, and analysis. The course provides theoretical knowledge and practical skills for further studies of music psychology and technology.
 
-## Learning Outcome
+### Learning Outcome
 
 Having completed the course, you will:
 
@@ -19,11 +23,11 @@ Having completed the course, you will:
 - Understand relationships between sound-theoretical and music-theoretical concepts.
 - Be able to process, synthesize, and analyze sound.
 
-## Pedagogical Strategy
+### Pedagogical Strategy
 
 You should not expect traditional lectures. Instead, we will explore (musical) sound and music together through hands-on activities, discussions, and collaborative projects. The course emphasizes active participation and experiential learning, encouraging students to engage with the material in creative and critical ways. By working together, we aim to foster a deeper understanding of the subject matter and its applications.
 
-## Open Education
+### Open Education
 
 The course material is developed from the perspective of Open Education, meaning that everything is freely and openly available. This approach ensures that students have unrestricted access to resources, enabling them to revisit and explore the material beyond the course duration. Open Education also promotes collaboration and sharing of knowledge within and outside the academic community.
 
@@ -43,65 +47,15 @@ By adopting these practices, the course not only supports students in their acad
 
 By the end of the course, you will have learned some of the basic terminology, theories, and methods used in music psychology and music technology. This includes understanding how psychological principles apply to music perception and cognition, as well as how technological tools can be used to analyze and create music. The integration of these fields provides a holistic perspective on the study of sound and music.
 
-### Venn Diagram: Musicology, Psychology, and Technology
+- **Musicology**: The study of music's history, theory, and cultural context
+- **Psychology**: The study of human perception, cognition, and behavior
+- **Technology**: The study of arts, crafts, and tools 
 
-Below is a conceptual illustration of the intersection between musicology, psychology, and technology. This Venn diagram highlights the unique and overlapping areas of these fields:
+These can then be combined to form: 
 
-```{mermaid}
-%%{init: {"flowchart": {"htmlLabels": false}} }%%
-flowchart LR
-    markdown["`This **is** _Markdown_`"]
-    newLines["`Line1
-    Line 2
-    Line 3`"]
-    markdown --> newLines
-```
+- **Music Psychology**: The study of how humans perceive and respond to music
+- **Music Technology**: The study of tools and machines for music creation, experience and understanding
 
-<figure>
-  <svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
-    <!-- Circle 1 -->
-    <circle cx="100" cy="150" r="80" fill="red" fill-opacity="0.5" />
-    <!-- Circle 2 -->
-    <circle cx="200" cy="150" r="80" fill="blue" fill-opacity="0.5" />
-    <!-- Circle 3 -->
-    <circle cx="150" cy="80" r="80" fill="green" fill-opacity="0.5" />
-    <!-- Labels -->
-    <text x="60" y="150" font-size="12" fill="black">Musicology</text>
-    <text x="210" y="150" font-size="12" fill="black">Technology</text>
-    <text x="140" y="50" font-size="12" fill="black">Psychology</text>
-  </svg>
-</figure>
-
-#### Key Areas:
-- **Musicology**: Study of music's history, theory, and cultural context.
-- **Psychology**: Exploration of human perception, cognition, and behavior.
-- **Technology**: Tools and methods for creating, analyzing, and manipulating sound.
-- **Music Psychology**: How humans perceive and respond to music.
-- **Music Technology**: Use of technology in music creation and analysis.
-- **Psychological Technology**: Tools for studying human responses to sound and music.
-- **Interdisciplinary Studies**: Integration of all three fields for a holistic understanding of sound and music.
-
-### Basics of Psychology in Music
-
-Psychology in music focuses on understanding how humans perceive, process, and respond to sound and music. This includes exploring topics such as:
-
-- **Perception**: How the brain interprets sound waves as musical elements like pitch, rhythm, and timbre.
-- **Cognition**: The mental processes involved in understanding and remembering music, including pattern recognition and emotional responses.
-- **Behavior**: How music influences actions, such as movement, performance, and social interaction.
-- **Emotion**: The study of how music evokes feelings and moods, and its role in emotional regulation and expression.
-
-These principles help us understand the universal and individual ways in which music impacts human experience, providing insights into both the psychological and cultural dimensions of music.
-
-### Basics of Technology in Music
-
-Technology in music involves the use of tools and systems to create, analyze, and manipulate sound. Key areas include:
-
-- **Sound Synthesis**: Generating sound electronically using techniques like additive, subtractive, and granular synthesis.
-- **Digital Audio Processing**: Editing and transforming sound using software tools for tasks such as filtering, equalization, and effects.
-- **Music Information Retrieval (MIR)**: Extracting meaningful information from audio data, such as tempo, key, and genre classification.
-- **Interactive Systems**: Designing systems that respond to user input, enabling real-time music creation and performance.
-
-These technologies expand the possibilities for music creation and analysis, offering new ways to explore and innovate within the field.
 
 ## Tools
 
@@ -111,19 +65,9 @@ We will explore various tools throughout the semester. You will not learn any of
 
 - **[Python - Jupyter Notebook](https://jupyter.org/)**: An open-source web application that enables you to create and share documents containing live code, equations, visualizations, and narrative text. It is widely used for data analysis, including audio and music data.
 
-- **[Freesound](https://freesound.org/)**: A collaborative online database of sound samples. It provides access to a wide variety of sounds that can be used for music production, sound design, and research.
-
-- **[Glicol](https://glicol.org/)**: A live coding environment for sound synthesis and algorithmic composition. It is designed to be beginner-friendly while offering powerful capabilities for creating music programmatically.
-
-- **[WAXML](https://www.waxml.org/)**: A framework for creating interactive audio experiences using web technologies. It simplifies the process of building audio applications for the web.
-
-- **[P5.js](https://p5js.org/)**: A JavaScript library for creative coding, with a focus on making coding accessible and inclusive. It is often used for creating visual and audio-based interactive projects.
-
 - **[Pure Data (Pd)](https://puredata.info/)**: An open-source visual programming language for audio and multimedia. It is widely used for sound synthesis, audio processing, and interactive installations.
 
-- **[Max](https://cycling74.com/products/max)**: A visual programming environment for music and multimedia. It allows you to create custom audio and visual applications, making it a versatile tool for creative projects.
-
-- **[Audiostellar](https://audiostellar.xyz/)**: A unique tool for exploring and organizing sound samples using a visual interface. It helps you discover relationships between sounds and create new compositions.
+- **[Freesound](https://freesound.org/)**: A collaborative online database of sound samples. It provides access to a wide variety of sounds that can be used for music production, sound design, and research.
 
 - **[Noise Capture](https://noise-planet.org/noisecapture.html)**: A mobile app for recording and analyzing environmental noise. It is useful for studying soundscapes and understanding the impact of noise in different environments.
 
@@ -137,11 +81,29 @@ We will also explore some relevant hardware devices:
 
 - **[Equivital Life Monitors](https://www.equivital.com/)**: Wearable devices designed to monitor physiological data such as heart rate, respiration, and body temperature. These devices are useful for studying the relationship between physiological responses and musical experiences.
 
+Other relevant tools we will briefly look at it includes: 
+
+- **[Glicol](https://glicol.org/)**: A live coding environment for sound synthesis and algorithmic composition. It is designed to be beginner-friendly while offering powerful capabilities for creating music programmatically.
+
+- **[WAXML](https://www.waxml.org/)**: A framework for creating interactive audio experiences using web technologies. It simplifies the process of building audio applications for the web.
+
+- **[P5.js](https://p5js.org/)**: A JavaScript library for creative coding, with a focus on making coding accessible and inclusive. It is often used for creating visual and audio-based interactive projects.
+
+- **[Max](https://cycling74.com/products/max)**: A visual programming environment for music and multimedia. It allows you to create custom audio and visual applications, making it a versatile tool for creative projects.
+
+- **[Audiostellar](https://audiostellar.xyz/)**: A unique tool for exploring and organizing sound samples using a visual interface. It helps you discover relationships between sounds and create new compositions.
+
+
+
 ## Curriculum
 
 The current textbook comprises the core curriculum for this course. The following sections list relevant supplementary literature. 
 
 ### Books
+
+- **[Music Psychology: A Very Short Introduction](https://global.oup.com/academic/product/music-psychology-a-very-short-introduction-9780198722944)**: *Elizabeth Hellmuth Margulis* (2018), Oxford: Oxford University Press. A concise introduction to the field of music psychology, exploring how music affects the mind and behavior.
+
+- **[Music and Technology: A Very Short Introduction](https://global.oup.com/academic/product/music-and-technology-a-very-short-introduction-9780198723910)**: *Mark Katz* (2014), Oxford: Oxford University Press. An accessible overview of the relationship between music and technology, examining its impact on creation, performance, and listening.
 
 - **[Auditory Interfaces](https://www.routledge.com/Auditory-Interfaces/Serafin/p/book/9780367332327)**: *Stefania Serafin* (2023), London/New York: Routledge. A comprehensive exploration of auditory interfaces, focusing on their design, implementation, and applications in interactive systems.
 
@@ -196,7 +158,7 @@ There are not many relevant books in Norwegian, but here are some:
 - **[R. Murray Schafer (1933–2021) and the World Soundscape Project](https://www.cambridge.org/core/journals/organised-sound/article/r-murray-schafer-19332021-and-the-world-soundscape-project/)**  
     *Barry Truax* (2021), *Organised Sound*, 26(3), pp. 419–421.
 
-- **[Artist's Note: The Earth Worm Also Sings - A Composer's Practice of Deep Listening](https://www.mitpressjournals.org/doi/10.1162/lmj.1993.3.1.35)**  
+- **[Artist's Note: The Earth Worm Also Sings - A Composer's Practice of Deep Listening](https://www.jstor.org/stable/pdf/1513267.pdf)**  
     *Pauline Oliveros* (1993), *Leonardo Music Journal*, 3, pp. 35–38.
 
 - **[Pauline Oliveros: A Shared Resonance](https://www.cambridge.org/core/journals/organised-sound/article/pauline-oliveros-a-shared-resonance/)**  
@@ -210,7 +172,6 @@ There are not many relevant books in Norwegian, but here are some:
     *Diana Deutsch in conversation with Howard Burton* (2015), Open Agenda Publishing.
 
 This list provides a mix of foundational texts, recent research, and multimedia resources to deepen your understanding of the topics covered in the course.
-
 
 
 ## Overview

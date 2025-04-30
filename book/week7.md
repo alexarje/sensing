@@ -14,7 +14,7 @@
 
 mocap
 
-```{Exercise}
+```{note}
 SonicVisualiser
 ```
 

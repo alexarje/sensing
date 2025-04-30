@@ -60,7 +60,7 @@ Python
 https://l2ork.music.vt.edu:3000/?url=VTWaves/Phase-Cancellation
 
 
-```{Exercise}
+```{note}
 SonicVisualiser
 ```
 

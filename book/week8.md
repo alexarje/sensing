@@ -77,7 +77,7 @@ The LifeMonitor employs electrocardiography (ECG) sensors to measure the electri
 The Equivital LifeMonitor is valued for its ability to provide continuous, real-time physiological data, making it a versatile tool for applications such as stress analysis, physical performance assessment, and medical research.
 
 
-```{Exercise}
+```{note}
 Equivital LifeMonitor
 ```
 

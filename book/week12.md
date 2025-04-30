@@ -47,7 +47,7 @@ Machine listening systems can operate in different time modes:
 
 
 
-```{Exercise}
+```{note}
 SonicVisualiser
 ```
 

@@ -84,7 +84,7 @@ Stationary eye-trackers are fixed devices typically used in controlled laborator
 
 fNIRS
 
-```{Exercise}
+```{note}
 SonicVisualiser
 ```
 

@@ -43,7 +43,7 @@ Structured patterns in time refer to the deliberate organization of rhythms and 
 
 
 
-```{Exercise}
+```{note}
 SonicVisualiser
 ```
 
