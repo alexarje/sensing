@@ -8,23 +8,32 @@ exports:
 
 ## Pierre Schaeffer and the Sound Object
 
-[Pierre Schaeffer](https://en.wikipedia.org/wiki/Pierre_Schaeffer) (1910–1995), a French composer and musicologist, is renowned for pioneering [musique concrète](https://en.wikipedia.org/wiki/Musique_concr%C3%A8te), a form of electroacoustic music that uses recorded sounds as raw material. His sound theory introduced groundbreaking concepts that reshaped how we perceive and compose with sound:
+[Pierre Schaeffer](https://en.wikipedia.org/wiki/Pierre_Schaeffer) (1910–1995), a French composer and musicologist, is renowned for pioneering [musique concrète](https://en.wikipedia.org/wiki/Musique_concr%C3%A8te), a form of electroacoustic music that uses recorded sounds as raw material. Schaeffer's work laid the foundation for modern sound design, electronic music, and auditory research, influencing generations of composers and sound theorists.
 
-- **Sound Objects**: Schaeffer emphasized the importance of isolating sounds from their sources and meanings, treating them as abstract entities or "sound objects" for musical exploration.
-- **Typology of Sonic Objects**: He categorized sounds based on their characteristics, such as iterative (repeated), sustained, and impulsive sounds, providing a framework for analyzing and composing with sound.
-- **Reduced Listening**: A listening mode that focuses on the intrinsic qualities of sound itself—its texture, tone, and dynamics—rather than its source or semantic meaning.
+### The sound object
+Schaeffer emphasized the importance of isolating sounds from their sources and meanings, treating them as abstract entities, what he called [sound objects](https://en.wikipedia.org/wiki/Sound_object) (*l'objet sonore*) for musical exploration. The idea is to describe sounds based on their characteristics, such as iterative (repeated), sustained, and impulsive sounds, providing a framework for analyzing and composing with sound.
 
-Schaeffer's work laid the foundation for modern sound design, electronic music, and auditory research, influencing generations of composers and sound theorists.
+### Reduced Listening
+One of Schaeffer's ideas was to focus on the intrinsic qualities of sound itself—its texture, tone, and dynamics—rather than its source or semantic meaning.
+
+
 
 ## Michel Chion and AudioVisual theory
 
 [Michel Chion](https://en.wikipedia.org/wiki/Michel_Chion) (1947–) expanded on Pierre Schaeffer's theories of listening by categorizing listening into three distinct modes:
+
+
+### Listening modes
 
 - **Causal listening**: Inspired by Schaeffer's focus on sound sources, this mode involves identifying and understanding the origin of a sound.
 - **Semantic listening**: Building on Schaeffer's exploration of sound's meaning, this mode interprets sounds as part of a language or code.
 - **Reduced listening**: Directly derived from Schaeffer's concept, this mode emphasizes analyzing the intrinsic qualities of sound—its texture, tone, and dynamics—without considering its source or meaning.
 
 Chion's framework refines Schaeffer's ideas, providing a structured approach to understanding how listeners engage with sound in various contexts.
+
+### Synchresis
+
+Synchresis, a term coined by Michel Chion, refers to the perceptual phenomenon where a sound and a visual event are perceived as occurring simultaneously, even if they are artificially synchronized. This concept is central to audiovisual theory, as it highlights the human tendency to create a cohesive relationship between what is seen and heard. Synchresis plays a crucial role in film sound design, where it is used to enhance the emotional and narrative impact of scenes by aligning specific sounds with visual actions, regardless of their actual source or origin.
 
 
 ## R. Murray Schafer and Acoustic Ecology
@@ -33,16 +42,29 @@ Chion's framework refines Schaeffer's ideas, providing a structured approach to 
 - **[Schizophonia](https://en.wikipedia.org/wiki/Schizophonia)**: The separation of a sound from its source, often through recording technology.
 - **Composed environments**: The intentional design of soundscapes.
 
-Schafer's contributions include the World Soundscape Project and the World Forum for Acoustic Ecology Conference.
+Schafer inspired the [World Forum for Acoustic Ecology (WFAE) Conference](https://www.wfae.net/), an international gathering bringing together researchers, artists, educators, and practitioners to explore the relationship between humans and their sonic environments.
+
 
 ## Hildegard Westerkamp and Soundwalking
-[Hildegard Westerkamp](https://en.wikipedia.org/wiki/Hildegard_Westerkamp) (1946–) advocated for [soundwalking](https://en.wikipedia.org/wiki/Soundwalking), a reflective practice of walking and listening to the environment. Her work was influenced by Schafer and the World Soundscape Project.
+[Hildegard Westerkamp](https://en.wikipedia.org/wiki/Hildegard_Westerkamp) (1946–) advocated for [soundwalking](https://en.wikipedia.org/wiki/Soundwalking), a reflective practice of walking and listening to the environment. Her work was influenced by Schafer and the World Soundscape Project. 
 
-```{note}
+Soundwalking is not only a practice of listening but also a method of engaging with the environment in a mindful and reflective way. It encourages participants to become aware of the acoustic ecology of their surroundings, fostering a deeper connection to place and community. Soundwalking can be used as a tool for artistic inspiration, environmental awareness, and even therapeutic purposes. 
+
+Key aspects of soundwalking include:
+- **Active Listening**: Paying close attention to the layers of sound in the environment, from the most prominent to the subtle.
+- **Contextual Awareness**: Understanding how sounds interact with the physical and social context of a space.
+- **Documentation**: Participants may choose to record sounds, take notes, or create maps to capture their auditory experience.
+
+Soundwalking has been incorporated into various disciplines, including music, urban studies, and environmental science, as a way to explore the relationship between humans and their sonic environments.
+
+
+```{exercise} Sound Walking
 1. Walk slowly in a group, without talking 
 2. Stop whenever you hear something interesting 
 3. Write a note on why you stopped and what was interesting
 ```
+
+
 
 ## John Cage and 4'33''
 
@@ -125,17 +147,6 @@ Several authors have also written about critical and cultural perspectives:
 3. Listen to  
 ```
 
-## Soundwalk
-
-Pauline Oliveros: Deep listening 
-	-> exercise-taking 
-	-> recording
-
-
-- Deep listening - Oliveros
-- Soundwalking - Westerkamp 1974
-
-
 
 
 
@@ -144,7 +155,7 @@ Pauline Oliveros: Deep listening
 - Microphones and listening - Krause 2016
 - softhearers vs loudspeakers
 
-```{note}
+```{exercise} Record soundscapes
 1. Walk slowly in a group, without talking 
 2. Stop whenever you hear something interesting 
 3. Upload at least one sound to Freesound.org

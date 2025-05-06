@@ -25,14 +25,16 @@ Embodied music cognition emphasizes the role of the body in musical experience, 
 
 A theoretical starting point is that of ecological psychology, which posits that we sense through action, and we act through sensing. This is called the action-perception loop. In music, this loop is evident in activities such as playing an instrument, where sensory feedback informs motor actions, and vice versa. For example, a pianist adjusts their touch based on the sound produced, creating a continuous cycle of interaction. Practical exercises, such as improvisation and movement-based activities, can help students explore this dynamic relationship, deepening their understanding of how sensory input and motor output are intertwined in musical contexts.
 
+```{note} Multimodality
+Multimodality refers to the integration and interaction of multiple sensory modalities—such as vision, hearing, touch, and proprioception—in the perception and understanding of the world. From a psychological perspective, multimodality emphasizes how the brain combines information from these different sensory channels to create a cohesive and enriched experience. In the context of music cognition, this could involve the interplay between auditory and motor systems, such as how visual cues from a performer influence the perception of sound or how physical gestures enhance musical expression and understanding.
+```
+
+
+
 ## Psychological vs technological approaches to sound and music
 
 Psychological approaches to sound and music focus on understanding human perception, cognition, and emotion. These approaches investigate how individuals experience music, from the neural mechanisms of auditory processing to the cultural and social factors that shape musical preferences. In contrast, technological approaches leverage tools such as audio analysis algorithms, machine learning, and virtual reality to study and create music. While psychological approaches emphasize the human element, technological approaches provide new methods for analyzing and generating sound. Integrating these perspectives can lead to innovative insights, bridging the gap between human experience and technological possibilities in music.
 
-
-```{note}
-Multimodality refers to the integration and interaction of multiple sensory modalities—such as vision, hearing, touch, and proprioception—in the perception and understanding of the world. From a psychological perspective, multimodality emphasizes how the brain combines information from these different sensory channels to create a cohesive and enriched experience. In the context of music cognition, this could involve the interplay between auditory and motor systems, such as how visual cues from a performer influence the perception of sound or how physical gestures enhance musical expression and understanding.
-```
 
 
 
@@ -65,6 +67,25 @@ There are numerous conferences and communities in music psychology, including:
 
 These conferences provide excellent opportunities for networking, collaboration, and staying updated on the latest research in music psychology and cognition.
 
+For those interested in music psychology, the following journals are key resources for research and developments in the field:
+
+- **[Music Perception](https://online.ucpress.edu/mp)**: A leading journal that publishes research on the perception and cognition of music, including studies on auditory processing, musical memory, and emotional responses.
+
+- **[Psychomusicology: Music, Mind, and Brain](https://www.apa.org/pubs/journals/pmu/)**: Focuses on the psychological and neuroscientific aspects of music, covering topics such as music therapy, performance, and creativity.
+
+- **[Journal of New Music Research](https://www.tandfonline.com/toc/nnmr20/current)**: Explores the intersection of music psychology, technology, and theory, with an emphasis on computational and experimental approaches.
+
+- **[Empirical Musicology Review](https://emusicology.org/)**: Publishes empirical studies on music perception, cognition, and performance, as well as reviews of current research.
+
+- **[Psychology of Music](https://journals.sagepub.com/home/pom)**: Covers a wide range of topics in music psychology, including music education, therapy, and cultural studies.
+
+- **[Frontiers in Psychology: Auditory Cognitive Neuroscience](https://www.frontiersin.org/journals/psychology/sections/auditory-cognitive-neuroscience)**: A section of the Frontiers in Psychology journal that focuses on auditory perception, music cognition, and related neuroscience.
+
+- **[Music & Science](https://journals.sagepub.com/home/mns)**: An interdisciplinary journal that publishes research on the scientific study of music, including its psychological, cultural, and technological dimensions.
+
+These journals provide valuable insights and are excellent resources for staying informed about the latest research in music psychology.
+
+
 ### Fundamentals of Music Technology
 
 Technology in music involves the use of tools and systems to create, analyze, and manipulate sound. Key areas include:
@@ -78,6 +99,22 @@ These technologies expand the possibilities for music creation and analysis, off
 
 Music technology is a thriving scientific discipline with numerous annual conferences and related communities: [ICMC](https://www.computermusic.org/), [SMC](https://smcnetwork.org/), [NIME](https://www.nime.org/), [CMMR](https://cmmr2023.sciencesconf.org/), [ICAD](https://icad.org/), [DAFx](https://www.dafx.de/), [ISMIR](https://www.ismir.net/), [AES](https://www.aes.org/), [TENOR](https://tenor-conference.org/), [ICLI](https://www.liveinterfaces.org/).
 
+
+For those interested in music technology, the following journals are essential resources for cutting-edge research and developments in the field:
+
+- **[Computer Music Journal](https://direct.mit.edu/comj)**: Focuses on digital audio, sound synthesis, and computer-assisted composition, providing insights into the intersection of music and technology.
+
+- **[Journal of the Audio Engineering Society (JAES)](https://www.aes.org/journal/)**: Covers a wide range of topics in audio engineering, including sound recording, processing, and reproduction.
+
+- **[Organised Sound](https://www.cambridge.org/core/journals/organised-sound)**: Explores the theory and practice of electroacoustic music and sound art, with an emphasis on innovative approaches.
+
+- **[Journal of New Music Research](https://www.tandfonline.com/toc/nnmr20/current)**: Publishes research on music technology, computational musicology, and the development of new musical tools and systems.
+
+- **[Leonardo Music Journal](https://www.leonardo.info/leonardo-music-journal)**: Focuses on the creative use of technology in music and sound art, highlighting experimental and interdisciplinary work.
+
+- **[Frontiers in Digital Humanities: Digital Musicology](https://www.frontiersin.org/journals/digital-humanities/sections/digital-musicology)**: Explores the application of digital tools and methods to music analysis, composition, and performance.
+
+- **[Transactions of the International Society for Music Information Retrieval (TISMIR)](https://transactions.ismir.net/)**: Publishes open-access research on music information retrieval, covering topics such as audio analysis, machine learning, and music data processing.
 
 
 ```{note}
