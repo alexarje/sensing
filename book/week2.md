@@ -1,21 +1,32 @@
 ---
 title: "Week 2: Listening"
+subtitle: Why it makes sense to intersect music psychology and music technology
+description: This page describes the motivation behind making a web resource for the course MUS2640 Sensing Sound and Music at the University of Oslo. 
 exports:
   - format: pdf
 ---
 
 # Influential people and theories
 
+This week, we will focus on some influential thinkers and practitioners from the 20th century that have contributed to our current understanding as a phenomenon. 
+
 ## Pierre Schaeffer and the Sound Object
 
-[Pierre Schaeffer](https://en.wikipedia.org/wiki/Pierre_Schaeffer) (1910–1995), a French composer and musicologist, is renowned for pioneering [musique concrète](https://en.wikipedia.org/wiki/Musique_concr%C3%A8te), a form of electroacoustic music that uses recorded sounds as raw material. Schaeffer's work laid the foundation for modern sound design, electronic music, and auditory research, influencing generations of composers and sound theorists.
+The French composer and musicologist [Pierre Schaeffer](https://en.wikipedia.org/wiki/Pierre_Schaeffer) (1910–1995) is renowned for pioneering [musique concrète](https://en.wikipedia.org/wiki/Musique_concr%C3%A8te), a form of electroacoustic music that uses recorded sounds as raw material. Throughout his work, Schaeffer's work laid the foundation for modern sound design, electronic music, and auditory research, influencing generations of composers and sound theorists.
 
-### The sound object
-Schaeffer emphasized the importance of isolating sounds from their sources and meanings, treating them as abstract entities, what he called [sound objects](https://en.wikipedia.org/wiki/Sound_object) (*l'objet sonore*) for musical exploration. The idea is to describe sounds based on their characteristics, such as iterative (repeated), sustained, and impulsive sounds, providing a framework for analyzing and composing with sound.
+At the core of Schaeffer's thinking is the [sound object](https://en.wikipedia.org/wiki/Sound_object) (*l'objet sonore*), a coherent "chunk" of sound. His argument was that when listening to sound, we do not hear the continuous sound but that our perception is grouped into series of sound objects with specific properties. 
 
-### Reduced Listening
-One of Schaeffer's ideas was to focus on the intrinsic qualities of sound itself—its texture, tone, and dynamics—rather than its source or semantic meaning.
+Further, Schaeffer introduced the idea of *reduced listening* as a way to focus on the intrinsic qualities of sound *itself* rather than its source (sound-producing objects and actions) or semantic meaning. This includes a sound's texture, tone, and dynamics. 
 
+Schaeffer developed a *spectromorphology*, a large taxonomy for describing any type of sound object. 
+
+Todo: add TARSOM
+
+We will not get into the details of this, but it is worth noting the thre core sound types he introduced: impulsive, sustained, and iterative. 
+
+Todo: add shapes
+
+Schaeffer's thoughts have inspired numerous theorists and composers to date. In Norway, Schaeffer's thoughts have been moved forwards by Professor Rolf Inge Godøy (UiO) and Lasse Thoresen (NMH). 
 
 
 ## Michel Chion and AudioVisual theory

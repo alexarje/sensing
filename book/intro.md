@@ -1,35 +1,48 @@
 ---
-title: "Introduction"
+title: Introduction
+subject: MUS2640 Sensing Sound and Music
+description: This page describes the motivation behind making a web resource for the course MUS2640 Sensing Sound and Music at the University of Oslo. 
+exports:
+  - format: pdf
 ---
 
 # Introduction
 
 <figure style="float: right; margin-left: 20px;">
-    <img src="figures/sensing-sound-and-music-cover-300.jpg" alt="Book cover" width="300">
-    <figcaption>Book cover: Sensing Sound and Music</figcaption>
+    <img src="figures/cover/sensing-sound-and-music-cover-horizontal-600px.jpg" alt="Book cover" width="300">
+<!--    <figcaption>Book cover: Sensing Sound and Music</figcaption>-->
 </figure>
 
-This textbook is written for the course [MUS2640 Sensing Sound and Music](https://www.uio.no/studier/emner/hf/imv/MUS2640/) at the University of Oslo. It is the foundation course for the study fields *music psychology* and *music technology*. Students are encouraged to take the following courses next [MUS2133 Music Psychology](https://www.uio.no/studier/emner/hf/imv/mus2133/) and [MUS2830 Computer Music](https://www.uio.no/studier/emner/hf/imv/MUS2830/). 
+This text book is written for the course [MUS2640 Sensing Sound and Music](https://www.uio.no/studier/emner/hf/imv/MUS2640/) at the University of Oslo. It is the foundation course for later studies in *music psychology* and *music technology*. You will be introduced to fundamental principles of acoustics, psychoacoustics, and perception. This includes knowledge about how sound is produced in instruments, reflected in space, and perceived by humans. This is the foundation for how we experience pitch, timbre, harmony, and rhythm in music. You will also learn about computer-based representations of sound and music, and get an overview of digital audio, sound synthesis, and analysis. The course provides theoretical knowledge and practical skills for further studies of music psychology and technology.
 
-## Course Content
+<!--
+Note types: 
+seealso
+note
+important
+exercise
+--> 
 
-You will be introduced to fundamental principles of acoustics, psychoacoustics, and perception. This includes knowledge about how sound is produced in instruments, reflected in space, and perceived by humans. This is the foundation for how we experience pitch, timbre, harmony, and rhythm in music. You will also learn about computer-based representations of sound and music, and get an overview of digital audio, sound synthesis, and analysis. The course provides theoretical knowledge and practical skills for further studies of music psychology and technology.
-
-### Learning Outcome
-
+:::{important} Learning Outcome
 Having completed the course, you will:
 
 - Be familiar with principles of how musical sound is produced and perceived.
 - Understand relationships between sound-theoretical and music-theoretical concepts.
 - Be able to process, synthesize, and analyze sound.
+:::
 
 ### Pedagogical Strategy
 
-You should not expect traditional lectures. Instead, we will explore (musical) sound and music together through hands-on activities, discussions, and collaborative projects. The course emphasizes active participation and experiential learning, encouraging students to engage with the material in creative and critical ways. By working together, we aim to foster a deeper understanding of the subject matter and its applications.
+This course is based on active learning and flipped classroom techniques. There will be little traditional lecturing. Instead, students are expected to read, watch, listen, and play with various other materials outside of class. In-class activities will focus on explaining and discussing core concepts and various practical exercises. This requires active participation, often collaborative. Students in the course typically have mixed backgrounds. Everyone usually has some kind of musical background, ranging from classical performance on acoustic instruments to electronic studio production. Some come from psychology, others from computer science, and others again from media studies, philosophy, linguistics, or medicine. Everyone is welcome, in-class activities will be adjusted to cater for the collective knowledge and experience. 
+
+This is a *research-based* course, wihch means that the content builds on (relatively) new research results. All the teachers are active researcers and will bring in perspectives from ongoing projects. Much of this is based on scientific methods, but given the nature of the subject, we also include research that is design-centered or based in artistic practice. We will dwell with these differences at times, since understanding the different epistemological foundations for our knowledge production is important. 
+
+The course is also *research-led* meaning that students will take part in ongoing research. This makes it possible for students to see how "real" research is conducted in practice. It is also valuable for the ongoing projects in the department. 
+
 
 ### Open Education
 
-The course material is developed from the perspective of Open Education, meaning that everything is freely and openly available. This approach ensures that students have unrestricted access to resources, enabling them to revisit and explore the material beyond the course duration. Open Education also promotes collaboration and sharing of knowledge within and outside the academic community.
+The course material is developed from the perspective of Open Education, meaning that everything is freely and openly available. This approach ensures that students have unrestricted access to resources, enabling them to revisit and explore the material beyond the course duration. Open Education also promotes collaboration and sharing of knowledge within and outside the academic community. This is important for societal innovation but also for the legitimization of ongoing research. 
 
 Open Education aligns closely with the principles of Open Research, which emphasize transparency, accessibility, and reproducibility. In this course, we aim to integrate these principles by providing access to:
 
@@ -37,9 +50,7 @@ Open Education aligns closely with the principles of Open Research, which emphas
 
 - **Open Source Code**: Tools, scripts, and examples provided during the course will be shared as open-source code. This enables students to study, modify, and build upon the code, promoting a hands-on approach to learning and encouraging contributions to the broader community.
 
-- **Open Educational Resources (OER)**: All course materials, including lecture notes, assignments, and project guidelines, will be openly licensed. This ensures that students and educators worldwide can access and adapt the content for their own purposes.
-
-- **Collaborative Research Opportunities**: Students will be encouraged to participate in research activities, contributing to ongoing projects or initiating their own. This hands-on involvement helps bridge the gap between learning and research, fostering a culture of inquiry and innovation.
+Although it is not required, students are also encouraged to participate in research activities, contributing to ongoing projects or initiating their own. This hands-on involvement helps bridge the gap between learning and research, fostering a culture of inquiry and innovation.
 
 By adopting these practices, the course not only supports students in their academic journey but also contributes to the global movement toward open and equitable access to knowledge. This approach empowers students to become active participants in the creation and dissemination of knowledge, preparing them for future roles as researchers, educators, and innovators.
 
@@ -55,6 +66,10 @@ These can then be combined to form:
 
 - **Music Psychology**: The study of how humans perceive and respond to music
 - **Music Technology**: The study of tools and machines for music creation, experience and understanding
+
+(lookout-for-tutorial-actions)=
+
+> Throughout the tutorial, whenever you're supposed to _do_ something you will see a
 
 
 ## Tools
@@ -178,3 +193,19 @@ This list provides a mix of foundational texts, recent research, and multimedia 
 
 ```{tableofcontents}
 ```
+
+## Learn more
+
+::::{grid} 1 1 2 2
+:::{card} MUS2133 Music Psychology
+:link: https://www.uio.no/studier/emner/hf/imv/mus2133/
+This course explores the psychological aspects of music perception and cognition, including auditory perception, emotional responses to music, and the cognitive processes involved in musical activities such as listening, performing, and composing.
+:::
+
+:::{card} MUS2830 Computer Music
+:link: https://www.uio.no/studier/emner/hf/imv/MUS2830/
+This course delves into the intersection of music and technology, covering topics such as sound synthesis, digital audio processing, and algorithmic composition. Gain hands-on experience with tools and techniques used in creating and analyzing music through computational methods.
+:::
+
+:::
+::::

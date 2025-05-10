@@ -1,5 +1,8 @@
 ---
 title: "Week 1: Tuning in"
+subtitle: Your first steps with MyST
+subject: MUS2640 Sensing Sound and Music
+description: This page describes the motivation behind making a web resource for the course MUS2640 Sensing Sound and Music at the University of Oslo. 
 exports:
   - format: pdf
 ---
@@ -49,21 +52,20 @@ Psychology in music focuses on understanding how humans perceive, process, and r
 
 These principles help us understand the universal and individual ways in which music impacts human experience, providing insights into both the psychological and cultural dimensions of music.
 
-There are numerous conferences and communities in music psychology, including:
+```markdown
+<details>
+<summary>Conferences and Communities in Music Psychology</summary>
 
 - **[Neuromusic](https://www.neuromusicconference.org/)**: A conference dedicated to the intersection of neuroscience and music, exploring topics such as music perception, cognition, and therapy.
-
 - **[ESCOM (European Society for the Cognitive Sciences of Music)](https://escom2021.org/)**: A society that organizes conferences and promotes research in the cognitive sciences of music.
-
 - **[ICMPC (International Conference on Music Perception and Cognition)](https://icmpc.org/)**: A biennial conference that brings together researchers from around the world to discuss music perception and cognition.
-
 - **[SMPC (Society for Music Perception and Cognition)](https://www.musicperception.org/)**: A society that hosts conferences and fosters research on the psychological and cognitive aspects of music.
-
 - **[APSCOM (Asia-Pacific Society for the Cognitive Sciences of Music)](https://www.apscom.org/)**: A regional society that promotes research and collaboration in the cognitive sciences of music across the Asia-Pacific region.
-
 - **[ICCMR (International Conference on Cognitive Musicology and Research)](https://www.iccmr.org/)**: A conference focusing on the intersection of cognitive science and musicology, exploring how humans understand and interact with music.
-
 - **[Music and Neurosciences](https://www.fondazione-mariani.org/en/music-and-neurosciences/)**: A conference series exploring the relationship between music and brain function, organized by the Mariani Foundation.
+
+</details>
+```
 
 These conferences provide excellent opportunities for networking, collaboration, and staying updated on the latest research in music psychology and cognition.
 
