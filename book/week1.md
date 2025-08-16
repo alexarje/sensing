@@ -2,23 +2,27 @@
 title: "Week 1: Tuning in"
 subtitle: Exploring the Foundations of Music Psychology and Technology
 subject: MUS2640 Sensing Sound and Music
-This page introduces the foundational concepts of music psychology and technology, exploring how humans perceive, experience, and create sound and music through both psychological and technological perspectives.
+Description: This page introduces the foundational concepts of music psychology and technology, exploring how humans perceive, experience, and create sound and music through both psychological and technological perspectives.
 exports:
   - format: pdf
 ---
 
 # Sensing Sound and music
 
-This course is called "Sensing Sound and Music". But what do those three words mean? Sensing? Sound? Music? 
+This course is called "Sensing Sound and Music". But what do that mean? And what do those three words mean on their own? Sensing? Sound? Music? 
 
-```{question}
-Stand up, close your eyes, and listen to the environment. What do you hear?
+```{note}
+What are the differences between sound and music?
 ```
 
 
 Sound and music are fundamental to human experience, serving as both a medium of communication and a form of artistic expression. Sound is a physical phenomenon characterized by vibrations that travel through a medium, while music is an organized arrangement of sounds that evoke emotional, cognitive, and cultural responses. Research in music psychology highlights how humans perceive and process sound, exploring topics such as pitch, rhythm, timbre, and harmony. Technological advancements, such as digital audio workstations and sound synthesis, have expanded the boundaries of music creation and analysis, enabling new forms of artistic exploration.
 
 ## Hearing vs listening
+
+```{question}
+Stand up, close your eyes, and listen to the environment. What do you hear?
+```
 
 Hearing is the passive physiological process of detecting sound waves through the auditory system, while listening is an active cognitive process that involves interpreting and making meaning of those sounds. In music cognition, listening is a complex activity that engages attention, memory, and emotional processing. Studies have shown that active listening can enhance musical appreciation and understanding, as well as improve auditory skills. Differentiating between hearing and listening is crucial for developing a deeper connection to music and sound in both educational and performance contexts.
 
