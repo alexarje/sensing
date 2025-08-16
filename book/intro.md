@@ -13,15 +13,7 @@ exports:
 <!--    <figcaption>Book cover: Sensing Sound and Music</figcaption>-->
 </figure>
 
-This text book is written for the course [MUS2640 Sensing Sound and Music](https://www.uio.no/studier/emner/hf/imv/MUS2640/) at the University of Oslo, a foundation course for later studies in *music psychology* and *music technology*. You will be introduced to fundamental principles of acoustics, psychoacoustics, and perception. This includes knowledge about how sound is produced in instruments, reflected in space, and perceived by humans. This is the basis for how we experience pitch, timbre, harmony, and rhythm in music. You will also learn about computer-based representations of sound and music, and get an overview of digital audio, sound synthesis, and analysis. The course provides theoretical knowledge and practical skills for further studies of music psychology and technology.
-
-<!--
-Note types: 
-seealso
-note
-important
-exercise
---> 
+This textbook is written for the course [MUS2640 Sensing Sound and Music](https://www.uio.no/studier/emner/hf/imv/MUS2640/) at the University of Oslo, a foundation course for later studies in *music psychology* and *music technology*. You will be introduced to fundamental principles of acoustics, psychoacoustics, and perception. This includes knowledge about how sound is produced in instruments, reflected in space, and perceived by humans. This is the basis for how we experience pitch, timbre, harmony, and rhythm in music. You will also learn about computer-based representations of sound and music, and get an overview of digital audio, sound synthesis, and analysis. The course provides theoretical knowledge and practical skills for further studies of music psychology and technology.
 
 :::{important} Learning Outcome
 Having completed the course, you will:
@@ -31,23 +23,39 @@ Having completed the course, you will:
 - be able to process, synthesize, and analyze sound.
 :::
 
+## Learn more
+
+::::{grid} 1 1 2 2
+:::{card} MUS2133 Music Psychology
+:link: https://www.uio.no/studier/emner/hf/imv/mus2133/
+This course explores the psychological aspects of music perception and cognition, including auditory perception, emotional responses to music, and the cognitive processes involved in musical activities such as listening, performing, and composing.
+:::
+
+:::{card} MUS2830 Computer Music
+:link: https://www.uio.no/studier/emner/hf/imv/MUS2830/
+This course delves into the intersection of music and technology, covering topics such as sound synthesis, digital audio processing, and algorithmic composition. Gain hands-on experience with tools and techniques used in creating and analyzing music through computational methods.
+:::
+
+:::
+::::
+
 ### Pedagogical Strategy
 
 This course is based on *active learning* and *flipped classroom* techniques. There will be little traditional lecturing. Instead, students are expected to read, watch, listen, and play with various other materials inside and outside the classroom. In-class activities will focus on explaining and discussing core concepts and various practical exercises. This requires active participation, often collaborative. 
 
-Students in the course typically have mixed backgrounds. Everyone usually has some kind of musical background, ranging from classical performance on acoustic instruments to electronic studio production. Some come from psychology, others from computer science, and others again from media studies, philosophy, linguistics, medicine, and more. Everyone is welcome, in-class activities will be adjusted to cater for the collective knowledge and experience of the student group. 
+Students in the course typically have mixed backgrounds. Everyone usually has some kind of musical background, ranging from classical performance on acoustic instruments to electronic studio production. Some come from psychology, others from computer science, and others again from media studies, philosophy, linguistics, medicine, and more. Everyone is welcome! In-class activities will be adjusted to cater to the collective knowledge and experience of the student group. 
 
-This is a *research-based* course, wihch means that the content builds on new research results. All the teachers are active researcers and will bring in perspectives from ongoing projects. Much of this is based on scientific methods, but given the nature of the subject, we also include research that is design-centered or based in artistic practice. We will dwell with these differences at times, since understanding the different epistemological foundations for our knowledge production is important. 
+This is a *research-based* course, which means that the content builds on new research results. All the teachers are active researchers and will bring in perspectives from ongoing projects. Much of this is based on scientific methods, but given the nature of the subject, we also include research that is design-centered or based in artistic practice. We will dwell on these differences at times, since understanding the different epistemological foundations for our knowledge production is important. 
 
-The course is also *research-led* meaning that students will take part in ongoing research. This makes it possible for students to see how "real" research is conducted in practice. It is also valuable for the ongoing projects in the department. Although it is not required, you are encouraged to participate in research activities, contributing to ongoing projects or initiating new ones. This hands-on involvement helps bridge the gap between learning and research, fostering a culture of inquiry and innovation.
+The course is also *research-led*, meaning that students will take part in ongoing research. This makes it possible for students to see how "real" research is conducted in practice. It is also valuable for the ongoing projects in the department. Although it is not required, you are encouraged to participate in research activities, contributing to ongoing projects or initiating new ones. This hands-on involvement helps bridge the gap between learning and research, fostering a culture of inquiry and innovation.
 
 ### Open Education
 
-The course material is developed from the perspective of Open Education, meaning that everything is freely and openly available. This approach ensures that students have unrestricted access to resources, enabling them to revisit and explore the material beyond the course duration. Open Education also promotes collaboration and sharing of knowledge within and outside the academic community. This is important for societal innovation but also for the legitimization of ongoing research. 
+The course material is developed from the perspective of Open Education, meaning that everything is freely and openly available. This approach ensures that students have unrestricted access to resources, enabling them to revisit and explore the material beyond the course duration. Open Education also promotes collaboration and sharing of knowledge within and outside the academic community. This is important for societal innovation and the legitimization of ongoing research. 
 
 Open Education aligns closely with the principles of Open Research, which emphasize transparency, accessibility, and reproducibility. In this course, we aim to integrate these principles by providing access to:
 
-- **Open Publications**: Most of the required reading materials will be openly avaliable, either entirely free ("free as in speech") or through institutional agreements ("free as in beer"). This means that there should be no economic barier for attaining relevant knowledge. 
+- **Open Publications**: Most of the required reading materials will be openly available, either entirely free ("free as in speech") or through institutional agreements ("free as in beer"). This means that there should be no economic barrier for attaining relevant knowledge. 
 
 - **Open Data**: Wherever possible, datasets used in the course will be openly shared. This allows students to analyze, visualize, and interpret data independently, fostering a deeper understanding of the material and encouraging reproducibility in their work.
 
@@ -57,7 +65,7 @@ By adopting these practices, the course not only supports students in their acad
 
 ## Tools
 
-We will explore various tools throughout the semester. You will not learn any of these in detail, but you will see how they work and get an understanding of what they can be used for. These tools are designed to provide a broad overview of the possibilities in music technology and sound analysis:
+We will explore various tools throughout the semester. You will not learn any of these in detail, but you will see how they work and understand their applications. These tools are designed to provide a broad overview of the possibilities in music technology and sound analysis:
 
 - **[Sonic Visualiser](https://www.sonicvisualiser.org/)**: A powerful application for viewing and analyzing the contents of audio files. It allows you to visualize waveforms, spectrograms, and other audio features, making it a valuable tool for music analysis and research.
 
@@ -79,7 +87,7 @@ We will also explore some relevant hardware devices:
 
 - **[Equivital Life Monitors](https://www.equivital.com/)**: Wearable devices designed to monitor physiological data such as heart rate, respiration, and body temperature. These devices are useful for studying the relationship between physiological responses and musical experiences.
 
-Other relevant tools we will briefly look at it includes: 
+Other relevant tools we will briefly look at include: 
 
 - **[Glicol](https://glicol.org/)**: A live coding environment for sound synthesis and algorithmic composition. It is designed to be beginner-friendly while offering powerful capabilities for creating music programmatically.
 
@@ -125,7 +133,7 @@ The current textbook comprises the core curriculum for this course. The followin
 
 - **[The Soundscape: Our Sonic Environment and the Tuning of the World](https://www.innertraditions.com/books/the-soundscape)**: *R. Murray Schafer* (1994), Rochester: Destiny Books. A pioneering exploration of soundscapes and their impact on human perception and culture.
 
-There are some books that serve more as large-scale references of their respective fields: 
+Some books serve more as large-scale references of their respective fields: 
 
 - **[The Computer Music Tutorial](https://www.amazon.com/Computer-Music-Tutorial-Curtis-Roads/dp/0262680823)**: *Curtis Roads* (1996), Cambridge: The MIT Press. A definitive guide to the principles and practices of computer music, covering both theory and application.
 
@@ -177,18 +185,3 @@ This list provides a mix of foundational texts, recent research, and multimedia 
 ```{tableofcontents}
 ```
 
-## Learn more
-
-::::{grid} 1 1 2 2
-:::{card} MUS2133 Music Psychology
-:link: https://www.uio.no/studier/emner/hf/imv/mus2133/
-This course explores the psychological aspects of music perception and cognition, including auditory perception, emotional responses to music, and the cognitive processes involved in musical activities such as listening, performing, and composing.
-:::
-
-:::{card} MUS2830 Computer Music
-:link: https://www.uio.no/studier/emner/hf/imv/MUS2830/
-This course delves into the intersection of music and technology, covering topics such as sound synthesis, digital audio processing, and algorithmic composition. Gain hands-on experience with tools and techniques used in creating and analyzing music through computational methods.
-:::
-
-:::
-::::
