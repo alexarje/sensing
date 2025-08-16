@@ -6,7 +6,7 @@ exports:
   - format: pdf
 ---
 
-# Introduction
+## Introduction
 
 <figure style="float: right; margin-left: 20px;">
     <img src="figures/cover/sensing-sound-and-music-cover-horizontal-600px.jpg" alt="Book cover" width="600">

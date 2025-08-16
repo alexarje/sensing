@@ -9,10 +9,34 @@ exports:
 
 ## Describing sounds
 
-Academic approaches to describing sounds and soundscapes vary across disciplines, each offering distinct frameworks and terminology:
+Recall last week's discussion about hearing and listening. We will get back to the mechanisms for hearing in the coming weeks&mdash;both the acoustics and psychoacoustics part of the matter&mdash;but this week will focus on how we listen and what we listen to. 
+
+```{exercise} Listen when standing
+1. Find a suitable location.
+2. Stand still for two minutes with your eyes closed.
+3. Listen attentively to the environment.
+4. Open your eyes and stand still for another two minutes.
+5. Listen attentively to the environment.
+6. Write down some reflections about what you heard. Did it change after opening the eyes?
+```
+
+### Many approaches to describing sounds
+
+Academic approaches to describing sounds and soundscapes vary across the main disciplines of musicology, psychology, and technology, but there are also various subfields, each offering distinct frameworks and terminology:
+
+- **Acoustics**: Focuses on the physical properties of sound waves, such as frequency, amplitude, duration, and propagation in different media.  
+	*Example*: An acoustician might describe a clap in a concert hall as "a broadband impulse with a peak amplitude of 85 dB SPL, followed by a reverberation decay time of 1.8 seconds," using measurements and graphs to illustrate how sound behaves in the space.
+
+- **Psychoacoustics**: Investigates how humans perceive sound, using quantitative measures (frequency, loudness, spatial location) and perceptual attributes (brightness, roughness).  
+	*Example*: A psychoacoustic study might report that "a 1000 Hz tone at 60 dB SPL is perceived as moderately loud and bright," and compare listener responses to tones with varying roughness or spatial placement.
 
 - **Music theory**: Focus on musical parameters (pitch, rhythm, timbre, dynamics) and cultural context.  
-	*Example*: A musicologist might describe a violin note as "a sustained, high-pitched tone with a bright timbre and gradual crescendo," using notation or a spectrogram to illustrate its frequency and amplitude over time.
+	*Example*: A musicologist might describe a violin note as "a sustained, high-pitched tone with a bright timbre and gradual crescendo," using musical notation or a spectrogram to illustrate its frequency and amplitude over time.
+
+- **Spectromorphology**: This specialized form of music theory analyzes the spectral (frequency) and morphological (shape, evolution) characteristics of sounds.  
+	*Example*: A spectromorphological analysis could describe a cymbal crash as "an impulsive onset followed by a complex, evolving spectrum that decays over several seconds," visualized with a spectrogram showing frequency content over time.
+
+All of these descriptions focus specifically on describing the sound "itself" or how we *hear* it. There are also several approaches to studying the effects of sound on people or environments: 
 
 - **Sound Studies**: An interdisciplinary field that examines sound as a cultural, social, and material phenomenon. Sound studies draw from media studies, anthropology, history, and philosophy to explore how sound shapes and is shaped by society, technology, and everyday life.  
 	*Example*: A sound studies scholar might analyze how urban noise regulations reflect social attitudes toward public space, or investigate the role of sound in shaping collective memory and identity.
@@ -20,26 +44,14 @@ Academic approaches to describing sounds and soundscapes vary across disciplines
 - **Acoustic Ecology**: Emphasizes environmental context, categorizing sounds as keynote, signal, or soundmark (Schafer). Soundscapes are described in terms of their ecological function and impact.  
 	*Example*: An acoustic ecologist could document a city park by noting "birdsong as a keynote, a distant siren as a signal, and the hourly chime of a church bell as a soundmark," analyzing how each sound shapes the experience of the space.
 
-- **Psychoacoustics**: Investigates how humans perceive sound, using quantitative measures (frequency, loudness, spatial location) and perceptual attributes (brightness, roughness).  
-	*Example*: A psychoacoustic study might report that "a 1000 Hz tone at 60 dB SPL is perceived as moderately loud and bright," and compare listener responses to tones with varying roughness or spatial placement.
-
-- **Spectromorphology**: Developed by Schaeffer and later expanded by Denis Smalley, this approach analyzes the spectral (frequency) and morphological (shape, evolution) characteristics of sounds.  
-	*Example*: A spectromorphological analysis could describe a cymbal crash as "an impulsive onset followed by a complex, evolving spectrum that decays over several seconds," visualized with a spectrogram showing frequency content over time.
-
 - **Ethnography and Anthropology**: Uses qualitative methods such as interviews, field notes, and participatory observation to describe how communities interact with and interpret their sonic environments.  
 	*Example*: An ethnographer might record that "local residents describe the evening call to prayer as calming and unifying," supplementing this with field notes and interviews about its social significance.
 
 - **Linguistics and Semiotics**: Examines the meaning and communicative function of sounds, including onomatopoeia, prosody, and sound symbolism.  
 	*Example*: A linguist could analyze the word "buzz" as onomatopoeic, noting how its sound mimics the noise of a bee, or study how rising intonation in speech signals a question.
 
-Each approach provides tools for describing not only the physical properties of sounds but also their meaning, context, and impact on listeners.
+There is no right or wrong when it combines to studying sound. All of these approaches (and more) aim to uncover various aspects of both the physical properties of sounds but also their meaning, context, and impact on listeners. We won't have time to cover all of these in detail in this course, but will look more closely at some of the closest ones to the fields of music psychology and technology.
 
-```{exercise} Standstill Paradigm
-1. Find a suitable location.
-2. Stand still for ten minutes with your eyes closed.
-3. Listen attentively to the environment.
-4. Write a brief reflection on the sounds you noticed and how your perception changed during the exercise.
-```
 
 ## Soundscapes
 
