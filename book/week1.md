@@ -74,11 +74,7 @@ Psychology in music focuses on understanding how humans perceive, process, and r
 
 These principles help us understand the universal and individual ways in which music impacts human experience, providing insights into both the psychological and cultural dimensions of music. In this course, we will primarily investigate perception, but also touch briefly upon cognition and behavior.
 
-Music psychology is a thriving field internationally. Given its interdisciplinary nature, researchers are typically working in either musicology or psychology departments, which also often "skews" the research in one or the other direction. Researchers more on the musicology side tend to be more focused on real-world musical experiences, what is often termed "ecological validity" and using (more) qualitative methods. Researchers more on the psychology side typically work more on controlled experiments and using quantitative methods.
-
-While many researchers in music psychology may often feel "alone" in their respective departments, there are a few larger and specialized departments or research centers that focus on music psychology specifically. In these institutions, one can often see the width of the field, covering many different theoretical and methodological perspectives. 
-
-For those interested, there are numerous international communities, conferences and journals for music psychology. These conferences provide excellent opportunities for networking, collaboration, and staying updated on the latest research.
+Music psychology is a thriving field internationally. There are numerous international communities, conferences and journals for music psychology. These conferences provide excellent opportunities for networking, collaboration, and staying updated on the latest research.
 
 <details>
 <summary>Conferences and Communities in Music Psychology</summary>
@@ -103,6 +99,10 @@ For those interested, there are numerous international communities, conferences 
 - **[Musicae Scientiae](https://journals.sagepub.com/home/msx)**: The journal of the European Society for the Cognitive Sciences of Music, publishing research on music psychology, cognition, perception, and interdisciplinary studies.
 </details>
 
+Given its interdisciplinary nature, researchers are typically working in either musicology or psychology departments, which also often "skews" the research in one or the other direction. Researchers more on the musicology side tend to be more focused on real-world musical experiences, what is often termed "ecological validity" and using (more) qualitative methods. Researchers more on the psychology side typically work more on controlled experiments and using quantitative methods.
+
+While many researchers in music psychology may often feel "alone" in their respective departments, there are a few larger and specialized departments or research centers that focus on music psychology specifically. In these institutions, one can often see the width of the field, covering many different theoretical and methodological perspectives. 
+
 ## Fundamentals of Music Technology
 
 Technology in music involves the use of tools and systems to create, analyze, and manipulate sound. Key areas include:
@@ -112,15 +112,7 @@ Technology in music involves the use of tools and systems to create, analyze, an
 - **Music Information Retrieval (MIR)**: Extracting meaningful information from audio data, such as tempo, key, and genre classification.
 - **Interactive Systems**: Designing systems that respond to user input, enabling real-time music creation and performance.
 
-These technologies expand the possibilities for music creation and analysis, offering new ways to explore and innovate within the field.
-
-When comparing them, there are some important differences between music technology and music psychology as disciplines. Music psychology is primarily a *scientific* field of study, focused on understanding how humans perceive, process, and respond to music through empirical research and theoretical frameworks. Its methods are rooted in experimental design, data analysis, and psychological theory, aiming to uncover universal principles and individual variations in musical experience.
-
-Music technology, on the other hand, spans several domains: science, art, design, and engineering. It encompasses scientific research into sound and audio processing, artistic exploration through composition and performance, design of musical instruments and interfaces, and engineering of hardware and software systems. Music technologists may work on developing new tools for music creation, analyzing audio signals, designing interactive installations, or exploring creative possibilities in digital media. This diversity means that music technology is not limited to scientific inquiry but also includes creative practice, technical innovation, and user-centered design.
-
-Given its many directions, music technologists typically work in many different types of departments: computer science, eletrical or mechanical engineering, design and art schools, but also within musicology departments and music conservatories. As for psychologists, this instutional basis often also influences the directions taken. 
-
-If you are curious, there are also many journals, communities and annual conferencesin music technology.
+These technologies expand the possibilities for music creation and analysis, offering new ways to explore and innovate within the field. There are also many international journals, communities and annual conferences in music technology.
 
 <details>
 <summary>Conferences and Communities in Music Technology</summary>
@@ -136,7 +128,7 @@ If you are curious, there are also many journals, communities and annual confere
 </details>
 
 <details>
-<summary>Journsl in Music Technology</summary>
+<summary>Journals in Music Technology</summary>
 
 - **[Computer Music Journal](https://direct.mit.edu/comj)**: Focuses on digital audio, sound synthesis, and computer-assisted composition, providing insights into the intersection of music and technology.
 
@@ -152,6 +144,12 @@ If you are curious, there are also many journals, communities and annual confere
 
 - **[Transactions of the International Society for Music Information Retrieval (TISMIR)](https://transactions.ismir.net/)**: Publishes open-access research on music information retrieval, covering topics such as audio analysis, machine learning, and music data processing.
 </details>
+
+When comparing them, there are some important differences between music technology and music psychology as disciplines. Music psychology is primarily a *scientific* field of study, focused on understanding how humans perceive, process, and respond to music through empirical research and theoretical frameworks. Its methods are rooted in experimental design, data analysis, and psychological theory, aiming to uncover universal principles and individual variations in musical experience.
+
+Music technology, on the other hand, spans several domains: science, art, design, and engineering. It encompasses scientific research into sound and audio processing, artistic exploration through composition and performance, design of musical instruments and interfaces, and engineering of hardware and software systems. Music technologists may work on developing new tools for music creation, analyzing audio signals, designing interactive installations, or exploring creative possibilities in digital media. This diversity means that music technology is not limited to scientific inquiry but also includes creative practice, technical innovation, and user-centered design.
+
+Given its many directions, music technologists typically work in many different types of departments: computer science, eletrical or mechanical engineering, design and art schools, but also within musicology departments and music conservatories. As for psychologists, this instutional basis often also influences the directions taken. 
 
 ## Listening to the world
 
