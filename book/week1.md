@@ -41,7 +41,7 @@ Can you think of other words with a "logy" at the end? What do they mean?
 
 By the end of the course, you will have learned some of the basic terminology, theories, and methods used in all these directions. 
 
-### Fundamentals of Music Psychology
+## Fundamentals of Music Psychology
 
 Psychology in music focuses on understanding how humans perceive, process, and respond to sound and music. This includes exploring topics such as:
 
@@ -52,7 +52,6 @@ Psychology in music focuses on understanding how humans perceive, process, and r
 
 These principles help us understand the universal and individual ways in which music impacts human experience, providing insights into both the psychological and cultural dimensions of music.
 
-```markdown
 <details>
 <summary>Conferences and Communities in Music Psychology</summary>
 
@@ -63,11 +62,10 @@ These principles help us understand the universal and individual ways in which m
 - **[APSCOM (Asia-Pacific Society for the Cognitive Sciences of Music)](https://www.apscom.org/)**: A regional society that promotes research and collaboration in the cognitive sciences of music across the Asia-Pacific region.
 - **[ICCMR (International Conference on Cognitive Musicology and Research)](https://www.iccmr.org/)**: A conference focusing on the intersection of cognitive science and musicology, exploring how humans understand and interact with music.
 - **[Music and Neurosciences](https://www.fondazione-mariani.org/en/music-and-neurosciences/)**: A conference series exploring the relationship between music and brain function, organized by the Mariani Foundation.
-
 </details>
-```
 
 These conferences provide excellent opportunities for networking, collaboration, and staying updated on the latest research in music psychology and cognition.
+
 <details>
 <summary>Journals in Music Psychology</summary>
 
@@ -86,7 +84,7 @@ These journals provide valuable insights and are excellent resources for staying
 </details>
 
 
-### Fundamentals of Music Technology
+## Fundamentals of Music Technology
 
 Technology in music involves the use of tools and systems to create, analyze, and manipulate sound. Key areas include:
 
@@ -100,6 +98,9 @@ These technologies expand the possibilities for music creation and analysis, off
 Music technology is a thriving scientific discipline with numerous annual conferences and related communities: [ICMC](https://www.computermusic.org/), [SMC](https://smcnetwork.org/), [NIME](https://www.nime.org/), [CMMR](https://cmmr2023.sciencesconf.org/), [ICAD](https://icad.org/), [DAFx](https://www.dafx.de/), [ISMIR](https://www.ismir.net/), [AES](https://www.aes.org/), [TENOR](https://tenor-conference.org/), [ICLI](https://www.liveinterfaces.org/).
 
 
+
+<details>
+<summary>Conferences and Communities in Music Technology</summary>
 For those interested in music technology, the following journals are essential resources for cutting-edge research and developments in the field:
 
 - **[Computer Music Journal](https://direct.mit.edu/comj)**: Focuses on digital audio, sound synthesis, and computer-assisted composition, providing insights into the intersection of music and technology.
@@ -115,6 +116,7 @@ For those interested in music technology, the following journals are essential r
 - **[Frontiers in Digital Humanities: Digital Musicology](https://www.frontiersin.org/journals/digital-humanities/sections/digital-musicology)**: Explores the application of digital tools and methods to music analysis, composition, and performance.
 
 - **[Transactions of the International Society for Music Information Retrieval (TISMIR)](https://transactions.ismir.net/)**: Publishes open-access research on music information retrieval, covering topics such as audio analysis, machine learning, and music data processing.
+</details>
 
 ### Psychological vs technological approaches to sound and music
 
