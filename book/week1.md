@@ -39,6 +39,23 @@ Multimodality refers to the integration and interaction of multiple sensory moda
 Psychological approaches to sound and music focus on understanding human perception, cognition, and emotion. These approaches investigate how individuals experience music, from the neural mechanisms of auditory processing to the cultural and social factors that shape musical preferences. In contrast, technological approaches leverage tools such as audio analysis algorithms, machine learning, and virtual reality to study and create music. While psychological approaches emphasize the human element, technological approaches provide new methods for analyzing and generating sound. Integrating these perspectives can lead to innovative insights, bridging the gap between human experience and technological possibilities in music.
 
 
+## Psychology + Technology
+
+By the end of the course, you will have learned some of the basic terminology, theories, and methods used in music psychology and music technology. This includes understanding how psychological principles apply to music perception and cognition, as well as how technological tools can be used to analyze and create music. The integration of these fields provides a holistic perspective on the study of sound and music.
+
+- **Musicology**: The study of music's history, theory, and cultural context
+- **Psychology**: The study of human perception, cognition, and behavior
+- **Technology**: The study of arts, crafts, and tools 
+
+These can then be combined to form: 
+
+- **Music Psychology**: The study of how humans perceive and respond to music
+- **Music Technology**: The study of tools and machines for music creation, experience and understanding
+
+(lookout-for-tutorial-actions)=
+
+> Throughout the tutorial, whenever you're supposed to _do_ something you will see a
+
 
 
 ### Fundamentals of Music Psychology
