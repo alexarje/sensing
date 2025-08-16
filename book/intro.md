@@ -47,7 +47,7 @@ The course material is developed from the perspective of Open Education, meaning
 
 Open Education aligns closely with the principles of Open Research, which emphasize transparency, accessibility, and reproducibility. In this course, we aim to integrate these principles by providing access to:
 
-- **Open Publications**: Most of the required reading materials will be openly available, either entirely free ("free as in speech") or through institutional agreements ("free as in beer"). This means that there should be no economic barrier for attaining relevant knowledge. 
+- **Open Publications**: Most of the required reading materials will be openly available, either entirely free ("free as in speech") or through institutional agreements ("free as in beer"). This means that there should be no economic barrier to attaining relevant knowledge. 
 
 - **Open Data**: Wherever possible, datasets used in the course will be openly shared. This allows students to analyze, visualize, and interpret data independently, fostering a deeper understanding of the material and encouraging reproducibility in their work.
 
@@ -57,13 +57,13 @@ By adopting these practices, the course not only supports students in their acad
 
 ### Embracing AI
 
-In this course, we will actively explore the use of *artificial intelligence* both for exploring the content of the course but also as a pedagogical tool. There are currently many available AI tools, yet they are underexplored. We will try different tools and evaluate how they work. 
+In this course, we will actively explore the use of *artificial intelligence* both for exploring the content of the course but also as a pedagogical tool. There are currently many available AI tools, yet they are underexploited. We will try different tools and evaluate their effectiveness. 
 
-This textbook is an example of AI-based *co-creation*. Sections of the text are partly&mdash;or even fully&mdash;written by large language models. However, everything has been going through human "peer review" to ensure that things are fine. Throughout the course, we will explore when AI can safely be used for text generation, and when it fails. 
+This textbook is an example of AI-based *co-creation*. Sections of the text are partly&mdash;or even fully&mdash;written by large language models. However, everything has been going through a human "peer review" to ensure that everything is in order. Throughout the course, we will explore when AI can safely be used for text generation and when it fails. 
 
 As an educator, using AI tools can help streamline administrative tasks and speed up content creation, which frees up time for meaningful interactions with students. It can help identify patterns in student performance, enabling targeted support and early intervention. AI-driven analytics offer insights into class engagement and learning outcomes, supporting data-informed teaching strategies.
 
-Students should also use AI actively. AI-powered platforms can adapt content and feedback to individual learning styles and paces, helping students master concepts more effectively. However, AI-based tools should be used widely, they are there to help learning not to replace it. After all, the exam will be performed without any tools. Then you will need to think and write on your own!
+Students should also use AI actively. AI-powered platforms can adapt content and feedback to individual learning styles and paces, helping students master concepts more effectively. However, AI-based tools should be used wisely; they are there to help learning, not to replace it. After all, the exam will be performed without any tools. Then you will need to think and write on your own!
 
 
 
