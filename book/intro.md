@@ -71,17 +71,30 @@ Students should also use AI actively. AI-powered platforms can adapt content and
 
 We will explore various tools throughout the semester. You will not learn any of these in detail, but you will see how they work and understand their applications. These tools are designed to provide a broad overview of the possibilities in music technology and sound analysis:
 
+<details>
+<summary>Software</summary>
+
 - **[Sonic Visualiser](https://www.sonicvisualiser.org/)**: A powerful application for viewing and analyzing the contents of audio files. It allows you to visualize waveforms, spectrograms, and other audio features, making it a valuable tool for music analysis and research.
 
 - **[Python - Jupyter Notebook](https://jupyter.org/)**: An open-source web application that enables you to create and share documents containing live code, equations, visualizations, and narrative text. It is widely used for data analysis, including audio and music data.
 
 - **[Pure Data (Pd)](https://puredata.info/)**: An open-source visual programming language for audio and multimedia. It is widely used for sound synthesis, audio processing, and interactive installations.
 
-- **[Freesound](https://freesound.org/)**: A collaborative online database of sound samples. It provides access to a wide variety of sounds that can be used for music production, sound design, and research.
+- **[Max](https://cycling74.com/products/max)**: A visual programming environment for music and multimedia. It allows you to create custom audio and visual applications, making it a versatile tool for creative projects.
+
+- **[Audiostellar](https://audiostellar.xyz/)**: A unique tool for exploring and organizing sound samples using a visual interface. It helps you discover relationships between sounds and create new compositions.
+</details>
+
+<details>
+<summary>Mobile phone apps</summary>
 
 - **[Noise Capture](https://noise-planet.org/noisecapture.html)**: A mobile app for recording and analyzing environmental noise. It is useful for studying soundscapes and understanding the impact of noise in different environments.
+</details>
 
-We will also explore some relevant hardware devices: 
+- **[Freesound](https://freesound.org/)**: A collaborative online database of sound samples. It provides access to a wide variety of sounds that can be used for music production, sound design, and research.
+
+<details>
+<summary>Hardware</summary>
 
 - **[LittleBits](https://littlebits.com/)**: A platform of modular electronic components that snap together to create interactive projects. It is a fun and creative way to explore sound synthesis and music-making.
 
@@ -90,18 +103,7 @@ We will also explore some relevant hardware devices:
 - **[OptiTrack Motion Capture](https://optitrack.com/)**: A high-precision motion capture system used for tracking movement in 3D space. It is widely used in research, gaming, and performance arts to analyze and visualize motion, including applications in music and sound interaction.
 
 - **[Equivital Life Monitors](https://www.equivital.com/)**: Wearable devices designed to monitor physiological data such as heart rate, respiration, and body temperature. These devices are useful for studying the relationship between physiological responses and musical experiences.
-
-Other relevant tools we will briefly look at include: 
-
-- **[Glicol](https://glicol.org/)**: A live coding environment for sound synthesis and algorithmic composition. It is designed to be beginner-friendly while offering powerful capabilities for creating music programmatically.
-
-- **[WAXML](https://www.waxml.org/)**: A framework for creating interactive audio experiences using web technologies. It simplifies the process of building audio applications for the web.
-
-- **[P5.js](https://p5js.org/)**: A JavaScript library for creative coding, with a focus on making coding accessible and inclusive. It is often used for creating visual and audio-based interactive projects.
-
-- **[Max](https://cycling74.com/products/max)**: A visual programming environment for music and multimedia. It allows you to create custom audio and visual applications, making it a versatile tool for creative projects.
-
-- **[Audiostellar](https://audiostellar.xyz/)**: A unique tool for exploring and organizing sound samples using a visual interface. It helps you discover relationships between sounds and create new compositions.
+</details>
 
 
 
