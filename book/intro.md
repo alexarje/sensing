@@ -138,7 +138,7 @@ Some books serve more as large-scale references of their respective fields:
 
 <details>
 <summary>Relevant Norwegian-language books</summary>
-There are not many relevant books in Norwegian, but here are some: 
+There are not many relevant books in Norwegian, but here are some:
 
 - **Musikkvitenskap: Introduksjon og Perspektiver**: *Even Ruud* (2005), Oslo: Universitetsforlaget. An introductory Norwegian textbook covering key perspectives and approaches in musicology.
 

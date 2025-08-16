@@ -55,7 +55,7 @@ There is no right or wrong when it combines to studying sound. All of these appr
 
 ## Soundscapes
 
-Soundscapes refer to the acoustic environment as perceived or experienced by people, encompassing all the sounds that arise from both natural and human-made sources. Describing soundscapes involves several dimensions:
+A *soundscape* refers to the acoustic environment as perceived or experienced by people, encompassing all the sounds that arise from both natural and human-made sources. Describing soundscapes involves several dimensions:
 
 - **Physical Properties**: Documenting the types of sounds present (e.g., birdsong, traffic, water), their frequency ranges, loudness, and temporal patterns.
 - **Ecological Function**: Identifying the roles sounds play in the environment, such as signaling, masking, or providing information about ecological health.
@@ -66,6 +66,51 @@ Soundscapes refer to the acoustic environment as perceived or experienced by peo
 
 A comprehensive description of a soundscape often combines objective measurements (such as decibel levels and frequency analysis) with subjective impressions and contextual information, providing a holistic understanding of the sonic environment.
 
+
+### R. Murray Schafer and Acoustic Ecology
+[R. Murray Schafer](https://en.wikipedia.org/wiki/R._Murray_Schafer) (1933–2021) was a pioneer of the [World Soundscape Project](https://en.wikipedia.org/wiki/World_Soundscape_Project). He introduced key concepts such as:
+- **[Soundscape](https://en.wikipedia.org/wiki/Soundscape)**: The acoustic environment as perceived by humans.
+- **[Schizophonia](https://en.wikipedia.org/wiki/Schizophonia)**: The separation of a sound from its source, often through recording technology.
+- **Composed environments**: The intentional design of soundscapes.
+
+Schafer inspired the [World Forum for Acoustic Ecology (WFAE) Conference](https://www.wfae.net/), an international gathering bringing together researchers, artists, educators, and practitioners to explore the relationship between humans and their sonic environments.
+
+
+### Hildegard Westerkamp and Soundwalking
+[Hildegard Westerkamp](https://en.wikipedia.org/wiki/Hildegard_Westerkamp) (1946–) advocated for [soundwalking](https://en.wikipedia.org/wiki/Soundwalking), a reflective practice of walking and listening to the environment. Her work was influenced by Schafer and the World Soundscape Project. 
+
+Soundwalking is not only a practice of listening but also a method of engaging with the environment in a mindful and reflective way. It encourages participants to become aware of the acoustic ecology of their surroundings, fostering a deeper connection to place and community. Soundwalking can be used as a tool for artistic inspiration, environmental awareness, and even therapeutic purposes. 
+
+Key aspects of soundwalking include:
+- **Active Listening**: Paying close attention to the layers of sound in the environment, from the most prominent to the subtle.
+- **Contextual Awareness**: Understanding how sounds interact with the physical and social context of a space.
+- **Documentation**: Participants may choose to record sounds, take notes, or create maps to capture their auditory experience.
+
+Soundwalking has been incorporated into various disciplines, including music, urban studies, and environmental science, as a way to explore the relationship between humans and their sonic environments.
+
+
+```{exercise} Sound Walking
+1. Walk slowly in a group, without talking 
+2. Stop whenever you hear something interesting 
+3. Write a note on why you stopped and what was interesting
+```
+
+- **[Ecoacoustics](https://en.wikipedia.org/wiki/Ecoacoustics)**: The study of ecological relationships through sound.
+- **[Acoustic ecology](https://en.wikipedia.org/wiki/Acoustic_ecology)**: Examines the relationship between humans and their sonic environment.
+
+```{exercise} Soundwalk
+1. Walk slowly in a group, without talking.
+2. Stop whenever you hear something interesting.
+3. Write a note explaining why you stopped and what was interesting about the sound.
+```
+### Eric Clarke's Ecological Listening
+
+[Eric Clarke](https://en.wikipedia.org/wiki/Eric_Clarke) explores the concept of **ecological listening**, which is grounded in **ecological perception theory**. This approach emphasizes:
+- **Direct perception**: Listeners perceive sounds in relation to their environment without needing extensive cognitive processing.
+- **Affordances**: Sounds provide cues about actions or interactions possible within a given environment.
+- **Contextual listening**: The meaning of sounds is shaped by their environmental and situational context.
+
+Clarke's work bridges psychology, musicology, and acoustic ecology, offering insights into how humans engage with sound as part of their lived experience.
 
 ## Sound objects
 
@@ -79,11 +124,6 @@ He developed a taxonomy for classifying sound objects based on their temporal an
 
 Schaeffer's spectromorphological framework allows for detailed analysis of how sounds evolve over time and how their frequency content changes. This approach is foundational in electroacoustic music and sound design, providing tools to describe, compare, and manipulate sounds independently of their sources or cultural associations.
 
-
-
-## Influential people and theories
-
-This week, we will focus on some influential thinkers and practitioners from the 20th century that have contributed to our current understanding as a phenomenon. 
 
 ### Pierre Schaeffer and the Sound Object
 
@@ -117,34 +157,20 @@ Chion's framework refines Schaeffer's ideas, providing a structured approach to 
 Synchresis, a term coined by Michel Chion, refers to the perceptual phenomenon where a sound and a visual event are perceived as occurring simultaneously, even if they are artificially synchronized. This concept is central to audiovisual theory, as it highlights the human tendency to create a cohesive relationship between what is seen and heard. Synchresis plays a crucial role in film sound design, where it is used to enhance the emotional and narrative impact of scenes by aligning specific sounds with visual actions, regardless of their actual source or origin.
 
 
-### R. Murray Schafer and Acoustic Ecology
-[R. Murray Schafer](https://en.wikipedia.org/wiki/R._Murray_Schafer) (1933–2021) was a pioneer of the [World Soundscape Project](https://en.wikipedia.org/wiki/World_Soundscape_Project). He introduced key concepts such as:
-- **[Soundscape](https://en.wikipedia.org/wiki/Soundscape)**: The acoustic environment as perceived by humans.
-- **[Schizophonia](https://en.wikipedia.org/wiki/Schizophonia)**: The separation of a sound from its source, often through recording technology.
-- **Composed environments**: The intentional design of soundscapes.
+### Expanding Schaeffer’s thinking
 
-Schafer inspired the [World Forum for Acoustic Ecology (WFAE) Conference](https://www.wfae.net/), an international gathering bringing together researchers, artists, educators, and practitioners to explore the relationship between humans and their sonic environments.
+Several theorists have built upon Pierre Schaeffer’s foundational ideas about sound objects and listening:
 
+- **Dennis Smalley** (University of London) introduced and formalized the concept of *spectromorphology*, providing a comprehensive vocabulary for describing the spectral and morphological evolution of sounds. Smalley’s approach is widely used in electroacoustic music analysis and has helped clarify how listeners perceive the shape and transformation of sound objects over time.
 
-### Hildegard Westerkamp and Soundwalking
-[Hildegard Westerkamp](https://en.wikipedia.org/wiki/Hildegard_Westerkamp) (1946–) advocated for [soundwalking](https://en.wikipedia.org/wiki/Soundwalking), a reflective practice of walking and listening to the environment. Her work was influenced by Schafer and the World Soundscape Project. 
+- **Lasse Thoresen** (Norwegian Academy of Music) has expanded spectromorphological analysis, creating practical frameworks for describing and notating sound objects in both electroacoustic and acoustic music. Thoresen’s work bridges theory and practice, making Schaeffer’s taxonomy accessible for composers and analysts.
 
-Soundwalking is not only a practice of listening but also a method of engaging with the environment in a mindful and reflective way. It encourages participants to become aware of the acoustic ecology of their surroundings, fostering a deeper connection to place and community. Soundwalking can be used as a tool for artistic inspiration, environmental awareness, and even therapeutic purposes. 
-
-Key aspects of soundwalking include:
-- **Active Listening**: Paying close attention to the layers of sound in the environment, from the most prominent to the subtle.
-- **Contextual Awareness**: Understanding how sounds interact with the physical and social context of a space.
-- **Documentation**: Participants may choose to record sounds, take notes, or create maps to capture their auditory experience.
-
-Soundwalking has been incorporated into various disciplines, including music, urban studies, and environmental science, as a way to explore the relationship between humans and their sonic environments.
+- **Rolf Inge Godøy** (University of Oslo) has advanced Schaeffer’s concepts by developing detailed models for how listeners perceive and mentally represent sound objects. Godøy’s work emphasizes *gestural-sonorous objects*, linking sound perception to physical gestures and movement, and has contributed to the field of *music cognition* and *morphological analysis*.
 
 
-```{exercise} Sound Walking
-1. Walk slowly in a group, without talking 
-2. Stop whenever you hear something interesting 
-3. Write a note on why you stopped and what was interesting
-```
+## Artistic explorations
 
+This week, we will focus on some influential thinkers and practitioners from the 20th century that have contributed to our current understanding as a phenomenon. 
 
 ### John Cage and 4'33''
 
@@ -167,14 +193,7 @@ graph LR
 	Feedback["Feedback Loop"] -->|Adjustment| Processor
 ```
 
-### Eric Clarke's Ecological Listening
 
-[Eric Clarke](https://en.wikipedia.org/wiki/Eric_Clarke) explores the concept of **ecological listening**, which is grounded in **ecological perception theory**. This approach emphasizes:
-- **Direct perception**: Listeners perceive sounds in relation to their environment without needing extensive cognitive processing.
-- **Affordances**: Sounds provide cues about actions or interactions possible within a given environment.
-- **Contextual listening**: The meaning of sounds is shaped by their environmental and situational context.
-
-Clarke's work bridges psychology, musicology, and acoustic ecology, offering insights into how humans engage with sound as part of their lived experience.
 
 ### Other notable figures
 
@@ -185,18 +204,18 @@ Several authors have also written about critical and cultural perspectives:
 - **[Julia Kristeva](https://en.wikipedia.org/wiki/Julia_Kristeva)**: Investigated the creative process in sound.
 
 - **[Barry Truax](https://en.wikipedia.org/wiki/Barry_Truax)**: Explored synthesis and soundscape composition.
-- **[Ecoacoustics](https://en.wikipedia.org/wiki/Ecoacoustics)**: The study of ecological relationships through sound.
-- **[Acoustic ecology](https://en.wikipedia.org/wiki/Acoustic_ecology)**: Examines the relationship between humans and their sonic environment.
 
-```{exercise} Soundwalk
-1. Walk slowly in a group, without talking.
-2. Stop whenever you hear something interesting.
-3. Write a note explaining why you stopped and what was interesting about the sound.
-```
 
-### Tools and Techniques
+## Capturing sound
 
-#### Microphones
+### Writing about sound
+
+### Drawing sounds
+
+### Recording sounds
+
+Microphones
+
 - **Types**:
   - [Dynamic microphones](https://en.wikipedia.org/wiki/Microphone#Dynamic_microphones).
   - [Condenser microphones](https://en.wikipedia.org/wiki/Microphone#Condenser_microphones).
@@ -216,8 +235,6 @@ Several authors have also written about critical and cultural perspectives:
 2. Stop whenever you hear something interesting 
 3. Upload at least one sound to Freesound.org
 ```
-
-
 
 
 ## References
