@@ -51,6 +51,12 @@ Intradisciplinary work stays within a single discipline, while crossdisciplinary
 
 One approach is not better than another and many researchers combine their approach dependent on the project type. Still, it is helpful to consider these differences when we start approaching each discipline and look at how they combine theories and methods. 
 
+```{admonition} Question
+:class: question
+How do you define your own background in terms of disciplinarity?
+```
+
+
 ### Concepts, theories, methods
 
 An academic discipline is generally characterized by a distinct set of concepts, theories, and methods that guide inquiry and knowledge production within a particular field. Disciplines have established traditions, specialized terminology, and recognized standards for evaluating research and scholarship. They often possess dedicated journals, conferences, and professional organizations that foster communication and development among practitioners. The boundaries of a discipline are shaped by its historical evolution, core questions, and the types of problems it seeks to address, providing a framework for systematic study and advancement of understanding.
@@ -81,7 +87,6 @@ For those interested, there are numerous international communities, conferences 
 - **[ESCOM (European Society for the Cognitive Sciences of Music)](https://escom2021.org/)**: A society that organizes conferences and promotes research in the cognitive sciences of music.
 - **[ICMPC (International Conference on Music Perception and Cognition)](https://icmpc.org/)**: A biennial conference that brings together researchers from around the world to discuss music perception and cognition.
 - **[SMPC (Society for Music Perception and Cognition)](https://www.musicperception.org/)**: A society that hosts conferences and fosters research on the psychological and cognitive aspects of music.
-- **[APSCOM (Asia-Pacific Society for the Cognitive Sciences of Music)](https://www.apscom.org/)**: A regional society that promotes research and collaboration in the cognitive sciences of music across the Asia-Pacific region.
 - **[ICCMR (International Conference on Cognitive Musicology and Research)](https://www.iccmr.org/)**: A conference focusing on the intersection of cognitive science and musicology, exploring how humans understand and interact with music.
 - **[Music and Neurosciences](https://www.fondazione-mariani.org/en/music-and-neurosciences/)**: A conference series exploring the relationship between music and brain function, organized by the Mariani Foundation.
 </details>
@@ -89,17 +94,14 @@ For those interested, there are numerous international communities, conferences 
 <details>
 <summary>Journals in Music Psychology</summary>
 
-Some of the key journals in music psychology:
-
 - **[Music Perception](https://online.ucpress.edu/mp)**: A leading journal that publishes research on the perception and cognition of music, including studies on auditory processing, musical memory, and emotional responses.
-- **[Psychomusicology: Music, Mind, and Brain](https://www.apa.org/pubs/journals/pmu/)**: Focuses on the psychological and neuroscientific aspects of music, covering topics such as music therapy, performance, and creativity.
 - **[Journal of New Music Research](https://www.tandfonline.com/toc/nnmr20/current)**: Explores the intersection of music psychology, technology, and theory, with an emphasis on computational and experimental approaches.
 - **[Empirical Musicology Review](https://emusicology.org/)**: Publishes empirical studies on music perception, cognition, and performance, as well as reviews of current research.
 - **[Psychology of Music](https://journals.sagepub.com/home/pom)**: Covers a wide range of topics in music psychology, including music education, therapy, and cultural studies.
 - **[Frontiers in Psychology: Auditory Cognitive Neuroscience](https://www.frontiersin.org/journals/psychology/sections/auditory-cognitive-neuroscience)**: A section of the Frontiers in Psychology journal that focuses on auditory perception, music cognition, and related neuroscience.
 - **[Music & Science](https://journals.sagepub.com/home/mns)**: An interdisciplinary journal that publishes research on the scientific study of music, including its psychological, cultural, and technological dimensions.
+- **[Musicae Scientiae](https://journals.sagepub.com/home/msx)**: The journal of the European Society for the Cognitive Sciences of Music, publishing research on music psychology, cognition, perception, and interdisciplinary studies.
 </details>
-
 
 ## Fundamentals of Music Technology
 
@@ -112,9 +114,16 @@ Technology in music involves the use of tools and systems to create, analyze, an
 
 These technologies expand the possibilities for music creation and analysis, offering new ways to explore and innovate within the field.
 
+When comparing them, there are some important differences between music technology and music psychology as disciplines. Music psychology is primarily a *scientific* field of study, focused on understanding how humans perceive, process, and respond to music through empirical research and theoretical frameworks. Its methods are rooted in experimental design, data analysis, and psychological theory, aiming to uncover universal principles and individual variations in musical experience.
+
+Music technology, on the other hand, spans several domains: science, art, design, and engineering. It encompasses scientific research into sound and audio processing, artistic exploration through composition and performance, design of musical instruments and interfaces, and engineering of hardware and software systems. Music technologists may work on developing new tools for music creation, analyzing audio signals, designing interactive installations, or exploring creative possibilities in digital media. This diversity means that music technology is not limited to scientific inquiry but also includes creative practice, technical innovation, and user-centered design.
+
+Given its many directions, music technologists typically work in many different types of departments: computer science, eletrical or mechanical engineering, design and art schools, but also within musicology departments and music conservatories. As for psychologists, this instutional basis often also influences the directions taken. 
+
+If you are curious, there are also many journals, communities and annual conferencesin music technology.
+
 <details>
 <summary>Conferences and Communities in Music Technology</summary>
-Music technology is a thriving scientific discipline with numerous annual conferences and related communities. Here are some of the key conferences and organizations:
 
 - **[ICMC (International Computer Music Conference)](https://www.computermusic.org/)**: Focuses on computer music research, composition, and performance, bringing together artists, scientists, and technologists.
 - **[SMC (Sound and Music Computing Conference)](https://smcnetwork.org/)**: Covers topics in sound and music computing, including audio analysis, synthesis, and interactive systems.
@@ -124,13 +133,10 @@ Music technology is a thriving scientific discipline with numerous annual confer
 - **[DAFx (Digital Audio Effects Conference)](https://www.dafx.de/)**: Dedicated to research on digital audio effects, signal processing, and music technology.
 - **[ISMIR (International Society for Music Information Retrieval)](https://www.ismir.net/)**: Advances research in music information retrieval, including audio analysis, machine learning, and music data processing.
 - **[AES (Audio Engineering Society)](https://www.aes.org/)**: An international organization for audio engineers, hosting conferences on sound recording, processing, and reproduction.
-- **[TENOR (International Conference on Technologies for Music Notation and Representation)](https://tenor-conference.org/)**: Focuses on technologies for music notation, representation, and digital scores.
-- **[ICLI (International Conference on Live Interfaces)](https://www.liveinterfaces.org/)**: Explores live performance technologies and interactive systems for music and the arts.
 </details>
 
 <details>
 <summary>Journsl in Music Technology</summary>
-For those interested in music technology, the following journals are essential resources for cutting-edge research and developments in the field:
 
 - **[Computer Music Journal](https://direct.mit.edu/comj)**: Focuses on digital audio, sound synthesis, and computer-assisted composition, providing insights into the intersection of music and technology.
 
@@ -147,12 +153,9 @@ For those interested in music technology, the following journals are essential r
 - **[Transactions of the International Society for Music Information Retrieval (TISMIR)](https://transactions.ismir.net/)**: Publishes open-access research on music information retrieval, covering topics such as audio analysis, machine learning, and music data processing.
 </details>
 
-### Psychological vs technological approaches to sound and music
+## Listening to the world
 
-Psychological approaches to sound and music focus on understanding human perception, cognition, and emotion. These approaches investigate how individuals experience music, from the neural mechanisms of auditory processing to the cultural and social factors that shape musical preferences. In contrast, technological approaches leverage tools such as audio analysis algorithms, machine learning, and virtual reality to study and create music. While psychological approaches emphasize the human element, technological approaches provide new methods for analyzing and generating sound. Integrating these perspectives can lead to innovative insights, bridging the gap between human experience and technological possibilities in music.
-
-
-## Hearing vs listening
+### Hearing vs listening
 
 ```{exercise}
 Stand up, close your eyes, and listen to the environment. What do you hear?
@@ -165,11 +168,11 @@ Hearing is the passive physiological process of detecting sound waves through th
 
 <div style="max-width:1024px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/evelyn_glennie_how_to_truly_listen?autoplay=false" width="1024px" height="576px" title="How to truly listen" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen onload="window.parent.postMessage('iframeLoaded', 'https://embed.ted.com')"></iframe></div></div>
 
-## Embodied music cognition
+### Embodied music cognition
 
 Embodied music cognition emphasizes the role of the body in musical experience, suggesting that music is not only heard but also felt and enacted. This perspective integrates sensory, motor, and emotional dimensions, proposing that musical understanding arises from physical interaction with sound. Research in this field explores phenomena such as entrainment, where listeners synchronize their movements to a musical beat, and the role of gestures in musical performance. By engaging the body, embodied music cognition provides a holistic framework for studying how music is experienced and understood.
 
-## Action and Perception
+### Action and Perception
 
 A theoretical starting point is that of ecological psychology, which posits that we sense through action, and we act through sensing. This is called the action-perception loop. In music, this loop is evident in activities such as playing an instrument, where sensory feedback informs motor actions, and vice versa. For example, a pianist adjusts their touch based on the sound produced, creating a continuous cycle of interaction. Practical exercises, such as improvisation and movement-based activities, can help students explore this dynamic relationship, deepening their understanding of how sensory input and motor output are intertwined in musical contexts.
 
@@ -177,11 +180,6 @@ A theoretical starting point is that of ecological psychology, which posits that
 Multimodality refers to the integration and interaction of multiple sensory modalities—such as vision, hearing, touch, and proprioception—in the perception and understanding of the world. From a psychological perspective, multimodality emphasizes how the brain combines information from these different sensory channels to create a cohesive and enriched experience. In the context of music cognition, this could involve the interplay between auditory and motor systems, such as how visual cues from a performer influence the perception of sound or how physical gestures enhance musical expression and understanding.
 ```
 
-
-
-```{exercise}
-Stand up, close your eyes, and listen to the environment. What do you hear?
-```
 
 
 ## Bibliography
