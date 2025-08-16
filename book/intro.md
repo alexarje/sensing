@@ -23,27 +23,19 @@ Having completed the course, you will:
 - be able to process, synthesize, and analyze sound.
 :::
 
-## Learn more
 
-::::{grid} 1 1 2 2
-:::{card} MUS2133 Music Psychology
-:link: https://www.uio.no/studier/emner/hf/imv/mus2133/
-This course explores the psychological aspects of music perception and cognition, including auditory perception, emotional responses to music, and the cognitive processes involved in musical activities such as listening, performing, and composing.
-:::
 
-:::{card} MUS2830 Computer Music
-:link: https://www.uio.no/studier/emner/hf/imv/MUS2830/
-This course delves into the intersection of music and technology, covering topics such as sound synthesis, digital audio processing, and algorithmic composition. Gain hands-on experience with tools and techniques used in creating and analyzing music through computational methods.
-:::
-
-:::
-::::
-
-### Pedagogical Strategy
-
-This course is based on *active learning* and *flipped classroom* techniques. There will be little traditional lecturing. Instead, students are expected to read, watch, listen, and play with various other materials inside and outside the classroom. In-class activities will focus on explaining and discussing core concepts and various practical exercises. This requires active participation, often collaborative. 
+## Pedagogical Strategy
 
 Students in the course typically have mixed backgrounds. Everyone usually has some kind of musical background, ranging from classical performance on acoustic instruments to electronic studio production. Some come from psychology, others from computer science, and others again from media studies, philosophy, linguistics, medicine, and more. Everyone is welcome! In-class activities will be adjusted to cater to the collective knowledge and experience of the student group. 
+
+### Active learning and "flipped classroom"
+
+This course builds on the idea of *active learning*, an approach that emphasizes student engagement and participation in the learning process. Rather than passively receiving information through lectures, students are encouraged to interact with the material, ask questions, solve problems, and collaborate with peers. Activities may include group discussions, hands-on experiments, peer reviewing, and real-world projects. This method helps deepen understanding, improve retention, and develop critical thinking skills.
+
+We also rely on a *flipped classroom** approach, which is a teaching model where traditional lecture content is delivered outside of class, typically through readings, videos, or interactive resources. This frees up classroom time to applying concepts through discussion, exercises, and collaborative work. This structure allows students to learn foundational material at their own pace and use class sessions for deeper exploration, clarification, and practical application. The flipped classroom fosters a more personalized and interactive learning environment, supporting diverse learning styles and encouraging active participation.
+
+### A research-based and research-led course
 
 This is a *research-based* course, which means that the content builds on new research results. All the teachers are active researchers and will bring in perspectives from ongoing projects. Much of this is based on scientific methods, but given the nature of the subject, we also include research that is design-centered or based in artistic practice. We will dwell on these differences at times, since understanding the different epistemological foundations for our knowledge production is important. 
 
@@ -62,6 +54,18 @@ Open Education aligns closely with the principles of Open Research, which emphas
 - **Open Source Code**: Tools, scripts, and examples provided during the course will be shared as open-source code. This enables students to study, modify, and build upon the code, promoting a hands-on approach to learning and encouraging contributions to the broader community.
 
 By adopting these practices, the course not only supports students in their academic journey but also contributes to the global movement toward open and equitable access to knowledge. This approach empowers students to become active participants in the creation and dissemination of knowledge, preparing them for future roles as researchers, educators, and innovators.
+
+### Embracing AI
+
+In this course, we will actively explore the use of *artificial intelligence* both for exploring the content of the course but also as a pedagogical tool. There are currently many available AI tools, yet they are underexplored. We will try different tools and evaluate how they work. 
+
+This textbook is an example of AI-based *co-creation*. Sections of the text are partly&mdash;or even fully&mdash;written by large language models. However, everything has been going through human "peer review" to ensure that things are fine. Throughout the course, we will explore when AI can safely be used for text generation, and when it fails. 
+
+As an educator, using AI tools can help streamline administrative tasks and speed up content creation, which frees up time for meaningful interactions with students. It can help identify patterns in student performance, enabling targeted support and early intervention. AI-driven analytics offer insights into class engagement and learning outcomes, supporting data-informed teaching strategies.
+
+Students should also use AI actively. AI-powered platforms can adapt content and feedback to individual learning styles and paces, helping students master concepts more effectively. However, AI-based tools should be used widely, they are there to help learning not to replace it. After all, the exam will be performed without any tools. Then you will need to think and write on your own!
+
+
 
 ## Tools
 
@@ -185,3 +189,18 @@ This list provides a mix of foundational texts, recent research, and multimedia 
 ```{tableofcontents}
 ```
 
+## Learn more
+
+::::{grid} 1 1 2 2
+:::{card} MUS2133 Music Psychology
+:link: https://www.uio.no/studier/emner/hf/imv/mus2133/
+This course explores the psychological aspects of music perception and cognition, including auditory perception, emotional responses to music, and the cognitive processes involved in musical activities such as listening, performing, and composing.
+:::
+
+:::{card} MUS2830 Computer Music
+:link: https://www.uio.no/studier/emner/hf/imv/MUS2830/
+This course delves into the intersection of music and technology, covering topics such as sound synthesis, digital audio processing, and algorithmic composition. Gain hands-on experience with tools and techniques used in creating and analyzing music through computational methods.
+:::
+
+:::
+::::
