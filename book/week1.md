@@ -212,8 +212,6 @@ The last concept we will introduce this week is the *action-perception loop*. Th
 flowchart LR
   Action --> Perception
   Perception --> Action
-  style Action fill:#f9f,stroke:#333,stroke-width:2px
-  style Perception fill:#bbf,stroke:#333,stroke-width:2px
 ```
 
 ## Bibliography
