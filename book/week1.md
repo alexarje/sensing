@@ -1,13 +1,20 @@
 ---
 title: "Week 1: Tuning in"
-subtitle: Your first steps with MyST
+subtitle: Exploring the Foundations of Music Psychology and Technology
 subject: MUS2640 Sensing Sound and Music
-description: This page describes the motivation behind making a web resource for the course MUS2640 Sensing Sound and Music at the University of Oslo. 
+This page introduces the foundational concepts of music psychology and technology, exploring how humans perceive, experience, and create sound and music through both psychological and technological perspectives.
 exports:
   - format: pdf
 ---
 
-# Sound and music
+# Sensing Sound and music
+
+This course is called "Sensing Sound and Music". But what do those three words mean? Sensing? Sound? Music? 
+
+```{question}
+Stand up, close your eyes, and listen to the environment. What do you hear?
+```
+
 
 Sound and music are fundamental to human experience, serving as both a medium of communication and a form of artistic expression. Sound is a physical phenomenon characterized by vibrations that travel through a medium, while music is an organized arrangement of sounds that evoke emotional, cognitive, and cultural responses. Research in music psychology highlights how humans perceive and process sound, exploring topics such as pitch, rhythm, timbre, and harmony. Technological advancements, such as digital audio workstations and sound synthesis, have expanded the boundaries of music creation and analysis, enabling new forms of artistic exploration.
 
