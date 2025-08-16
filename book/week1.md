@@ -175,11 +175,11 @@ It is important to note that the mechanisms underlying these different approache
 
 ### Embodied music cognition
 
-I should from the outset say that the approach to human psychology presented in this book is not neutral (not that any other book is that, either, even though they pretend to be). It is heavily based in a tradition called [*embodied music cognition*](https://en.wikipedia.org/wiki/Embodied_music_cognition), emphasizing the role of the body in musical experience. This used to be a radical approach but has become more mainstream over the years. Several researchers at the University of Oslo&mdash;with Professor emeritus Rolf Inge Godøy in front&mdash;have been active in developing this branch of research over the last decades. It has been foundational to the [fourMs Lab](https://fourms.uio.no) and a core part of [RITMO](https://www.uio.no/ritmo/). 
+I should from the outset say that the approach to human psychology presented in this book is not neutral (not that any other book is that, either, even though they pretend to be). It is heavily based in a tradition called [*embodied music cognition*](https://en.wikipedia.org/wiki/Embodied_music_cognition), emphasizing the role of the body in musical experience. This used to be a radical approach but has become more mainstream over the years. Several researchers at the University of Oslo&mdash;with [Professor emeritus Rolf Inge Godøy](https://en.wikipedia.org/wiki/Rolf_Inge_God%C3%B8y) in front&mdash;have been active in developing this branch of research over the last decades. It has been foundational to the [fourMs Lab](https://fourms.uio.no) and a core part of [RITMO](https://www.uio.no/ritmo/). 
 
-The core idea of embodied music cognition is that both the production and perception of music is based on integrating sensory, motor, and emotional dimensions. To paraphrase the father of "ecological psychology", James Gibson, you expore the world with eyes in a head on a body that moves around.  
+The core idea of embodied music cognition is that both the production and perception of music are based on integrating sensory, motor, and emotional dimensions. To paraphrase the father of ["ecological psychology"](https://en.wikipedia.org/wiki/Ecological_psychology), James Gibson, you explore the world with eyes in a head on a body that moves around.  
 
-A different entry point to the same idea is the concept of *musicking*. The idea here is that music is not just an object or a finished product (like a song or a score), but rather an activity&mdash;something people do. The term musicking was popularized by musicologist Christopher Small, who argued that music is best understood as a verb&mdash;to music&mdash;not a noun. When a band plays a concert, the musicians, the dancers, the audience, the sound engineers, and even the people selling tickets and cleaning the hall are all engaged in musicking. The music exists not just in the notes played, but in the shared experience and interaction.
+A different entry point to the same idea is the concept of [*musicking*](https://en.wikipedia.org/wiki/Christopher_Small#Musicking). The idea here is that music is not just an object or a finished product (like a song or a score), but rather an activity&mdash;something people do. The term musicking was popularized by musicologist [Christopher Small](https://en.wikipedia.org/wiki/Christopher_Small), who argued that music is best understood as a verb&mdash;to music&mdash;not a noun. When a band plays a concert, the musicians, the dancers, the audience, the sound engineers, and even the people selling tickets and cleaning the hall are all engaged in musicking. The music exists not just in the notes played, but in the shared experience and interaction.
 
 Research within embodied music cognition are therefore eager to not only study "the music" but instead explore phenomena the complexity of musical interactions, from the the role of gestures in musical performance to how listeners synchronize their movements to a musical beat. By engaging the body, embodied music cognition provides a holistic framework for studying how music is experienced and understood.
 
@@ -201,20 +201,22 @@ From a psychological perspective, multimodality emphasizes how the brain combine
 
 But also the other senses are involved. Touch provides tactile feedback for instrumentalists and singers; proprioception and balance help musicians coordinate movement and posture, especially in dance or performance; and even smell or taste can contribute to the emotional context and memory of musical events. These multisensory interactions enrich both performance and perception, deepening engagement for musicians and audiences alike.
 
-### Listening with the body
-
-The embodied music cognition 
+Most people agree that sound is a core component of music, yet there are notable examples of musicians and composers who have created and performed music despite significant hearing loss. [Ludwig van Beethoven](https://en.wikipedia.org/wiki/Ludwig_van_Beethoven), one of the most influential composers in Western music history, continued to compose groundbreaking works even after becoming profoundly deaf. In more recent times, percussionist [Evelyn Glennie](https://en.wikipedia.org/wiki/Evelyn_Glennie) has demonstrated that musical experience and expression are not limited by the ability to hear sound in a conventional way. Glennie, who lost most of her hearing by the age of twelve, developed unique techniques to sense vibrations through her body, allowing her to perform and interpret music at the highest level. These examples challenge traditional notions of music as purely an auditory phenomenon and highlight the importance of multimodal and embodied approaches to musical experience.
 
 <div style="max-width:1024px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/evelyn_glennie_how_to_truly_listen?autoplay=false" width="1024px" height="576px" title="How to truly listen" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen onload="window.parent.postMessage('iframeLoaded', 'https://embed.ted.com')"></iframe></div></div>
 
 
 ### Action and Perception
 
-A theoretical starting point is that of ecological psychology, which posits that we sense through action, and we act through sensing. This is called the action-perception loop. In music, this loop is evident in activities such as playing an instrument, where sensory feedback informs motor actions, and vice versa. For example, a pianist adjusts their touch based on the sound produced, creating a continuous cycle of interaction. Practical exercises, such as improvisation and movement-based activities, can help students explore this dynamic relationship, deepening their understanding of how sensory input and motor output are intertwined in musical contexts.
+The last concept we will introduce this week is the *action-perception loop*. The idea of embodied cognition in general is that we sense through action, and act through sensing. In music, the action-perception loop is evident in activities such as playing an instrument, where sensory feedback informs motor actions, and vice versa. For example, a pianist adjusts their touch based on the sound produced, creating a continuous cycle of interaction. Practical exercises, such as improvisation and movement-based activities, can help students explore this dynamic relationship, deepening their understanding of how sensory input and motor output are intertwined in musical contexts.
 
-
-
-
+```mermaid
+flowchart LR
+  Action -->|Influences| Perception
+  Perception -->|Guides| Action
+  style Action fill:#f9f,stroke:#333,stroke-width:2px
+  style Perception fill:#bbf,stroke:#333,stroke-width:2px
+```
 
 ## Bibliography
 
