@@ -198,6 +198,7 @@ Several authors have also written about critical and cultural perspectives:
 - Microphones and listening - Krause 2016
 - softhearers vs loudspeakers
 
+
 ```{exercise} Record soundscapes
 1. Walk slowly in a group, without talking 
 2. Stop whenever you hear something interesting 
