@@ -11,8 +11,9 @@ exports:
 
 This course is called "Sensing Sound and Music". But what do that mean? And what do those three words mean on their own? Sensing? Sound? Music? 
 
-```{note}
-What are the differences between sound and music?
+```{admonition} Question
+:class: question
+What are the differences between soufind and music?
 ```
 
 
@@ -20,7 +21,7 @@ Sound and music are fundamental to human experience, serving as both a medium of
 
 ## Hearing vs listening
 
-```{question}
+```{exercise}
 Stand up, close your eyes, and listen to the environment. What do you hear?
 ```
 
@@ -147,7 +148,7 @@ For those interested in music technology, the following journals are essential r
 - **[Transactions of the International Society for Music Information Retrieval (TISMIR)](https://transactions.ismir.net/)**: Publishes open-access research on music information retrieval, covering topics such as audio analysis, machine learning, and music data processing.
 
 
-```{note}
+```{exercise}
 Stand up, close your eyes, and listen to the environment. What do you hear?
 ```
 
