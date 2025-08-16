@@ -167,7 +167,6 @@ Several theorists have built upon Pierre Schaeffer’s foundational ideas about 
 
 - **Rolf Inge Godøy** (University of Oslo) has advanced Schaeffer’s concepts by developing detailed models for how listeners perceive and mentally represent sound objects. Godøy’s work emphasizes *gestural-sonorous objects*, linking sound perception to physical gestures and movement, and has contributed to the field of *music cognition* and *morphological analysis*.
 
-
 ## Artistic explorations
 
 This week, we will focus on some influential thinkers and practitioners from the 20th century that have contributed to our current understanding as a phenomenon. 
@@ -181,53 +180,76 @@ One of his most influential and controversial pieces is *[4'33''](https://en.wik
 Cage's philosophy of embracing chance and redefining music continues to inspire artists and thinkers across disciplines.
 
 ### Pauline Oliveros and Deep Listening
-[Pauline Oliveros](https://en.wikipedia.org/wiki/Pauline_Oliveros) (1932–2016) created the [Deep Listening](https://en.wikipedia.org/wiki/Deep_Listening) practice, emphasizing:
-- **Sonic awareness**: Heightened attention to sound and its context.
-- The intersection of **[cybernetics](https://en.wikipedia.org/wiki/Cybernetics)** and the creative process.
 
-```mermaid
-graph LR
-	Input["Input (Stimulus)"] -->|Perception| Processor["Processor (Interpretation)"]
-	Processor -->|Decision| Output["Output (Action)"]
-	Output -->|Feedback| Input
-	Feedback["Feedback Loop"] -->|Adjustment| Processor
-```
+[Pauline Oliveros](https://en.wikipedia.org/wiki/Pauline_Oliveros) (1932–2016) created the [Deep Listening](https://en.wikipedia.org/wiki/Deep_Listening) practice, emphasizing *sonic awareness* as heightened attention to sound and its context.
 
+Her *Sonic Meditations* is a collection of text-based instructions (1971) guiding groups in listening and sound-making exercises, fostering communal awareness and creativity. *Bye Bye Butterfly* (1965) was an early electronic composition blending live feedback and tape delay, reflecting on the transformation of sound and memory. Throughout her long career she made numerous performances exploring acoustic space and group interaction.
 
+Oliveros’s work encourages active, inclusive listening and has influenced contemporary sound art, music therapy, and community music practices.
 
-### Other notable figures
+### Yoko Ono and Experimental Listening
 
-Several authors have also written about critical and cultural perspectives:
+[Yoko Ono](https://en.wikipedia.org/wiki/Yoko_Ono) (1933–) is a pioneering artist and composer whose work often challenges conventional boundaries between sound, performance, and audience participation. Her influential *Instruction Pieces*, such as those in *Grapefruit* (1964), invite listeners and performers to engage with sound and silence in imaginative, conceptual ways. Ono’s approach emphasizes the creative act of listening, encouraging audiences to perceive everyday sounds as art and to reflect on the relationship between sound, environment, and intention. Her work has inspired generations of artists to explore listening as an active, transformative practice.
 
-- **[Theodor Adorno](https://en.wikipedia.org/wiki/Theodor_W._Adorno)**: Explored the critical theory of music and culture.
-- **[Gilles Deleuze](https://en.wikipedia.org/wiki/Gilles_Deleuze)**: Analyzed cultural aspects of sound and listening.
-- **[Julia Kristeva](https://en.wikipedia.org/wiki/Julia_Kristeva)**: Investigated the creative process in sound.
+### Alvin Lucier and "I am sitting in a room"
 
-- **[Barry Truax](https://en.wikipedia.org/wiki/Barry_Truax)**: Explored synthesis and soundscape composition.
+[Alvin Lucier](https://en.wikipedia.org/wiki/Alvin_Lucier) (1931–2021) was an American composer known for his experimental works exploring acoustic phenomena and the perception of sound. His iconic piece, *[I am sitting in a room](https://en.wikipedia.org/wiki/I_Am_Sitting_in_a_Room)* (1969), is a landmark in sound art and acoustic ecology.
+
+In this work, Lucier records himself reading a text describing the process: he is sitting in a room, recording his voice, and will repeatedly play back and re-record the tape. With each iteration, the resonant frequencies of the room reinforce themselves, gradually transforming the speech into pure tones shaped by the space’s acoustics. Eventually, the words become unintelligible, replaced by the unique sonic fingerprint of the room.
+
+*I am sitting in a room* demonstrates how environments shape sound and listening. It invites reflection on the relationship between technology, space, and perception, and is widely cited in discussions of sound art, acoustic ecology, and experimental music.
+
+### Norwegian artists and practitioners
+
+Norway has a vibrant community of artists and researchers working with soundscapes, listening practices, and acoustic ecology:
+
+- **Britt Pernille Frøholm** (1974–): Composer and performer exploring acoustic ecology and soundscape composition in Norwegian landscapes.
+- **Espen Sommer Eide** (1972–): Artist and musician working with field recordings, sound installations, and listening walks.
+- **Jana Winderen** (1965–): Internationally recognized sound artist whose field recordings and installations focus on underwater and natural sound environments.
+- **Maja S. K. Ratkje** (1973–): Composer and performer integrating environmental sounds and experimental listening in her works.
+- **Natasha Barrett** (1972–): Composer and sound artist specializing in spatial audio, immersive sound installations, and electroacoustic composition, with a focus on environmental listening.
+
+These practitioners have contributed to both artistic and academic developments in the field, often collaborating across disciplines to deepen our understanding of sound and listening in Norwegian contexts.
 
 
 ## Capturing sound
 
+Capturing sound involves documenting and representing sonic experiences using various methods. This can include written descriptions, visual representations, and audio recordings. Each approach offers unique insights into the qualities and context of sounds.
+
 ### Writing about sound
+
+Writing about sound is a way to translate auditory experiences into language. This can involve:
+
+- **Descriptive writing**: Use vivid adjectives and metaphors to convey the character of sounds (e.g., "a shimmering, metallic clang" or "a gentle, rhythmic hum").
+- **Contextual notes**: Record the time, location, and circumstances in which the sound occurred.
+- **Reflective journaling**: Capture your emotional or sensory response to the sound, noting how it affected your mood or perception.
+- **Analytical writing**: Break down the sound into its components (pitch, rhythm, timbre, dynamics) and discuss its structure or function.
+
+Writing helps clarify your listening experience and can be used for research, creative projects, or personal reflection.
 
 ### Drawing sounds
 
+Drawing sounds is a creative way to visualize sonic phenomena. Techniques include:
+
+- **Waveform sketches**: Represent the amplitude and shape of a sound over time.
+- **Spectrogram drawings**: Illustrate the frequency content and evolution of a sound.
+- **Symbolic notation**: Use shapes, lines, and colors to depict qualities like loudness, pitch, or texture.
+- **Sound maps**: Create diagrams showing the spatial distribution of sounds in an environment.
+
+Visual representations can reveal patterns and relationships that are difficult to express in words, and are useful in both artistic and scientific contexts.
+
 ### Recording sounds
 
-Microphones
+Recording sounds is the most direct way to capture and preserve sonic events. Key points include:
 
-- **Types**:
-  - [Dynamic microphones](https://en.wikipedia.org/wiki/Microphone#Dynamic_microphones).
-  - [Condenser microphones](https://en.wikipedia.org/wiki/Microphone#Condenser_microphones).
-- **Applications**:
-  - Recording environmental sounds.
-  - Enhancing listening practices.
+- **Equipment**: Use microphones and recording devices suited to your environment and purpose (e.g., handheld recorders for fieldwork, studio microphones for controlled settings).
+- **Technique**: Pay attention to microphone placement, levels, and background noise to ensure clear recordings.
+- **Documentation**: Keep notes about the recording context, including date, time, location, and any relevant observations.
+- **Archiving and sharing**: Organize recordings for future use and consider sharing them on platforms like Freesound.org for collaborative projects.
+
+Audio recordings allow for detailed analysis, creative manipulation, and sharing of soundscapes and sonic objects with others.
 
 
-## Microphones
-
-- Microphones and listening - Krause 2016
-- softhearers vs loudspeakers
 
 
 ```{exercise} Record soundscapes
