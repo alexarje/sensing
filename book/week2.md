@@ -1,13 +1,13 @@
 ---
 title: "Week 2: Listening"
 subtitle: Listening, describing, and understanding soundscapes, sound objects, and influential theories
-subject: Work in progress: The content in this textbook will be developed throughout the semester
-description: This chapter explores the art and science of listening, focusing on how sounds and soundscapes are described, understood, and analyzed across disciplines. It introduces influential theories and thinkers, practical listening exercises, and tools for engaging with the sonic environment. Students will learn to identify sound objects, interpret soundscapes, and apply critical frameworks to deepen their listening skills.
+subject: "Disclaimer: Textbook in development"
+description: "This chapter explores the art and science of listening, focusing on how sounds and soundscapes are described, understood, and analyzed across disciplines. It introduces influential theories and thinkers, practical listening exercises, and tools for engaging with the sonic environment. Students will learn to identify sound objects, interpret soundscapes, and apply critical frameworks to deepen their listening skills."
 exports:
   - format: pdf
 ---
 
-# Describing sounds
+## Describing sounds
 
 Academic approaches to describing sounds and soundscapes vary across disciplines, each offering distinct frameworks and terminology:
 

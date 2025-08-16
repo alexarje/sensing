@@ -1,7 +1,7 @@
 ---
 title: Introduction
-subject: Work in progress: The content in this textbook will be developed throughout the semester
-description: This page describes the motivation behind making a web resource for the course MUS2640 Sensing Sound and Music at the University of Oslo. 
+subject: "Disclaimer: Textbook in development"
+description: "This page describes the motivation behind making a web resource for the course MUS2640 Sensing Sound and Music at the University of Oslo."
 exports:
   - format: pdf
 ---

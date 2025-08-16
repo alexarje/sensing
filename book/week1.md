@@ -1,11 +1,11 @@
 ---
 title: "Week 1: Tuning in"
 subtitle: Exploring the Foundations of Music Psychology and Technology
-subject: Work in progress: The content in this textbook will be developed throughout the semester
-description: This page introduces the foundational concepts of music psychology and technology, exploring how humans perceive, experience, and create sound and music through both psychological and technological perspectives.
+subject: "Disclaimer: Textbook in development"
+description: "This page introduces the foundational concepts of music psychology and technology, exploring how humans perceive, experience, and create sound and music through both psychological and technological perspectives."
 ---
 
-# Sensing Sound and music
+## Sensing Sound and music
 
 This course is called "Sensing Sound and Music". But what does that mean? And what do those three words mean on their own?
 
