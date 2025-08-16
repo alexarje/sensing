@@ -41,6 +41,22 @@ Can you think of other words with a "logy" at the end? What do they mean?
 
 By the end of the course, you will have learned some of the basic terminology, theories, and methods used in all these directions. 
 
+### Differences between disciplinarities
+
+When approaching different disciplines, it is important to understand how they interact. Many people call all sorts of collaboration between disciplines for "interdisciplinarity". However, there are some differences, highlighted in this figure: 
+
+![Different disciplinarities](https://www.arj.no/images/2022/03/01-disciplinarities-crop.pdf-1-1024x294.png)
+
+Intradisciplinary work stays within a single discipline, while crossdisciplinary approaches view one discipline from the perspective of another. Multidisciplinary collaboration involves people from different disciplines working together, each drawing on their own expertise. Interdisciplinary work integrates knowledge and methods from multiple disciplines, synthesizing approaches for deeper understanding. Transdisciplinary approaches go further, creating unified intellectual frameworks that transcend individual disciplinary boundaries.
+
+One approach is not better than another and many researchers combine their approach dependent on the project type. Still, it is helpful to consider these differences when we start approaching each discipline and look at how they combine theories and methods. 
+
+### Concepts, theories, methods
+
+An academic discipline is generally characterized by a distinct set of concepts, theories, and methods that guide inquiry and knowledge production within a particular field. Disciplines have established traditions, specialized terminology, and recognized standards for evaluating research and scholarship. They often possess dedicated journals, conferences, and professional organizations that foster communication and development among practitioners. The boundaries of a discipline are shaped by its historical evolution, core questions, and the types of problems it seeks to address, providing a framework for systematic study and advancement of understanding.
+
+In our case, each of the three involved disciplines (musicology, psychology, and technology) brings its own theories and methods. Generally speaking, musicology uses analysis, historiography, and ethnography, psychology employs experiments and surveys, and technology relies on engineering and computational modeling. Understanding these differences helps clarify how interdisciplinary research can integrate diverse perspectives to enrich our knowledge of sound and music.
+
 ## Fundamentals of Music Psychology
 
 Psychology in music focuses on understanding how humans perceive, process, and respond to sound and music. This includes exploring topics such as:
@@ -96,12 +112,24 @@ Technology in music involves the use of tools and systems to create, analyze, an
 
 These technologies expand the possibilities for music creation and analysis, offering new ways to explore and innovate within the field.
 
-Music technology is a thriving scientific discipline with numerous annual conferences and related communities: [ICMC](https://www.computermusic.org/), [SMC](https://smcnetwork.org/), [NIME](https://www.nime.org/), [CMMR](https://cmmr2023.sciencesconf.org/), [ICAD](https://icad.org/), [DAFx](https://www.dafx.de/), [ISMIR](https://www.ismir.net/), [AES](https://www.aes.org/), [TENOR](https://tenor-conference.org/), [ICLI](https://www.liveinterfaces.org/).
-
-
-
 <details>
 <summary>Conferences and Communities in Music Technology</summary>
+Music technology is a thriving scientific discipline with numerous annual conferences and related communities. Here are some of the key conferences and organizations:
+
+- **[ICMC (International Computer Music Conference)](https://www.computermusic.org/)**: Focuses on computer music research, composition, and performance, bringing together artists, scientists, and technologists.
+- **[SMC (Sound and Music Computing Conference)](https://smcnetwork.org/)**: Covers topics in sound and music computing, including audio analysis, synthesis, and interactive systems.
+- **[NIME (New Interfaces for Musical Expression)](https://www.nime.org/)**: Explores new musical instruments and interfaces, emphasizing innovation in music performance and interaction.
+- **[CMMR (Computer Music Multidisciplinary Research)](https://cmmr2023.sciencesconf.org/)**: Promotes multidisciplinary research in computer music, including psychology, acoustics, and engineering.
+- **[ICAD (International Conference on Auditory Display)](https://icad.org/)**: Focuses on the use of sound to convey information, covering topics such as sonification and auditory interfaces.
+- **[DAFx (Digital Audio Effects Conference)](https://www.dafx.de/)**: Dedicated to research on digital audio effects, signal processing, and music technology.
+- **[ISMIR (International Society for Music Information Retrieval)](https://www.ismir.net/)**: Advances research in music information retrieval, including audio analysis, machine learning, and music data processing.
+- **[AES (Audio Engineering Society)](https://www.aes.org/)**: An international organization for audio engineers, hosting conferences on sound recording, processing, and reproduction.
+- **[TENOR (International Conference on Technologies for Music Notation and Representation)](https://tenor-conference.org/)**: Focuses on technologies for music notation, representation, and digital scores.
+- **[ICLI (International Conference on Live Interfaces)](https://www.liveinterfaces.org/)**: Explores live performance technologies and interactive systems for music and the arts.
+</details>
+
+<details>
+<summary>Journsl in Music Technology</summary>
 For those interested in music technology, the following journals are essential resources for cutting-edge research and developments in the field:
 
 - **[Computer Music Journal](https://direct.mit.edu/comj)**: Focuses on digital audio, sound synthesis, and computer-assisted composition, providing insights into the intersection of music and technology.
