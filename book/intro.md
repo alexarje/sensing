@@ -109,7 +109,8 @@ Other relevant tools we will briefly look at include:
 
 The current textbook comprises the core curriculum for this course. The following sections list relevant supplementary literature. 
 
-### Books
+<details>
+<summary>Some relevant books</summary>
 
 - **[Music Psychology: A Very Short Introduction](https://global.oup.com/academic/product/music-psychology-a-very-short-introduction-9780198722944)**: *Elizabeth Hellmuth Margulis* (2018), Oxford: Oxford University Press. A concise introduction to the field of music psychology, exploring how music affects the mind and behavior.
 
@@ -136,6 +137,7 @@ The current textbook comprises the core curriculum for this course. The followin
 - **[Musical Acoustics](https://www.cengage.com/c/musical-acoustics-3e-hall/9780534377281/)**: *Donald E. Hall* (1991), Pacific Grove: Brooks/Cole Publishing. A detailed introduction to the acoustics of musical instruments and sound production.
 
 - **[The Soundscape: Our Sonic Environment and the Tuning of the World](https://www.innertraditions.com/books/the-soundscape)**: *R. Murray Schafer* (1994), Rochester: Destiny Books. A pioneering exploration of soundscapes and their impact on human perception and culture.
+</details>
 
 Some books serve more as large-scale references of their respective fields: 
 
@@ -147,13 +149,17 @@ Some books serve more as large-scale references of their respective fields:
 
 There are not many relevant books in Norwegian, but here are some: 
 
+<details>
+<summary>Relevant Norwegian-language books</summary>
+
 - **[Musikk og Bevegelse](https://www.duo.uio.no/handle/10852/25589)**: *Alexander Refsum Jensenius* (2009), Oslo: Unipub. A Norwegian book exploring the relationship between music and movement.
 
 - **[Lydlandskap: Om Bruk og Misbruk av Musikk](https://www.fagbokforlaget.no/Lydlandskap/I9788245002718)**: *Even Ruud* (2005), Bergen: Fagbokforlaget. A Norwegian book discussing the use and misuse of music in various contexts.
+</details>
 
 
-
-### Articles
+<details>
+<summary>Relevant articles</summary>
 
 - **[Groove](https://global.oup.com/academic/product/groove-9780190943248)**  
     *Guilherme Schmidt Câmara, Anne Danielsen, Alexander Rehding, Steven Rings* (2020), Oxford: Oxford University Press.
@@ -175,13 +181,7 @@ There are not many relevant books in Norwegian, but here are some:
 
 - **[SOUNDWORK: The Natural Complexities of Environmental Listening: One Soundwalk - Multiple Responses](https://ojs.library.ubc.ca/index.php/bcstudies/article/view/194)**  
     *Hildegard Westerkamp* (2017), *BC Studies*, (194), pp. 149–.
-
-### Videos
-
-- **[Ideas Roadshow: Believing Your Ears - Auditory Illusions](https://ideasroadshow.com/items/believing-your-ears-auditory-illusions)**  
-    *Diana Deutsch in conversation with Howard Burton* (2015), Open Agenda Publishing.
-
-This list provides a mix of foundational texts, recent research, and multimedia resources to deepen your understanding of the topics covered in the course.
+</details>
 
 
 ## Overview

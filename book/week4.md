@@ -171,6 +171,11 @@ The Piano Roll is a visual representation of music, where time is displayed on t
 #### Note Graph
 A Note Graph is a graph-based representation of musical scores, where nodes represent notes and edges capture relationships such as sequence, onset, and sustain. This approach provides a structured way to analyze and model complex musical relationships. [Learn more](https://arxiv.org/abs/2006.05417)
 
+
+- **[Ideas Roadshow: Believing Your Ears - Auditory Illusions](https://ideasroadshow.com/items/believing-your-ears-auditory-illusions)**  
+    *Diana Deutsch in conversation with Howard Burton* (2015), Open Agenda Publishing.
+
+
 ## Tools
 
 - **PaulXStretcher**
