@@ -50,7 +50,13 @@ Psychology in music focuses on understanding how humans perceive, process, and r
 - **Behavior**: How music influences actions, such as movement, performance, and social interaction.
 - **Emotion**: The study of how music evokes feelings and moods, and its role in emotional regulation and expression.
 
-These principles help us understand the universal and individual ways in which music impacts human experience, providing insights into both the psychological and cultural dimensions of music.
+These principles help us understand the universal and individual ways in which music impacts human experience, providing insights into both the psychological and cultural dimensions of music. In this course, we will primarily investigate perception, but also touch briefly upon cognition and behavior.
+
+Music psychology is a thriving field internationally. Given its interdisciplinary nature, researchers are typically working in either musicology or psychology departments, which also often "skews" the research in one or the other direction. Researchers more on the musicology side tend to be more focused on real-world musical experiences, what is often termed "ecological validity" and using (more) qualitative methods. Researchers more on the psychology side typically work more on controlled experiments and using quantitative methods.
+
+While many researchers in music psychology may often feel "alone" in their respective departments, there are a few larger and specialized departments or research centers that focus on music psychology specifically. In these institutions, one can often see the width of the field, covering many different theoretical and methodological perspectives. 
+
+For those interested, there are numerous international communities, conferences and journals for music psychology. These conferences provide excellent opportunities for networking, collaboration, and staying updated on the latest research.
 
 <details>
 <summary>Conferences and Communities in Music Psychology</summary>
@@ -64,12 +70,10 @@ These principles help us understand the universal and individual ways in which m
 - **[Music and Neurosciences](https://www.fondazione-mariani.org/en/music-and-neurosciences/)**: A conference series exploring the relationship between music and brain function, organized by the Mariani Foundation.
 </details>
 
-These conferences provide excellent opportunities for networking, collaboration, and staying updated on the latest research in music psychology and cognition.
-
 <details>
 <summary>Journals in Music Psychology</summary>
 
-For those interested in music psychology, the following journals are key resources for research and developments in the field:
+Some of the key journals in music psychology:
 
 - **[Music Perception](https://online.ucpress.edu/mp)**: A leading journal that publishes research on the perception and cognition of music, including studies on auditory processing, musical memory, and emotional responses.
 - **[Psychomusicology: Music, Mind, and Brain](https://www.apa.org/pubs/journals/pmu/)**: Focuses on the psychological and neuroscientific aspects of music, covering topics such as music therapy, performance, and creativity.
@@ -78,9 +82,6 @@ For those interested in music psychology, the following journals are key resourc
 - **[Psychology of Music](https://journals.sagepub.com/home/pom)**: Covers a wide range of topics in music psychology, including music education, therapy, and cultural studies.
 - **[Frontiers in Psychology: Auditory Cognitive Neuroscience](https://www.frontiersin.org/journals/psychology/sections/auditory-cognitive-neuroscience)**: A section of the Frontiers in Psychology journal that focuses on auditory perception, music cognition, and related neuroscience.
 - **[Music & Science](https://journals.sagepub.com/home/mns)**: An interdisciplinary journal that publishes research on the scientific study of music, including its psychological, cultural, and technological dimensions.
-
-These journals provide valuable insights and are excellent resources for staying informed about the latest research in music psychology.
-
 </details>
 
 
