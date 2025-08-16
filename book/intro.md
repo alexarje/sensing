@@ -33,7 +33,7 @@ Students in the course typically have mixed backgrounds. Everyone usually has so
 
 This course builds on the idea of *active learning*, an approach that emphasizes student engagement and participation in the learning process. Rather than passively receiving information through lectures, students are encouraged to interact with the material, ask questions, solve problems, and collaborate with peers. Activities may include group discussions, hands-on experiments, peer reviewing, and real-world projects. This method helps deepen understanding, improve retention, and develop critical thinking skills.
 
-We also rely on a *flipped classroom** approach, which is a teaching model where traditional lecture content is delivered outside of class, typically through readings, videos, or interactive resources. This frees up classroom time to applying concepts through discussion, exercises, and collaborative work. This structure allows students to learn foundational material at their own pace and use class sessions for deeper exploration, clarification, and practical application. The flipped classroom fosters a more personalized and interactive learning environment, supporting diverse learning styles and encouraging active participation.
+We also rely on a *flipped classroom** approach, which is a teaching model where traditional lecture content is delivered outside of class, typically through readings, videos, or interactive resources. This frees up classroom time to apply concepts through discussion, exercises, and collaborative work. This structure allows students to learn foundational material at their own pace and use class sessions for deeper exploration, clarification, and practical application. The flipped classroom fosters a more personalized and interactive learning environment, supporting diverse learning styles and encouraging active participation.
 
 ### A research-based and research-led course
 
@@ -59,7 +59,7 @@ By adopting these practices, the course not only supports students in their acad
 
 In this course, we will actively explore the use of *artificial intelligence* both for exploring the content of the course but also as a pedagogical tool. There are currently many available AI tools, yet they are underexploited. We will try different tools and evaluate their effectiveness. 
 
-This textbook is an example of AI-based *co-creation*. Sections of the text are partly&mdash;or even fully&mdash;written by large language models. However, everything has been going through a human "peer review" to ensure that everything is in order. Throughout the course, we will explore when AI can safely be used for text generation and when it fails. 
+This textbook is an example of AI-based *co-creation*. Sections of the text are partly written by large language models. However, the text has been going through a human "peer review" to ensure that everything is in order. Throughout the course, we will explore when AI can safely be used for text generation and when it fails. 
 
 As an educator, using AI tools can help streamline administrative tasks and speed up content creation, which frees up time for meaningful interactions with students. It can help identify patterns in student performance, enabling targeted support and early intervention. AI-driven analytics offer insights into class engagement and learning outcomes, supporting data-informed teaching strategies.
 
@@ -72,7 +72,7 @@ We will explore various tools throughout the semester. You will not learn any of
 <details>
 <summary>PC Software</summary>
 
-We will use the following software, most of which are free and/or open source. They are all also cross-platform, that is, they work on both Windows, OSX, and Linux-based systems.  
+We will use the following software, most of which are free and/or open source. They are also all cross-platform, that is, they work on both Windows, OSX, and Linux-based systems.  
 
 - **[Sonic Visualiser](https://www.sonicvisualiser.org/)**: A powerful application for viewing and analyzing the contents of audio files. It allows you to visualize waveforms, spectrograms, and other audio features, making it a valuable tool for music analysis and research.
 
@@ -89,7 +89,7 @@ We will use the following software, most of which are free and/or open source. T
 
 <details>
 <summary>Phone apps</summary>
-We will use these apps that are free and cross-platform, working on both Android and iOS devices. 
+We will use these free and cross-platform apps, working on both Android and iOS devices. 
 
 - **[Noise Capture](https://noise-planet.org/noisecapture.html)**: A mobile app for recording and analyzing environmental noise. It is useful for studying soundscapes and understanding the impact of noise in different environments.
 
@@ -98,7 +98,7 @@ We will use these apps that are free and cross-platform, working on both Android
 
 <details>
 <summary>Hardware</summary>
-We will explore these devices in class. You are not expected to purchase these yourself, we have them available to borrow. 
+We will explore these devices in class. You are not expected to purchase these yourself; we have them available to borrow. 
 
 - **[LittleBits](https://littlebits.com/)**: A platform of modular electronic components that snap together to create interactive projects. It is a fun and creative way to explore sound synthesis and music-making.
 
@@ -151,7 +151,7 @@ There are not many relevant books in Norwegian, but here are some:
 
 ## Overview
 
-This textbook is divided into twelwe chapters that correspond to the 12 lectures in the course. 
+This textbook is divided into twelve chapters that correspond to the 12 lectures in the course. 
 
 ```{tableofcontents}
 ```
