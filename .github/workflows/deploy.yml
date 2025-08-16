@@ -34,8 +34,16 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 18.x
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
       - name: Install MyST Markdown
         run: npm install -g mystmd
+      - name: Install Python dependencies
+        run: |
+          if [ -f book/requirements.txt ]; then
+            pip install -r book/requirements.txt
+          fi
       - name: Build HTML Assets
         run: myst build --html
       - name: Upload artifact
