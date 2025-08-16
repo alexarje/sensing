@@ -27,10 +27,7 @@ project:
 site:
   template: book-theme
   options:
-    logo:   figures/cover/sensing-sound-and-music-square-300px.jpg
+    logo: figures/cover/sensing-sound-and-music-square-300px.jpg
 
 exports:
   - format: pdf
-
-myst_enable_extensions:
-  - mermaid

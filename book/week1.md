@@ -2,9 +2,7 @@
 title: "Week 1: Tuning in"
 subtitle: Exploring the Foundations of Music Psychology and Technology
 subject: MUS2640 Sensing Sound and Music
-Description: This page introduces the foundational concepts of music psychology and technology, exploring how humans perceive, experience, and create sound and music through both psychological and technological perspectives.
-exports:
-  - format: pdf
+description: This page introduces the foundational concepts of music psychology and technology, exploring how humans perceive, experience, and create sound and music through both psychological and technological perspectives.
 ---
 
 # Sensing Sound and music
@@ -212,8 +210,8 @@ The last concept we will introduce this week is the *action-perception loop*. Th
 
 ```mermaid
 flowchart LR
-  Action -->|Influences| Perception
-  Perception -->|Guides| Action
+  Action --> Perception
+  Perception --> Action
   style Action fill:#f9f,stroke:#333,stroke-width:2px
   style Perception fill:#bbf,stroke:#333,stroke-width:2px
 ```
