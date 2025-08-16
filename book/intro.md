@@ -151,6 +151,8 @@ There are not many relevant books in Norwegian, but here are some:
 
 ## Overview
 
+This textbook is divided into twelwe chapters that correspond to the 12 lectures in the course. 
+
 ```{tableofcontents}
 ```
 
