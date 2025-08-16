@@ -153,30 +153,66 @@ Given its many directions, music technologists typically work in many different 
 
 ## Listening to the world
 
-### Hearing vs listening
+We will spend next week's class only on listening, but will start with a little warm-up here. After all, listening is an essential human capacity and central to music. However, most people do not think much about listening in daily life, except for when it is annoying. Too low sound is difficult for hearing what is said and too low sound is unpleasant and even dangerous. But why is that and how do we talk about it in precise terms? That is what we will explore both here and later in class. 
 
 ```{exercise}
-Stand up, close your eyes, and listen to the environment. What do you hear?
+Stand up. Close your eyes. Lsten. What do you hear?
 ```
 
-Hearing is the passive physiological process of detecting sound waves through the auditory system, while listening is an active cognitive process that involves interpreting and making meaning of those sounds. In music cognition, listening is a complex activity that engages attention, memory, and emotional processing. Studies have shown that active listening can enhance musical appreciation and understanding, as well as improve auditory skills. Differentiating between hearing and listening is crucial for developing a deeper connection to music and sound in both educational and performance contexts.
+### Hearing vs listening
 
+Let us start by considering the difference between hearing and listening. *Hearing* is the passive physiological process of detecting sound waves through the auditory system, while *listening* is an active cognitive process that involves interpreting and making meaning of those sounds.
 
-<!--[Evelyn Glennie: How to Truly Listen](https://www.ted.com/talks/evelyn_glennie_how_to_truly_listen?subtitle=en)-->
+In the psychology literature, you will probably find references to several different types of hearing and listening:
 
-<div style="max-width:1024px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/evelyn_glennie_how_to_truly_listen?autoplay=false" width="1024px" height="576px" title="How to truly listen" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen onload="window.parent.postMessage('iframeLoaded', 'https://embed.ted.com')"></iframe></div></div>
+- **Passive hearing**: This occurs when sounds are registered by the ears and processed by the brain without conscious attention. For example, background noise in a café or the hum of an air conditioner.
+- **Selective hearing**: The ability to focus on specific sounds or voices while ignoring others, such as following a conversation in a noisy environment.
+- **Active listening**: Engaging attention and intention to understand, analyze, or respond to sounds or speech. This is essential in music appreciation, communication, and learning.
+- **Critical listening**: Evaluating and analyzing sound quality, musical structure, or meaning, often used in music production, performance, or academic study.
+- **Empathetic listening**: Focusing on the emotional content and intent behind sounds or speech, important in social interactions and therapeutic contexts.
+
+It is important to note that the mechanisms underlying these different approaches to hearing and listening are still actively reserached. So there are many&mdash;sometimes diverging&mdash;opinions about them, their differences, and how they overlap or connect. In any case, understanding these distinctions helps clarify how we interact with sound and music, moving from automatic sensory processing to deeper engagement and interpretation.
 
 ### Embodied music cognition
 
-Embodied music cognition emphasizes the role of the body in musical experience, suggesting that music is not only heard but also felt and enacted. This perspective integrates sensory, motor, and emotional dimensions, proposing that musical understanding arises from physical interaction with sound. Research in this field explores phenomena such as entrainment, where listeners synchronize their movements to a musical beat, and the role of gestures in musical performance. By engaging the body, embodied music cognition provides a holistic framework for studying how music is experienced and understood.
+I should from the outset say that the approach to human psychology presented in this book is not neutral (not that any other book is that, either, even though they pretend to be). It is heavily based in a tradition called [*embodied music cognition*](https://en.wikipedia.org/wiki/Embodied_music_cognition), emphasizing the role of the body in musical experience. This used to be a radical approach but has become more mainstream over the years. Several researchers at the University of Oslo&mdash;with Professor emeritus Rolf Inge Godøy in front&mdash;have been active in developing this branch of research over the last decades. It has been foundational to the [fourMs Lab](https://fourms.uio.no) and a core part of [RITMO](https://www.uio.no/ritmo/). 
+
+The core idea of embodied music cognition is that both the production and perception of music is based on integrating sensory, motor, and emotional dimensions. To paraphrase the father of "ecological psychology", James Gibson, you expore the world with eyes in a head on a body that moves around.  
+
+A different entry point to the same idea is the concept of *musicking*. The idea here is that music is not just an object or a finished product (like a song or a score), but rather an activity&mdash;something people do. The term musicking was popularized by musicologist Christopher Small, who argued that music is best understood as a verb&mdash;to music&mdash;not a noun. When a band plays a concert, the musicians, the dancers, the audience, the sound engineers, and even the people selling tickets and cleaning the hall are all engaged in musicking. The music exists not just in the notes played, but in the shared experience and interaction.
+
+Research within embodied music cognition are therefore eager to not only study "the music" but instead explore phenomena the complexity of musical interactions, from the the role of gestures in musical performance to how listeners synchronize their movements to a musical beat. By engaging the body, embodied music cognition provides a holistic framework for studying how music is experienced and understood.
+
+### Multimodality
+
+*Multimodality* is a core feature of embodied music cognition and refers to the integration and interaction of multiple sensory modalities in the perception and understanding of the world. This table summarizes the main human senses, their associated sensory modalities, and the organs involved in each. 
+
+| Sense         | Modality         | Human Organ(s)         |
+|---------------|------------------|------------------------|
+| Hearing       | Auditory         | Ears                   |
+| Sight         | Visual           | Eyes                   |
+| Touch         | Tactile          | Skin, Hands            |
+| Taste         | Gustatory        | Tongue, Mouth          |
+| Smell         | Olfactory        | Nose                   |
+| Balance       | Vestibular       | Inner Ear              |
+| Proprioception| Kinesthetic      | Muscles, Joints        |
+
+From a psychological perspective, multimodality emphasizes how the brain combines information from these different sensory channels to create a cohesive and enriched experience. In the context of music cognition, this could involve the interplay between auditory and motor systems, such as how visual cues from a performer influence the perception of sound or how physical gestures enhance musical expression and understanding.
+
+But also the other senses are involved. Touch provides tactile feedback for instrumentalists and singers; proprioception and balance help musicians coordinate movement and posture, especially in dance or performance; and even smell or taste can contribute to the emotional context and memory of musical events. These multisensory interactions enrich both performance and perception, deepening engagement for musicians and audiences alike.
+
+### Listening with the body
+
+The embodied music cognition 
+
+<div style="max-width:1024px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/evelyn_glennie_how_to_truly_listen?autoplay=false" width="1024px" height="576px" title="How to truly listen" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen onload="window.parent.postMessage('iframeLoaded', 'https://embed.ted.com')"></iframe></div></div>
+
 
 ### Action and Perception
 
 A theoretical starting point is that of ecological psychology, which posits that we sense through action, and we act through sensing. This is called the action-perception loop. In music, this loop is evident in activities such as playing an instrument, where sensory feedback informs motor actions, and vice versa. For example, a pianist adjusts their touch based on the sound produced, creating a continuous cycle of interaction. Practical exercises, such as improvisation and movement-based activities, can help students explore this dynamic relationship, deepening their understanding of how sensory input and motor output are intertwined in musical contexts.
 
-```{note} Multimodality
-Multimodality refers to the integration and interaction of multiple sensory modalities—such as vision, hearing, touch, and proprioception—in the perception and understanding of the world. From a psychological perspective, multimodality emphasizes how the brain combines information from these different sensory channels to create a cohesive and enriched experience. In the context of music cognition, this could involve the interplay between auditory and motor systems, such as how visual cues from a performer influence the perception of sound or how physical gestures enhance musical expression and understanding.
-```
+
 
 
 
@@ -185,3 +221,11 @@ Multimodality refers to the integration and interaction of multiple sensory moda
 
 ```{bibliography}
 ```
+
+## Questions
+
+1. What are the main differences between musicology, psychology, and technology as academic disciplines?
+2. How does interdisciplinarity enhance our understanding of sound and music compared to single-discipline approaches?
+3. What is the distinction between hearing and listening, and why is it important in music cognition?
+4. How does embodied music cognition explain the relationship between physical movement and musical experience?
+5. What is the action-perception loop, and how does it manifest in musical activities such as performance or improvisation?
