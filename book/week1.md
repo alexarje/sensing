@@ -1,7 +1,7 @@
 ---
 title: "Week 1: Tuning in"
 subtitle: Exploring the Foundations of Music Psychology and Technology
-subject: MUS2640 Sensing Sound and Music
+subject: Work in progress: The content in this textbook will be developed throughout the semester
 description: This page introduces the foundational concepts of music psychology and technology, exploring how humans perceive, experience, and create sound and music through both psychological and technological perspectives.
 ---
 
