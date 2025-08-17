@@ -173,9 +173,9 @@ It is important to note that the mechanisms underlying these different approache
 
 ### Embodied music cognition
 
-I should from the outset say that the approach to human psychology presented in this book is not neutral (not that any other book is that, either, even though they pretend to be). It is heavily based in a tradition called [*embodied music cognition*](https://en.wikipedia.org/wiki/Embodied_music_cognition), emphasizing the role of the body in musical experience. This used to be a radical approach but has become more mainstream over the years. Several researchers at the University of Oslo&mdash;with [Professor emeritus Rolf Inge Godøy](https://en.wikipedia.org/wiki/Rolf_Inge_God%C3%B8y) in front&mdash;have been active in developing this branch of research over the last decades. It has been foundational to the [fourMs Lab](https://fourms.uio.no) and a core part of [RITMO](https://www.uio.no/ritmo/). 
+I should from the outset say that the approach to human psychology presented in this book is not neutral (not that any other book is that, either, even though they pretend to be). It is heavily based in a tradition called [*embodied music cognition*](https://en.wikipedia.org/wiki/Embodied_music_cognition), emphasizing the role of the body in musical experience {cite}`leman_embodied_2008`. This used to be a radical approach but has become more mainstream over the years. Several researchers at the University of Oslo&mdash;with [Professor emeritus Rolf Inge Godøy](https://www.hf.uio.no/imv/english/people/aca/emeriti/rolfig/index.html) in front&mdash;have been active in developing this branch of research over the last decades. It has been foundational to the [fourMs Lab](https://fourms.uio.no) and a core part of [RITMO](https://www.uio.no/ritmo/). 
 
-The core idea of embodied music cognition is that both the production and perception of music are based on integrating sensory, motor, and emotional dimensions {cite}`godoy_motor_2003,leman_embodied_2008`. To paraphrase the father of ["ecological psychology"](https://en.wikipedia.org/wiki/Ecological_psychology), James Gibson, you explore the world with eyes in a head on a body that moves around.  
+The core idea of embodied music cognition is that both the production and perception of music are based on integrating sensory, motor, and emotional dimensions. To paraphrase the father of ["ecological psychology"](https://en.wikipedia.org/wiki/Ecological_psychology), James Gibson, you explore the world with eyes in a head on a body that moves around.  
 
 A different entry point to the same idea is the concept of [*musicking*](https://en.wikipedia.org/wiki/Christopher_Small#Musicking). The idea here is that music is not just an object or a finished product (like a song or a score), but rather an activity&mdash;something people do. The term musicking was popularized by musicologist [Christopher Small](https://en.wikipedia.org/wiki/Christopher_Small), who argued that music is best understood as a verb&mdash;to music&mdash;not a noun {cite}`small_musicking_1998`. When a band plays a concert, the musicians, the dancers, the audience, the sound engineers, and even the people selling tickets and cleaning the hall are all engaged in musicking. The music exists not just in the notes played, but in the shared experience and interaction.
 
@@ -213,13 +213,6 @@ flowchart LR
   Action --> Perception
   Perception --> Action
 ```
-
-## Bibliography
-
-
-```{bibliography}
-```
-
 ## Questions
 
 1. What are the main differences between musicology, psychology, and technology as academic disciplines?
@@ -227,3 +220,6 @@ flowchart LR
 3. What is the distinction between hearing and listening, and why is it important in music cognition?
 4. How does embodied music cognition explain the relationship between physical movement and musical experience?
 5. What is the action-perception loop, and how does it manifest in musical activities such as performance or improvisation?
+
+```{bibliography}
+```
