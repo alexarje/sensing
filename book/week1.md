@@ -14,13 +14,13 @@ This course is called "Sensing Sound and Music". But what does that mean? And wh
 Can you define the three terms "sensing", "sound", and "music"?
 ```
 
-Sound and music are fundamental to human experience, serving as both a medium of communication and a form of artistic expression. *Sound* is a physical phenomenon characterized by vibrations that travel through a medium, while *music* is an organized arrangement of sounds that evoke emotional, cognitive, and cultural responses. Humans *sense* sound through our auditory system, but as we will discuss throughout the course, also through our bodies. Exactly how we "sense" music is still one of the core questions of both musicology at large and music psychology more specifically. It is also of interest to music technology.
+Sound and music are fundamental to human experience, serving as both a medium of communication and a form of artistic expression. *Sound* is a physical phenomenon characterized by vibrations that travel through a medium, while *music* is an organized arrangement of sounds that evoke emotional, cognitive, and cultural responses. Humans *sense* sound through our auditory system, but as we will discuss throughout the course, also through our bodies. Exactly how we "sense" music is still one of the core questions of both musicology at large and music psychology more specifically. It is also of interest in music technology.
 
 Research in music psychology highlights how humans perceive and process sound, exploring topics such as pitch, rhythm, timbre, and harmony {cite}`godoy_motor_2003`. Technological advancements, such as digital audio workstations and sound synthesis, have expanded the boundaries of music creation and analysis, enabling new forms of artistic exploration {cite}`leman_embodied_2008`.
 
 ## An interdisciplinary approach
 
-This course aims at being *interdisciplinary*, meaning that it draws on methods, theories, and perspectives from multiple academic fields to address complex questions about sound and music. Interdisciplinarity goes beyond simply combining knowledge from different areas; in this case between musicology, psychology and technology. The idea is that by approaching sound and music from these varied viewpoints, we gain a richer understanding of how humans perceive, experience, and create music, as well as how technology can enhance and transform these processes.
+This course aims to be *interdisciplinary*, meaning that it draws on methods, theories, and perspectives from multiple academic fields to address complex questions about sound and music. Interdisciplinarity goes beyond simply combining knowledge from different areas; in this case, between musicology, psychology, and technology. The idea is that by approaching sound and music from these varied viewpoints, we gain a richer understanding of how humans perceive, experience, and create music, as well as how technology can enhance and transform these processes.
 
 ### Some etymology
 
@@ -41,13 +41,13 @@ By the end of the course, you will have learned some of the basic terminology, t
 
 ### Differences between disciplinarities
 
-When approaching different disciplines, it is important to understand how they interact. Many people call all sorts of collaboration between disciplines for "interdisciplinarity". However, there are some differences, highlighted in this figure: 
+When approaching different disciplines, it is important to understand how they interact. Many people call all sorts of collaboration between disciplines "interdisciplinarity". However, there are some differences, highlighted in this figure: 
 
 ![Different disciplinarities](https://www.arj.no/images/2022/03/01-disciplinarities-crop.pdf-1-1024x294.png)
 
-Intradisciplinary work stays within a single discipline, while crossdisciplinary approaches view one discipline from the perspective of another. Multidisciplinary collaboration involves people from different disciplines working together, each drawing on their own expertise. Interdisciplinary work integrates knowledge and methods from multiple disciplines, synthesizing approaches for deeper understanding. Transdisciplinary approaches go further, creating unified intellectual frameworks that transcend individual disciplinary boundaries.
+Intradisciplinary work stays within a single discipline, while crossdisciplinary approaches view one discipline from the perspective of another. Multidisciplinary collaboration involves people from different disciplines working together, each drawing on their own expertise. Interdisciplinary work integrates knowledge and methods from multiple disciplines, synthesizing approaches for a deeper understanding. Transdisciplinary approaches go further, creating unified intellectual frameworks that transcend individual disciplinary boundaries.
 
-One approach is not better than another and many researchers combine their approach dependent on the project type. Still, it is helpful to consider these differences when we start approaching each discipline and look at how they combine theories and methods. 
+One approach is not better than another, and many researchers combine their approach depending on the project type. Still, it is helpful to consider these differences as we approach each discipline and look at how they combine theories and methods. 
 
 ```{admonition} Question
 :class: question
@@ -72,7 +72,7 @@ Psychology in music focuses on understanding how humans perceive, process, and r
 
 These principles help us understand the universal and individual ways in which music impacts human experience, providing insights into both the psychological and cultural dimensions of music. In this course, we will primarily investigate perception, but also touch briefly upon cognition and behavior.
 
-Music psychology is a thriving field internationally. There are numerous international communities, conferences and journals for music psychology. These conferences provide excellent opportunities for networking, collaboration, and staying updated on the latest research.
+Music psychology is a thriving field internationally. There are numerous international communities, conferences, and journals for music psychology. These conferences provide excellent opportunities for networking, collaboration, and staying updated on the latest research.
 
 <details>
 <summary>Conferences and Communities in Music Psychology</summary>
@@ -97,7 +97,7 @@ Music psychology is a thriving field internationally. There are numerous interna
 - **[Musicae Scientiae](https://journals.sagepub.com/home/msx)**: The journal of the European Society for the Cognitive Sciences of Music, publishing research on music psychology, cognition, perception, and interdisciplinary studies.
 </details>
 
-Given its interdisciplinary nature, researchers are typically working in either musicology or psychology departments, which also often "skews" the research in one or the other direction. Researchers more on the musicology side tend to be more focused on real-world musical experiences, what is often termed "ecological validity" and using (more) qualitative methods. Researchers more on the psychology side typically work more on controlled experiments and using quantitative methods.
+Given its interdisciplinary nature, researchers are typically working in either musicology or psychology departments, which also often "skews" the research in one or the other direction. Researchers on the musicology side tend to be more focused on real-world musical experiences, what is often termed "ecological validity," and using (more) qualitative methods. Researchers in psychology typically work more on controlled experiments and using quantitative methods.
 
 While many researchers in music psychology may often feel "alone" in their respective departments, there are a few larger and specialized departments or research centers that focus on music psychology specifically. In these institutions, one can often see the width of the field, covering many different theoretical and methodological perspectives. 
 
@@ -110,7 +110,7 @@ Technology in music involves the use of tools and systems to create, analyze, an
 - **Music Information Retrieval (MIR)**: Extracting meaningful information from audio data, such as tempo, key, and genre classification.
 - **Interactive Systems**: Designing systems that respond to user input, enabling real-time music creation and performance.
 
-These technologies expand the possibilities for music creation and analysis, offering new ways to explore and innovate within the field. There are also many international journals, communities and annual conferences in music technology.
+These technologies expand the possibilities for music creation and analysis, offering new ways to explore and innovate within the field. There are also many international journals, communities, and annual conferences in music technology.
 
 <details>
 <summary>Conferences and Communities in Music Technology</summary>
@@ -147,14 +147,14 @@ When comparing them, there are some important differences between music technolo
 
 Music technology, on the other hand, spans several domains: science, art, design, and engineering. It encompasses scientific research into sound and audio processing, artistic exploration through composition and performance, design of musical instruments and interfaces, and engineering of hardware and software systems. Music technologists may work on developing new tools for music creation, analyzing audio signals, designing interactive installations, or exploring creative possibilities in digital media. This diversity means that music technology is not limited to scientific inquiry but also includes creative practice, technical innovation, and user-centered design.
 
-Given its many directions, music technologists typically work in many different types of departments: computer science, eletrical or mechanical engineering, design and art schools, but also within musicology departments and music conservatories. As for psychologists, this instutional basis often also influences the directions taken. 
+Given its many directions, music technologists typically work in many different types of departments: computer science, electrical or mechanical engineering, design and art schools, as well as within musicology departments and music conservatories. As for psychologists, this institutional basis often also influences the directions taken. 
 
 ## Listening to the world
 
-We will spend next week's class only on listening, but will start with a little warm-up here. After all, listening is an essential human capacity and central to music. However, most people do not think much about listening in daily life, except for when it is annoying. Too low sound is difficult for hearing what is said and too low sound is unpleasant and even dangerous. But why is that and how do we talk about it in precise terms? That is what we will explore both here and later in class. 
+We will spend next week's class only on listening, but we will start with a little warm-up here. After all, listening is an essential human capacity and central to music. However, most people do not think much about listening in daily life, except for when it is annoying. Too low sound is difficult to hear what is said, and too low sound is unpleasant and even dangerous. But why is that, and how do we talk about it in precise terms? That is what we will explore both here and later in class. 
 
 ```{exercise}
-Stand up. Close your eyes. Lsten. What do you hear?
+Stand up. Close your eyes. Listen. What do you hear?
 ```
 
 ### Hearing vs listening
@@ -169,17 +169,17 @@ In the psychology literature, you will probably find references to several diffe
 - **Critical listening**: Evaluating and analyzing sound quality, musical structure, or meaning, often used in music production, performance, or academic study.
 - **Empathetic listening**: Focusing on the emotional content and intent behind sounds or speech, important in social interactions and therapeutic contexts.
 
-It is important to note that the mechanisms underlying these different approaches to hearing and listening are still actively reserached. So there are many&mdash;sometimes diverging&mdash;opinions about them, their differences, and how they overlap or connect. In any case, understanding these distinctions helps clarify how we interact with sound and music, moving from automatic sensory processing to deeper engagement and interpretation.
+It is important to note that the mechanisms underlying these different approaches to hearing and listening are still actively researched. So there are many&mdash;sometimes diverging&mdash;opinions about them, their differences, and how they overlap or connect. In any case, understanding these distinctions helps clarify how we interact with sound and music, moving from automatic sensory processing to deeper engagement and interpretation.
 
 ### Embodied music cognition
 
-I should from the outset say that the approach to human psychology presented in this book is not neutral (not that any other book is that, either, even though they pretend to be). It is heavily based in a tradition called [*embodied music cognition*](https://en.wikipedia.org/wiki/Embodied_music_cognition), emphasizing the role of the body in musical experience {cite}`leman_embodied_2008`. This used to be a radical approach but has become more mainstream over the years. Several researchers at the University of Oslo&mdash;with [Professor emeritus Rolf Inge Godøy](https://www.hf.uio.no/imv/english/people/aca/emeriti/rolfig/index.html) in front&mdash;have been active in developing this branch of research over the last decades. It has been foundational to the [fourMs Lab](https://fourms.uio.no) and a core part of [RITMO](https://www.uio.no/ritmo/). 
+I should, from the outset, say that the approach to human psychology presented in this book is not neutral (not that any other book is that, either, even though they pretend to be). It is heavily based on a tradition called [*embodied music cognition*](https://en.wikipedia.org/wiki/Embodied_music_cognition), emphasizing the role of the body in musical experience {cite}`leman_embodied_2008`. This used to be a radical approach, but has become more mainstream over the years. Several researchers at the University of Oslo&mdash;with [Professor emeritus Rolf Inge Godøy](https://www.hf.uio.no/imv/english/people/aca/emeriti/rolfig/index.html) in front&mdash;have been active in developing this branch of research over the last decades. It has been foundational to the [fourMs Lab](https://fourms.uio.no) and a core part of [RITMO](https://www.uio.no/ritmo/). 
 
 The core idea of embodied music cognition is that both the production and perception of music are based on integrating sensory, motor, and emotional dimensions. To paraphrase the father of ["ecological psychology"](https://en.wikipedia.org/wiki/Ecological_psychology), James Gibson, you explore the world with eyes in a head on a body that moves around.  
 
 A different entry point to the same idea is the concept of [*musicking*](https://en.wikipedia.org/wiki/Christopher_Small#Musicking). The idea here is that music is not just an object or a finished product (like a song or a score), but rather an activity&mdash;something people do. The term musicking was popularized by musicologist [Christopher Small](https://en.wikipedia.org/wiki/Christopher_Small), who argued that music is best understood as a verb&mdash;to music&mdash;not a noun {cite}`small_musicking_1998`. When a band plays a concert, the musicians, the dancers, the audience, the sound engineers, and even the people selling tickets and cleaning the hall are all engaged in musicking. The music exists not just in the notes played, but in the shared experience and interaction.
 
-Research within embodied music cognition are therefore eager to not only study "the music" but instead explore phenomena the complexity of musical interactions, from the the role of gestures in musical performance to how listeners synchronize their movements to a musical beat. By engaging the body, embodied music cognition provides a holistic framework for studying how music is experienced and understood.
+Researchers within embodied music cognition are therefore eager to not only study "the music" but instead explore the complexity of musical interactions, from the role of gestures in musical performance to how listeners synchronize their movements to a musical beat. By engaging the body, embodied music cognition provides a holistic framework for studying how music is experienced and understood.
 
 ### Multimodality
 
@@ -195,9 +195,7 @@ Research within embodied music cognition are therefore eager to not only study "
 | Balance       | Vestibular       | Inner Ear              |
 | Proprioception| Kinesthetic      | Muscles, Joints        |
 
-From a psychological perspective, multimodality emphasizes how the brain combines information from these different sensory channels to create a cohesive and enriched experience. In the context of music cognition, this could involve the interplay between auditory and motor systems, such as how visual cues from a performer influence the perception of sound or how physical gestures enhance musical expression and understanding.
-
-But also the other senses are involved. Touch provides tactile feedback for instrumentalists and singers; proprioception and balance help musicians coordinate movement and posture, especially in dance or performance; and even smell or taste can contribute to the emotional context and memory of musical events. These multisensory interactions enrich both performance and perception, deepening engagement for musicians and audiences alike.
+From a psychological perspective, multimodality emphasizes how the brain combines information from these different sensory channels to create a cohesive and enriched experience. In the context of music cognition, this could involve the interplay between auditory and motor systems, such as how visual cues from a performer influence the perception of sound or how physical gestures enhance musical expression and understanding. However, the other senses are also involved. Touch provides tactile feedback for instrumentalists and singers; proprioception and balance help musicians coordinate movement and posture, especially in dance or performance; and even smell or taste can contribute to the emotional context and memory of musical events. These multisensory interactions enrich both performance and perception, deepening engagement for musicians and audiences alike.
 
 Most people agree that sound is a core component of music, yet there are notable examples of musicians and composers who have created and performed music despite significant hearing loss. [Ludwig van Beethoven](https://en.wikipedia.org/wiki/Ludwig_van_Beethoven), one of the most influential composers in Western music history, continued to compose groundbreaking works even after becoming profoundly deaf. In more recent times, percussionist [Evelyn Glennie](https://en.wikipedia.org/wiki/Evelyn_Glennie) has demonstrated that musical experience and expression are not limited by the ability to hear sound in a conventional way. Glennie, who lost most of her hearing by the age of twelve, developed unique techniques to sense vibrations through her body, allowing her to perform and interpret music at the highest level. These examples challenge traditional notions of music as purely an auditory phenomenon and highlight the importance of multimodal and embodied approaches to musical experience.
 
