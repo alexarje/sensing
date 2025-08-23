@@ -16,7 +16,7 @@ Can you define the three terms "sensing", "sound", and "music"?
 
 Sound and music are fundamental to human experience, serving as both a medium of communication and a form of artistic expression. *Sound* is a physical phenomenon characterized by vibrations that travel through a medium, while *music* is an organized arrangement of sounds that evoke emotional, cognitive, and cultural responses. Humans *sense* sound through our auditory system, but as we will discuss throughout the course, also through our bodies. Exactly how we "sense" music is still one of the core questions of both musicology at large and music psychology more specifically. It is also of interest in music technology.
 
-Research in music psychology highlights how humans perceive and process sound, exploring topics such as pitch, rhythm, timbre, and harmony {cite}`godoy_motor_2003`. Technological advancements, such as digital audio workstations and sound synthesis, have expanded the boundaries of music creation and analysis, enabling new forms of artistic exploration {cite}`leman_embodied_2008`.
+Research in music psychology highlights how humans perceive and process sound, exploring topics such as pitch, rhythm, timbre, and harmony. Technological advancements, such as digital audio workstations and sound synthesis, have expanded the boundaries of music creation and analysis, enabling new forms of artistic exploration.
 
 ## An interdisciplinary approach
 
@@ -173,13 +173,15 @@ It is important to note that the mechanisms underlying these different approache
 
 ### Embodied music cognition
 
-I should, from the outset, say that the approach to human psychology presented in this book is not neutral (not that any other book is that, either, even though they pretend to be). It is heavily based on a tradition called [*embodied music cognition*](https://en.wikipedia.org/wiki/Embodied_music_cognition), emphasizing the role of the body in musical experience {cite}`leman_embodied_2008`. This used to be a radical approach, but has become more mainstream over the years. Several researchers at the University of Oslo&mdash;with [Professor emeritus Rolf Inge Godøy](https://www.hf.uio.no/imv/english/people/aca/emeriti/rolfig/index.html) in front&mdash;have been active in developing this branch of research over the last decades. It has been foundational to the [fourMs Lab](https://fourms.uio.no) and a core part of [RITMO](https://www.uio.no/ritmo/). 
+The approach to human psychology presented in this book is not neutral (not that any other book is that, either, even though they pretend to be). It is heavily based on a tradition called [*embodied music cognition*](https://en.wikipedia.org/wiki/Embodied_music_cognition), emphasizing the role of the body in musical experience. Although he did not invent the term, it became popularized after {cite}`leman_embodied_2008` wrote a book with the same name. 
 
-The core idea of embodied music cognition is that both the production and perception of music are based on integrating sensory, motor, and emotional dimensions. To paraphrase the father of ["ecological psychology"](https://en.wikipedia.org/wiki/Ecological_psychology), James Gibson, you explore the world with eyes in a head on a body that moves around.  
+Embodied music cognition was seen as radical at first but has become more mainstream over the years. Several researchers at the University of Oslo&mdash;with [Professor emeritus Rolf Inge Godøy](https://www.hf.uio.no/imv/english/people/aca/emeriti/rolfig/index.html) in front&mdash;have been active in developing this branch of research over the last decades. The approach has been foundational to the studies of music-related body motion in the [fourMs Lab](https://fourms.uio.no) and is also at the core of many activities at [RITMO Centre for Interdisciplinary Studies of Rhythm, Time and Motion](https://www.uio.no/ritmo/).
 
-A different entry point to the same idea is the concept of [*musicking*](https://en.wikipedia.org/wiki/Christopher_Small#Musicking). The idea here is that music is not just an object or a finished product (like a song or a score), but rather an activity&mdash;something people do. The term musicking was popularized by musicologist [Christopher Small](https://en.wikipedia.org/wiki/Christopher_Small), who argued that music is best understood as a verb&mdash;to music&mdash;not a noun {cite}`small_musicking_1998`. When a band plays a concert, the musicians, the dancers, the audience, the sound engineers, and even the people selling tickets and cleaning the hall are all engaged in musicking. The music exists not just in the notes played, but in the shared experience and interaction.
+The core idea of embodied music cognition is that both the production and perception of music are based on integrating sensory, motor, and emotional dimensions. To paraphrase the father of ["ecological psychology"](https://en.wikipedia.org/wiki/Ecological_psychology), James Gibson, you explore the world with eyes in a head on a body that moves around. He was mainly interested in visual perception, but his ideas have inspired a similar thinking about other senses.
 
-Researchers within embodied music cognition are therefore eager to not only study "the music" but instead explore the complexity of musical interactions, from the role of gestures in musical performance to how listeners synchronize their movements to a musical beat. By engaging the body, embodied music cognition provides a holistic framework for studying how music is experienced and understood.
+A different entry point to a similar idea is the concept of [*musicking*](https://en.wikipedia.org/wiki/Christopher_Small#Musicking). This term popularized by musicologist [Christopher Small](https://en.wikipedia.org/wiki/Christopher_Small), who argued that music is best understood as a verb&mdash;to music&mdash;not a noun {cite}`small_musicking_1998`. Music is not an object or a finished product (like a song or a score), but rather an activity&mdash;something people do. When a band plays a concert, the musicians, the dancers, the audience, the sound engineers, and even the people selling tickets and cleaning the hall are all engaged in musicking. The music exists not just in the notes played, but in the shared experience and interaction.
+
+Researchers within embodied music cognition are eager to not only study "the music" but instead explore the complexity of musical interactions, from the role of gestures in musical performance to how perceivers synchronize their bodies to a musical beat. By engaging the body, embodied music cognition provides a holistic framework for studying how music is experienced and understood.
 
 ### Multimodality
 
@@ -204,7 +206,7 @@ Most people agree that sound is a core component of music, yet there are notable
 
 ### Action and Perception
 
-The last concept we will introduce this week is the *action-perception loop*. The idea of embodied cognition in general is that we sense through action, and act through sensing. In music, the action-perception loop is evident in activities such as playing an instrument, where sensory feedback informs motor actions, and vice versa. For example, a pianist adjusts their touch based on the sound produced, creating a continuous cycle of interaction. Practical exercises, such as improvisation and movement-based activities, can help students explore this dynamic relationship, deepening their understanding of how sensory input and motor output are intertwined in musical contexts.
+The last concept we will introduce this week is the *action-perception loop*. The idea of embodied cognition in general is that we sense through action, and act through sensing. In music, the action-perception loop is evident in activities such as playing an instrument, where sensory feedback informs motor actions, and vice versa. For example, a pianist adjusts their touch based on the sound produced, creating a continuous cycle of interaction.
 
 ```mermaid
 flowchart LR
@@ -214,10 +216,10 @@ flowchart LR
 ## Questions
 
 1. What are the main differences between musicology, psychology, and technology as academic disciplines?
-2. How does interdisciplinarity enhance our understanding of sound and music compared to single-discipline approaches?
-3. What is the distinction between hearing and listening, and why is it important in music cognition?
-4. How does embodied music cognition explain the relationship between physical movement and musical experience?
-5. What is the action-perception loop, and how does it manifest in musical activities such as performance or improvisation?
+2. How can interdisciplinarity enhance our understanding of sound and music compared to single-discipline approaches?
+3. What is the distinction between hearing and listening, and why does it matter when studying music?
+4. How does embodied music cognition explain relationships between physical motion and musical experiences?
+5. What is the action-perception loop, and how does it manifest in musical activities?
 
 ```{bibliography}
 ```
