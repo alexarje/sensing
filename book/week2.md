@@ -107,88 +107,59 @@ Through soundwalking, Westerkamp demonstrated how attentive listening can deepen
 
 ## Sound objects
 
-Pierre Schaeffer's approach to describing sound objects centers on the idea that sounds can be perceived as distinct, coherent units—*sound objects* (*objets sonores*). Rather than focusing on the source or meaning of a sound, Schaeffer advocated for *reduced listening*: attending to the intrinsic qualities of the sound itself, such as its texture, duration, pitch, and dynamics.
+The soundscape concept describes complex sonic environments. Now, let us "zoom in" and investigate specific [sound objects](https://en.wikipedia.org/wiki/Sound_object), distinct, coherent units of sound, typically in the range of 0.5 to 5 seconds. 
 
-He developed a taxonomy for classifying sound objects based on their temporal and spectral characteristics. Three core types are:
+### Pierre Schaeffer and the Sound Object
+
+The concept of sound object was proposed by the French composer and musicologist [Pierre Schaeffer](https://en.wikipedia.org/wiki/Pierre_Schaeffer) (1910–1995). He is renowned for pioneering [musique concrète](https://en.wikipedia.org/wiki/Musique_concr%C3%A8te), a form of electroacoustic music that uses recorded sounds as raw material. Throughout his work, Schaeffer's work laid the foundation for modern sound design, electronic music, and auditory research, influencing generations of composers and sound theorists.
+
+The sound object is at the core of Schaeffer's theoretical work. His argument was that when listening to sound, we do not hear the continuous sound but that our perception is grouped into a series of separate sound objects with specific properties. When we perceive speech, we hear words, not single phonemes. When we hear music, we hear tones and short phrases that fuse into "chunks" of sound. 
+
+Schaeffer also introduced the idea of *reduced listening* as a way to focus on the intrinsic qualities of sound *itself* rather than its source (sound-producing objects and actions) or semantic meaning. This includes a sound's texture, tone, and dynamics. 
+
+Through reduced listening, Schaeffer developed a large *spectromorphology* that can be used to describe any type of sound. We will not go into the whole system, but instead look at the general characterization of sound objects. He suggested three core types:
 
 - **Impulsive**: Short, percussive sounds (e.g., a click or a drum hit).
 - **Sustained**: Continuous sounds with steady qualities (e.g., a drone or a held note).
 - **Iterative**: Rapidly repeating sounds (e.g., a tremolo or a rattling noise).
 
-Schaeffer's spectromorphological framework allows for detailed analysis of how sounds evolve over time and how their frequency content changes. This approach is foundational in electroacoustic music and sound design, providing tools to describe, compare, and manipulate sounds independently of their sources or cultural associations.
+The categories are coarse, but this model can still be helpful for describing the general shape of sound objects. 
 
+![Schaeffer's three sound types](figures/impulsive-sustained-iterative.png)
 
-### Pierre Schaeffer and the Sound Object
+Schaeffer's thoughts have inspired numerous theorists and composers to date. He has been very influential in the development of [electroacoustic music](https://en.wikipedia.org/wiki/Electroacoustic_music), music that incorporates electronic technology for the production, manipulation, and reproduction of sound. It often involves recorded sounds, synthesis, and digital processing, allowing composers to explore new sonic possibilities beyond traditional instruments.
 
-The French composer and musicologist [Pierre Schaeffer](https://en.wikipedia.org/wiki/Pierre_Schaeffer) (1910–1995) is renowned for pioneering [musique concrète](https://en.wikipedia.org/wiki/Musique_concr%C3%A8te), a form of electroacoustic music that uses recorded sounds as raw material. Throughout his work, Schaeffer's work laid the foundation for modern sound design, electronic music, and auditory research, influencing generations of composers and sound theorists.
-
-At the core of Schaeffer's thinking is the [sound object](https://en.wikipedia.org/wiki/Sound_object) (*l'objet sonore*), a coherent "chunk" of sound. His argument was that when listening to sound, we do not hear the continuous sound but that our perception is grouped into series of sound objects with specific properties. 
-
-Further, Schaeffer introduced the idea of *reduced listening* as a way to focus on the intrinsic qualities of sound *itself* rather than its source (sound-producing objects and actions) or semantic meaning. This includes a sound's texture, tone, and dynamics. 
-
-Schaeffer developed a *spectromorphology*, a large taxonomy for describing any type of sound object. 
-
-Todo: add TARSOM
-
-We will not get into the details of this, but it is worth noting the thre core sound types he introduced: impulsive, sustained, and iterative. 
-
-Todo: add shapes
-
-Schaeffer's thoughts have inspired numerous theorists and composers to date. In Norway, Schaeffer's thoughts have been moved forwards by Professor Rolf Inge Godøy (UiO) and Lasse Thoresen (NMH). 
-
-
-### Michel Chion and AudioVisual theory
-
-[Michel Chion](https://en.wikipedia.org/wiki/Michel_Chion) (1947–) expanded on Pierre Schaeffer's theories of listening by categorizing listening into three distinct modes:
-
-- **Causal listening**: Inspired by Schaeffer's focus on sound sources, this mode involves identifying and understanding the origin of a sound.
-- **Semantic listening**: Building on Schaeffer's exploration of sound's meaning, this mode interprets sounds as part of a language or code.
-- **Reduced listening**: Directly derived from Schaeffer's concept, this mode emphasizes analyzing the intrinsic qualities of sound—its texture, tone, and dynamics—without considering its source or meaning.
-
-Chion's framework refines Schaeffer's ideas, providing a structured approach to understanding how listeners engage with sound in various contexts.
-
-Synchresis, a term coined by Michel Chion, refers to the perceptual phenomenon where a sound and a visual event are perceived as occurring simultaneously, even if they are artificially synchronized. This concept is central to audiovisual theory, as it highlights the human tendency to create a cohesive relationship between what is seen and heard. Synchresis plays a crucial role in film sound design, where it is used to enhance the emotional and narrative impact of scenes by aligning specific sounds with visual actions, regardless of their actual source or origin.
-
+Schaeffer's focus on reduced listening has also inspired a specific type of electroacoustic music called [acousmatic music](https://en.wikipedia.org/wiki/Acousmatic_music), where sound is heard without seeing its originating cause. Acousmatic music, pioneered by Schaeffer, is presented through loudspeakers (including "loudspeaker orchestras") often in dark concert settings, emphasizing the experience of sound itself rather than its source.
 
 ### Expanding Schaeffer’s thinking
 
 Several theorists have built upon Pierre Schaeffer’s foundational ideas about sound objects and listening:
 
-- **Dennis Smalley** (University of London) introduced and formalized the concept of *spectromorphology*, providing a comprehensive vocabulary for describing the spectral and morphological evolution of sounds. Smalley’s approach is widely used in electroacoustic music analysis and has helped clarify how listeners perceive the shape and transformation of sound objects over time.
+- **Dennis Smalley** (University of London) formalized the concept of *spectromorphology*, providing a comprehensive vocabulary for describing the spectral and morphological evolution of sounds. Smalley’s approach is widely used in electroacoustic music analysis and has helped clarify how listeners perceive the shape and transformation of sound objects over time.
 
 - **Lasse Thoresen** (Norwegian Academy of Music) has expanded spectromorphological analysis, creating practical frameworks for describing and notating sound objects in both electroacoustic and acoustic music. Thoresen’s work bridges theory and practice, making Schaeffer’s taxonomy accessible for composers and analysts.
 
 - **Rolf Inge Godøy** (University of Oslo) has advanced Schaeffer’s concepts by developing detailed models for how listeners perceive and mentally represent sound objects. Godøy’s work emphasizes *gestural-sonorous objects*, linking sound perception to physical gestures and movement, and has contributed to the field of *music cognition* and *morphological analysis*.
 
-### Eric Clarke's Ecological Listening
-
-[Eric Clarke](https://en.wikipedia.org/wiki/Eric_Clarke) explores the concept of **ecological listening**, which is grounded in **ecological perception theory**. This approach emphasizes:
-- **Direct perception**: Listeners perceive sounds in relation to their environment without needing extensive cognitive processing.
-- **Affordances**: Sounds provide cues about actions or interactions possible within a given environment.
-- **Contextual listening**: The meaning of sounds is shaped by their environmental and situational context.
-
-Clarke's work bridges psychology, musicology, and acoustic ecology, offering insights into how humans engage with sound as part of their lived experience.
+- **[Michel Chion](https://en.wikipedia.org/wiki/Michel_Chion)** (1947–) has introduced the concept of *synchresis* to describe the perceptual phenomenon where a sound and a visual event are perceived as occurring simultaneously, even if they are artificially synchronized. This concept is central to audiovisual theory, as it highlights the human tendency to create a cohesive relationship between what is seen and heard. Synchresis plays a crucial role in film sound design, where it is used to enhance the emotional and narrative impact of scenes by aligning specific sounds with visual actions, regardless of their actual source or origin.
 
 
 ## Artistic explorations
 
-This week, we will focus on some influential thinkers and practitioners from the 20th century that have contributed to our current understanding as a phenomenon. 
+As the overview above has shown, the developments of  soundscape and sound object theory have been developed by people that identify both as artistic and scientific researchers. This may be uncommon in some fields, but here, theoretical development can be seen as coming out of artistic practice, and the artistic practice has been inspired by the theoretical development. Here, we can look at some influential works that have been part of the same development. 
 
 ### John Cage and 4'33''
 
-[John Cage](https://en.wikipedia.org/wiki/John_Cage) (1912–1992) was a groundbreaking American composer and music theorist whose work challenged traditional notions of music and sound. 
+[John Cage](https://en.wikipedia.org/wiki/John_Cage) (1912–1992) was a groundbreaking American composer and music theorist whose work challenged traditional notions of music and sound. One of his most influential and controversial pieces is *[4'33''](https://en.wikipedia.org/wiki/4%E2%80%B233%E2%80%B3)*, composed in 1952. The piece consists of three movements, during which performers are instructed not to play their instruments. Instead, the focus shifts to the ambient sounds of the environment, making the audience's listening experience the central element of the composition. Cage's work emphasizes the idea that silence is never truly silent. The piece invites listeners to engage deeply with the sounds around them, blurring the line between music and environmental noise. *4'33''* is a seminal work in experimental music, influencing fields such as sound art, acoustic ecology, and contemporary composition.
 
-One of his most influential and controversial pieces is *[4'33''](https://en.wikipedia.org/wiki/4%E2%80%B233%E2%80%B3)*, composed in 1952. The piece consists of three movements, during which performers are instructed not to play their instruments. Instead, the focus shifts to the ambient sounds of the environment, making the audience's listening experience the central element of the composition. Cage's work emphasizes the idea that silence is never truly silent. The piece invites listeners to engage deeply with the sounds around them, blurring the line between music and environmental noise. *4'33''* is a seminal work in experimental music, influencing fields such as sound art, acoustic ecology, and contemporary composition.
-
-Cage's philosophy of embracing chance and redefining music continues to inspire artists and thinkers across disciplines.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JTEFKFiXSx4?si=Bh0A0SZ8V2OprjTs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Pauline Oliveros and Deep Listening
 
-[Pauline Oliveros](https://en.wikipedia.org/wiki/Pauline_Oliveros) (1932–2016) created the [Deep Listening](https://en.wikipedia.org/wiki/Deep_Listening) practice, emphasizing *sonic awareness* as heightened attention to sound and its context.
+[Pauline Oliveros](https://en.wikipedia.org/wiki/Pauline_Oliveros) (1932–2016) created the [Deep Listening](https://en.wikipedia.org/wiki/Deep_Listening) practice, emphasizing *sonic awareness* as heightened attention to sound and its context. Her *Sonic Meditations* is a collection of text-based instructions (1971) guiding groups in listening and sound-making exercises, fostering communal awareness and creativity. *Bye Bye Butterfly* (1965) was an early electronic composition blending live feedback and tape delay, reflecting on the transformation of sound and memory. 
+Throughout her long career she made numerous performances exploring acoustic space and group interaction. Oliveros’s work encourages active, inclusive listening and has influenced contemporary sound art, music therapy, and community music practices.
 
-Her *Sonic Meditations* is a collection of text-based instructions (1971) guiding groups in listening and sound-making exercises, fostering communal awareness and creativity. *Bye Bye Butterfly* (1965) was an early electronic composition blending live feedback and tape delay, reflecting on the transformation of sound and memory. Throughout her long career she made numerous performances exploring acoustic space and group interaction.
-
-Oliveros’s work encourages active, inclusive listening and has influenced contemporary sound art, music therapy, and community music practices.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_QHfOuRrJB8?si=LfxTPI1GcmhLwbrI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Yoko Ono and Experimental Listening
 
@@ -196,9 +167,9 @@ Oliveros’s work encourages active, inclusive listening and has influenced cont
 
 ### Alvin Lucier and "I am sitting in a room"
 
-[Alvin Lucier](https://en.wikipedia.org/wiki/Alvin_Lucier) (1931–2021) was an American composer known for his experimental works exploring acoustic phenomena and the perception of sound. His iconic piece, *[I am sitting in a room](https://en.wikipedia.org/wiki/I_Am_Sitting_in_a_Room)* (1969), is a landmark in sound art and acoustic ecology.
+[Alvin Lucier](https://en.wikipedia.org/wiki/Alvin_Lucier) (1931–2021) was an American composer known for his experimental works exploring acoustic phenomena and the perception of sound. His iconic piece, *[I am sitting in a room](https://en.wikipedia.org/wiki/I_Am_Sitting_in_a_Room)* (1969), is a landmark in sound art and acoustic ecology. In this work, Lucier records himself reading a text describing the process: he is sitting in a room, recording his voice, and will repeatedly play back and re-record the tape. With each iteration, the resonant frequencies of the room reinforce themselves, gradually transforming the speech into pure tones shaped by the space’s acoustics. Eventually, the words become unintelligible, replaced by the unique sonic fingerprint of the room.
 
-In this work, Lucier records himself reading a text describing the process: he is sitting in a room, recording his voice, and will repeatedly play back and re-record the tape. With each iteration, the resonant frequencies of the room reinforce themselves, gradually transforming the speech into pure tones shaped by the space’s acoustics. Eventually, the words become unintelligible, replaced by the unique sonic fingerprint of the room.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fAxHlLK3Oyk?si=quatI_I4Vrcz5BA_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 *I am sitting in a room* demonstrates how environments shape sound and listening. It invites reflection on the relationship between technology, space, and perception, and is widely cited in discussions of sound art, acoustic ecology, and experimental music.
 

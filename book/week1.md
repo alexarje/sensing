@@ -206,13 +206,19 @@ Most people agree that sound is a core component of music, yet there are notable
 
 ### Action and Perception
 
-The last concept we will introduce this week is the *action-perception loop*. The idea of embodied cognition in general is that we sense through action, and act through sensing. In music, the action-perception loop is evident in activities such as playing an instrument, where sensory feedback informs motor actions, and vice versa. For example, a pianist adjusts their touch based on the sound produced, creating a continuous cycle of interaction.
+The last concept we will introduce this week is the *action–perception loop*. The idea of embodied cognition in general is that we sense through action, and act through sensing. In music, the action-perception loop is evident in activities such as playing an instrument, where sensory feedback informs motor actions, and vice versa. For example, a pianist adjusts their touch based on the sound produced, creating a continuous cycle of interaction.
 
-```mermaid
-flowchart LR
-  Action --> Perception
-  Perception --> Action
-```
+![Action–perception loop](figures/action-cognition.png)
+
+[Eric Clarke](https://en.wikipedia.org/wiki/Eric_Clarke) has used the action–perception loop as core to his thinking about *ecological listening*. He bridges psychology, musicology, and acoustic ecology, offering insights into how humans engage with sound as part of their lived experience. In his influential book *Ways of Listening*, he argues for three different listening modes: 
+
+- **Direct perception**: Listeners perceive sounds in relation to their environment without needing extensive cognitive processing.
+- **Affordances**: Sounds provide cues about actions or interactions possible within a given environment.
+- **Contextual listening**: The meaning of sounds is shaped by their environmental and situational context.
+
+As we will see next week, there are many similar ways of thinking about how we listen. 
+
+
 ## Questions
 
 1. What are the main differences between musicology, psychology, and technology as academic disciplines?
