@@ -179,7 +179,7 @@ Norway has a vibrant community of artists and researchers working with soundscap
 
 - **Britt Pernille Frøholm** (1974–): Composer and performer exploring acoustic ecology and soundscape composition in Norwegian landscapes.
 - **Espen Sommer Eide** (1972–): Artist and musician working with field recordings, sound installations, and listening walks.
-- **Jana Winderen** (1965–): Internationally recognized sound artist whose field recordings and installations focus on underwater and natural sound environments.
+- **Jana Winderen** (1965–): Sound artist whose field recordings and installations focus on underwater and natural sound environments.
 - **Maja S. K. Ratkje** (1973–): Composer and performer integrating environmental sounds and experimental listening in her works.
 - **Natasha Barrett** (1972–): Composer and sound artist specializing in spatial audio, immersive sound installations, and electroacoustic composition, with a focus on environmental listening.
 
@@ -188,16 +188,16 @@ These practitioners have contributed to both artistic and academic developments 
 
 ## Capturing sound
 
-Capturing sound involves documenting and representing sonic experiences using various methods. This can include written descriptions, visual representations, and audio recordings. Each approach offers unique insights into the qualities and context of sounds.
+Let us now turn to how we can capture and represent sound in different ways. This can include written descriptions, visual representations, and audio recordings. Each approach offers unique insights into the qualities and context of sounds.
 
 ### Writing about sound
 
 Writing about sound is a way to translate auditory experiences into language. This can involve:
 
-- **Descriptive writing**: Use vivid adjectives and metaphors to convey the character of sounds (e.g., "a shimmering, metallic clang" or "a gentle, rhythmic hum").
+- **Descriptive writing**: Use adjectives and metaphors to convey the character of sounds (e.g., "a shimmering, metallic clang" or "a gentle, rhythmic hum").
 - **Contextual notes**: Record the time, location, and circumstances in which the sound occurred.
 - **Reflective journaling**: Capture your emotional or sensory response to the sound, noting how it affected your mood or perception.
-- **Analytical writing**: Break down the sound into its components (pitch, rhythm, timbre, dynamics) and discuss its structure or function.
+- **Analytical writing**: Break down the sound into its components (e.g., pitch, rhythm, timbre, dynamics) and discuss its structure or function.
 
 Writing helps clarify your listening experience and can be used for research, creative projects, or personal reflection.
 
@@ -223,13 +223,11 @@ Recording sounds is the most direct way to capture and preserve sonic events. Ke
 
 Audio recordings allow for detailed analysis, creative manipulation, and sharing of soundscapes and sonic objects with others.
 
-
-
-
 ```{exercise} Record soundscapes
 1. Walk slowly in a group, without talking 
-2. Stop whenever you hear something interesting 
-3. Upload at least one sound to Freesound.org
+2. Continuously record the soundscape with a mobile device
+3. Listen to your recording and cut out interesting sounds
+4. Share your sounds by uploading at least one sound to [Freesound.org](https://freesound.org/)
 ```
 
 
@@ -239,8 +237,8 @@ Audio recordings allow for detailed analysis, creative manipulation, and sharing
 ```
 ## Questions
 
-1. What are the main differences between describing sounds in music theory, acoustic ecology, and psychoacoustics?
-2. Explain Pierre Schaeffer's concept of the "sound object" and the practice of reduced listening.
-3. How does Michel Chion's framework of causal, semantic, and reduced listening help us understand our engagement with sound?
-4. What is the purpose of soundwalking, and how does it contribute to our understanding of acoustic ecology?
-5. Describe the role of microphones in listening practices and soundscape documentation.
+1. What are the main differences between describing sounds using acoustics, psychoacoustics, and music theory?
+2. Explain the concepts of keynote sounds, signals, and soundmarks as defined by R. Murray Schafer.
+3. What is the practice of soundwalking, and how did Hildegard Westerkamp contribute to its development?
+4. Describe Pierre Schaeffer’s concept of the sound object and the three core types he identified.
+5. How do artistic practices such as John Cage’s 4'33'' and Pauline Oliveros’s Deep Listening challenge traditional approaches to listening and sound?
