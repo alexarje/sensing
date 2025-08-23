@@ -1,4 +1,4 @@
-# Week 8: Physiology
+# Week 10: Physiology
 
 ## Physiological Reactions to Music
 

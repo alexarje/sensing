@@ -1,4 +1,4 @@
-# Week 11: The Brain
+# Week 8: The Brain
 
 
 ## The brain

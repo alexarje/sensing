@@ -1,4 +1,4 @@
-# Week 12: Machine Listening
+# Week 11: Machine Listening
 
 ## Machine Listening
 
