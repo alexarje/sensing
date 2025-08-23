@@ -6,7 +6,7 @@ project:
   title: Sensing Sound and Music
   description: A book for the UiO course MUS2640
   keywords: [sensing, sound, music]
-  authors: [Alexander Refsum Jensenius, University of Oslo]
+  authors: [Alexander Refsum Jensenius (ed.), University of Oslo]
   github: https://github.com/alexarje/sensing
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:

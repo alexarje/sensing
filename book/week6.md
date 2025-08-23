@@ -1,4 +1,4 @@
-# Week 6: Frequency
+# Week 6: Frequency and Timbre
 
 Frequency is a fundamental concept in music and sound, referring to the number of vibrations or cycles per second of a sound wave, measured in Hertz (Hz). It is the basis for understanding pitch, tone, and other auditory phenomena.
 

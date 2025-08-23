@@ -1,95 +1,81 @@
-# Week 8: Physiology
-
-## Physiological Reactions to Music
-
-Music has a profound impact on the human body, eliciting various physiological responses. These reactions can include changes in heart rate, blood pressure, respiration, and even skin conductance.
-
-## Skin Conductance
-Skin conductance, a measure of emotional arousal, can change in response to music. Exciting or emotionally charged music may increase skin conductance, indicating heightened emotional engagement, while calming music may reduce it.
+# Week 11: The Brain
 
 
-## Cardiac responses
+## The brain
 
-### Heart Rate
-Music can influence heart rate by either calming or exciting the listener. Slow, soothing music often reduces heart rate, promoting relaxation, while fast-paced or intense music can increase heart rate, reflecting heightened arousal or excitement.
+The brain is a highly complex organ that serves as the control center for the body’s functions and behaviors. It is composed of billions of neurons that communicate through electrical and chemical signals. These neural networks enable the brain to process sensory information, regulate bodily functions, generate thoughts and emotions, and coordinate movement.
 
-### Shared Absorption and Cardiac Interrelations in String Quartets
+Key regions of the brain include the cerebral cortex, which is responsible for higher-order functions such as reasoning, perception, and decision-making; the limbic system, which manages emotions and memory; and the brainstem, which controls vital functions like breathing and heart rate. The brain’s plasticity allows it to adapt and reorganize in response to experiences, learning, and injury.
 
-Høffding et al. (2023) investigated the phenomenon of shared absorption and its impact on cardiac interrelations within expert and student string quartets. The study examined how group dynamics and collective focus influence physiological synchronization, particularly heart rate patterns, during ensemble performances. Findings suggest that shared absorption fosters a unique form of interpersonal connection, enhancing both musical cohesion and emotional engagement among performers.
+Overall, the brain integrates information from both internal and external environments, enabling humans to interact with the world, solve problems, and experience consciousness.
 
-For further details, refer to the original article: [Into the Hive-Mind: Shared Absorption and Cardiac Interrelations in Expert and Student String Quartets](https://doi.org/10.1177/20592043231168597).
+### Key Brain Regions for Sound and Music Listening
 
-### Cardiac Oscillations in Large Ensembles
+Several specialized regions of the brain are crucial for processing sound and music:
 
-Cardiac synchronization, the phenomenon where heart rate patterns align between individuals, has been observed in various musical contexts. Research highlights its occurrence both among performers and between performers and audiences, shedding light on the physiological and emotional connections fostered by music.
+- **Auditory Cortex**: Located in the temporal lobe, the auditory cortex is responsible for decoding basic sound features such as pitch, loudness, and timbre. It plays a central role in recognizing and interpreting musical elements.
 
-#### Synchronization Among Choristers
-Müller and Lindenberger (2011) demonstrated that cardiac and respiratory patterns synchronize between individuals during choir singing. This synchronization reflects the deep interpersonal connection and shared focus required in ensemble performances, emphasizing the role of collective musical engagement in fostering physiological coherence.
+- **Prefrontal Cortex**: This area is involved in higher-order cognitive functions, including attention, pattern recognition, and prediction of musical structure.
 
-For further details, refer to the original article: [Cardiac and Respiratory Patterns Synchronize Between Persons During Choir Singing](https://doi.org/10.1371/journal.pone.0024893).
+- **Motor Cortex**: Even when passively listening to music, the motor cortex can be activated, reflecting the brain’s response to rhythm and beat, and its role in coordinating movement.
 
-#### Audience Synchronization During Performances
-Czepiel et al. (2024) explored how piano performances can induce cardiac synchronization among audience members. Their findings suggest that audio-visual concert experiences create a shared physiological response, enhancing the collective emotional experience of the audience.
+- **Limbic System**: Comprising structures like the amygdala and hippocampus, the limbic system is essential for emotional responses to music and linking music to memories.
 
-For further details, refer to the original article: [Audio-Visual Concert Performances Synchronize an Audience’s Heart Rates](https://doi.org/10.1101/2024.04.10.588486).
+- **Nucleus Accumbens**: Part of the brain’s reward system, this region is associated with the pleasurable feelings and motivation that music can evoke.
 
-#### Open Questions
-An intriguing question remains: how does cardiac coherence between musicians and audiences relate and evolve during a performance? Understanding this dynamic could provide deeper insights into the interplay of physiological and emotional connections in live musical settings.
+Together, these regions enable the perception, emotional experience, and cognitive processing of sound and music.
 
-### Heart Rate Variability
+## Psychology
 
-Heart rate variability (HRV) refers to the variation in time intervals between consecutive heartbeats. It is an important indicator of autonomic nervous system activity and overall cardiovascular health. Music has been shown to influence HRV, with different types of music eliciting varying effects.
+### Music Perception and Cognition
 
-Relaxing music, such as classical or ambient genres, can increase HRV, indicating a shift towards parasympathetic nervous system dominance, which is associated with relaxation and stress reduction. On the other hand, stimulating or high-tempo music may decrease HRV, reflecting sympathetic nervous system activation, which is linked to heightened arousal or stress.
+Music perception and cognition involve complex processes in the brain that integrate sensory, emotional, and cognitive functions. When listening to music, the auditory cortex processes sound waves, identifying pitch, rhythm, and timbre. The prefrontal cortex contributes to recognizing patterns and predicting musical structure, while the motor cortex is often activated, even when passively listening, due to the rhythmic elements of music.
 
-The impact of music on HRV is being explored in therapeutic contexts, such as stress management, anxiety reduction, and even cardiac rehabilitation, highlighting its potential as a non-invasive tool for improving well-being.
+The limbic system, including the amygdala and hippocampus, plays a key role in the emotional response to music, linking melodies to memories and evoking feelings. Additionally, the reward system, involving the release of dopamine in the nucleus accumbens, is activated during pleasurable musical experiences.
 
-### Blood Pressure
-Listening to music can also affect blood pressure. Relaxing music has been shown to lower blood pressure, which can be beneficial for stress relief. Conversely, loud or stimulating music may temporarily raise blood pressure.
+Music cognition also engages higher-order brain functions, such as attention, memory, and decision-making. Studies have shown that musical training can enhance neuroplasticity, improving cognitive abilities and even aiding in language processing and problem-solving.
 
-## Respiration
-Music can synchronize with breathing patterns. For example, slow tempos may encourage deeper, slower breaths, while faster tempos can lead to quicker, shallower breathing. This connection is often used in therapeutic settings to regulate respiration.
+Research continues to explore how these interconnected brain regions work together, shedding light on the profound impact of music on human cognition and emotion.
 
 
-### Effects of Lung Volume on the Electroglottographic Waveform
+## Capturing brain activity
 
-Ternström, D’Amario, and Selamtzis (2018) investigated how lung volume influences the electroglottographic (EGG) waveform in trained female singers. Their findings revealed that lung volume significantly affects vocal fold behavior during phonation. Specifically, higher lung volumes were associated with increased subglottal pressure, which altered the EGG waveform characteristics. These changes suggest that lung volume plays a critical role in vocal control and may impact vocal performance and technique. The study highlights the importance of understanding respiratory mechanics in vocal training and pedagogy.
+### EEG (Electroencephalography)
 
-For further details, refer to the original article: [Effects of the Lung Volume on the Electroglottographic Waveform in Trained Female Singers](https://doi.org/10.1016/j.jvoice.2018.09.006).
-
-### Interperformer Coordination in Piano-Singing Duo Performances
-
-D’Amario et al. (2023) explored the dynamics of interperformer coordination in piano-singing duo performances, focusing on how phrase structure and empathy influence synchronization. The study revealed that performers' ability to anticipate and adapt to each other's timing is crucial for achieving cohesive musical expression. Empathy between performers was found to enhance coordination, particularly during complex or expressive passages. These findings underscore the importance of interpersonal connection and shared musical understanding in collaborative performances.
-
-For further details, refer to the original article: [Interperformer Coordination in Piano-Singing Duo Performances: Phrase Structure and Empathy Impact](https://doi.org/10.1007/s00426-023-01818-8).
+Electroencephalography (EEG) is a method used to record electrical activity of the brain. It is commonly used in neuroscience, cognitive psychology, and clinical diagnostics. EEG measures voltage fluctuations resulting from ionic current within the neurons of the brain.
 
 
-## Measuring physiological data
-
-### Equivital LifeMonitor
-
-The Equivital LifeMonitor is a wearable physiological monitoring device designed to capture a range of biometric data, including respiration and heart rate. It is commonly used in research, healthcare, and performance monitoring due to its accuracy and portability.
-
-The device uses respiratory inductance plethysmography (RIP) technology, which involves elastic bands embedded with sensors that measure the expansion and contraction of the chest and abdomen during breathing. By analyzing these movements, the LifeMonitor can determine respiratory rate and patterns.
-
-The LifeMonitor employs electrocardiography (ECG) sensors to measure the electrical activity of the heart. These sensors are integrated into the chest strap, allowing the device to detect heartbeats and calculate heart rate. The ECG data can also provide insights into heart rate variability (HRV), which is an important indicator of autonomic nervous system activity.
-
-The Equivital LifeMonitor is valued for its ability to provide continuous, real-time physiological data, making it a versatile tool for applications such as stress analysis, physical performance assessment, and medical research.
+![EEG](https://upload.wikimedia.org/wikipedia/commons/3/39/EEG_recording.jpg)  
+[Learn more about EEG on Wikipedia](https://en.wikipedia.org/wiki/Electroencephalography)
 
 
-```{note}
-Equivital LifeMonitor
-```
+### fNIRS (Functional Near-Infrared Spectroscopy)
+
+Functional Near-Infrared Spectroscopy (fNIRS) is a non-invasive imaging technique that uses near-infrared light to measure brain activity. It is often used in cognitive neuroscience and neurorehabilitation studies.
+
+![fNIRS](https://commons.wikimedia.org/wiki/File:FNIRS.jpg)  
+[Learn more about fNIRS on Wikipedia](https://en.wikipedia.org/wiki/Functional_near-infrared_spectroscopy)
+
+
+### MEG (Magnetoencephalography)
+
+Magnetoencephalography (MEG) is a neuroimaging technique for mapping brain activity by recording magnetic fields produced by electrical currents occurring naturally in the brain. It is particularly useful for studying brain function and connectivity.
+
+![MEG](https://commons.wikimedia.org/wiki/File:MEG_Instrument.jpg)  
+[Learn more about MEG on Wikipedia](https://en.wikipedia.org/wiki/Magnetoencephalography)
+
+### fMRI (Functional Magnetic Resonance Imaging)
+
+Functional Magnetic Resonance Imaging (fMRI) is a technique that measures and maps brain activity by detecting changes associated with blood flow. It is widely used in neuroscience and psychology to study brain function.
+
+![fMRI](https://commons.wikimedia.org/wiki/File:FMRI_Scan.jpg)  
+[Learn more about fMRI on Wikipedia](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging)
 
 
 
-
-## Citations
-
-the following syntax: `` {cite}`holdgraf_evidence_2014` `` 
-
-Here is the bibliography
-
+## References
 
 ```{bibliography}
 ```
+
+## Questions

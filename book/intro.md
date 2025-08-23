@@ -27,13 +27,13 @@ Having completed the course, you will:
 
 ## Pedagogical Strategy
 
-Students in the course typically have mixed backgrounds. Everyone usually has some kind of musical background, ranging from classical performance on acoustic instruments to electronic studio production. Some come from psychology, others from computer science, and others again from media studies, philosophy, linguistics, medicine, and more. Everyone is welcome! In-class activities will be adjusted to cater to the collective knowledge and experience of the student group. 
+Students in the course typically have mixed backgrounds. Everyone usually has some kind of musical background, ranging from classical performance on acoustic instruments to electronic studio production. Some come from musicology, others from psychology, informatics, media studies, philosophy, linguistics, medicine, and more. Everyone is welcome! In-class activities will be adjusted to cater to the collective knowledge and experience of the student group. 
 
 ### Active learning and "flipped classroom"
 
 This course builds on the idea of *active learning*, an approach that emphasizes student engagement and participation in the learning process. Rather than passively receiving information through lectures, students are encouraged to interact with the material, ask questions, solve problems, and collaborate with peers. Activities may include group discussions, hands-on experiments, peer reviewing, and real-world projects. This method helps deepen understanding, improve retention, and develop critical thinking skills.
 
-We also rely on a *flipped classroom** approach, which is a teaching model where traditional lecture content is delivered outside of class, typically through readings, videos, or interactive resources. This frees up classroom time to apply concepts through discussion, exercises, and collaborative work. This structure allows students to learn foundational material at their own pace and use class sessions for deeper exploration, clarification, and practical application. The flipped classroom fosters a more personalized and interactive learning environment, supporting diverse learning styles and encouraging active participation.
+We also rely on a *flipped classroom** approach, which is a teaching model where traditional lecture content is delivered outside of class, typically through readings, videos, or interactive resources. This frees up classroom time to apply concepts through discussion, exercises, and collaborative work. This structure allows students to learn foundational material at their own pace and use class sessions for deeper exploration, clarification, and practical application. The flipped classroom model fosters a more personalized and interactive learning environment, supporting diverse learning styles. 
 
 ### A research-based and research-led course
 
@@ -43,7 +43,7 @@ The course is also *research-led*, meaning that students will take part in ongoi
 
 ### Open Education
 
-The course material is developed from the perspective of Open Education, meaning that everything is freely and openly available. This approach ensures that students have unrestricted access to resources, enabling them to revisit and explore the material beyond the course duration. Open Education also promotes collaboration and sharing of knowledge within and outside the academic community. This is important for societal innovation and the legitimization of ongoing research. 
+The course material is developed from the perspective of Open Education, meaning that all material is freely and openly available. This approach ensures that students have unrestricted access to resources, enabling them to revisit and explore the material beyond the course duration. Open Education also promotes collaboration and sharing of knowledge within and outside the academic community. This is important for societal innovation and the legitimization of ongoing research. 
 
 Open Education aligns closely with the principles of Open Research, which emphasize transparency, accessibility, and reproducibility. In this course, we aim to integrate these principles by providing access to:
 
@@ -59,11 +59,9 @@ By adopting these practices, the course not only supports students in their acad
 
 In this course, we will actively explore the use of *artificial intelligence* both for exploring the content of the course but also as a pedagogical tool. There are currently many available AI tools, yet they are underexploited. We will try different tools and evaluate their effectiveness. 
 
-This textbook is an example of AI-based *co-creation*. Sections of the text are partly written by large language models. However, the text has been going through a human "peer review" to ensure that everything is in order. Throughout the course, we will explore when AI can safely be used for text generation and when it fails. 
+This textbook is an example of AI-based *co-creation*. Sections of the text are partly written by large language models. However, the text has been going through a human "peer review" to ensure that everything makes sense. Throughout the course, we will explore when AI can safely be used for text generation and when it fails. 
 
-As an educator, using AI tools can help streamline administrative tasks and speed up content creation, which frees up time for meaningful interactions with students. It can help identify patterns in student performance, enabling targeted support and early intervention. AI-driven analytics offer insights into class engagement and learning outcomes, supporting data-informed teaching strategies.
-
-Students should also use AI actively. AI-powered platforms can adapt content and feedback to individual learning styles and paces, helping students master concepts more effectively. However, AI-based tools should be used wisely; they are there to help learning, not to replace it. After all, the exam will be performed without any tools. Then you will need to think and write on your own!
+In this class, you are encouraged to use AI actively. AI-powered platforms can adapt content and feedback to individual learning styles and paces, helping you master concepts more effectively. However, AI-based tools should be used wisely; they are there to help learning, not to replace it. After all, the exam will be performed without any tools. Then you will need to think and write on your own!
 
 ## Tools
 
@@ -140,7 +138,7 @@ Some books serve more as large-scale references of their respective fields:
 <summary>Relevant Norwegian-language books</summary>
 There are not many relevant books in Norwegian, but here are some:
 
-- **Musikkvitenskap: Introduksjon og Perspektiver**: *Even Ruud* (2005), Oslo: Universitetsforlaget. An introductory Norwegian textbook covering key perspectives and approaches in musicology.
+- **[Musikkvitenskap: Introduksjon og Perspektiver](https://www.universitetsforlaget.no/musikkvitenskap-1)**: *Even Ruud* (2005), Oslo: Universitetsforlaget. An introductory Norwegian textbook covering key perspectives and approaches in musicology.
 
 - **[Musikk og Bevegelse](https://www.duo.uio.no/handle/10852/25589)**: *Alexander Refsum Jensenius* (2009), Oslo: Unipub. A Norwegian book exploring the relationship between music and movement.
 
@@ -151,7 +149,7 @@ There are not many relevant books in Norwegian, but here are some:
 
 ## Overview
 
-This textbook is divided into twelve chapters that correspond to the 12 lectures in the course. 
+This textbook is divided into chapters corresponding to the lectures in the course. 
 
 ```{tableofcontents}
 ```
