@@ -177,11 +177,11 @@ Throughout her long career she made numerous performances exploring acoustic spa
 
 Norway has a vibrant community of artists and researchers working with soundscapes, listening practices, and acoustic ecology:
 
-- **Britt Pernille Frøholm** (1974–): Composer and performer exploring acoustic ecology and soundscape composition in Norwegian landscapes.
-- **Espen Sommer Eide** (1972–): Artist and musician working with field recordings, sound installations, and listening walks.
-- **Jana Winderen** (1965–): Sound artist whose field recordings and installations focus on underwater and natural sound environments.
-- **Maja S. K. Ratkje** (1973–): Composer and performer integrating environmental sounds and experimental listening in her works.
-- **Natasha Barrett** (1972–): Composer and sound artist specializing in spatial audio, immersive sound installations, and electroacoustic composition, with a focus on environmental listening.
+- **[Britt Pernille Frøholm](https://www.brittpernillefroholm.no/)** (1974–): Composer and performer exploring acoustic ecology and soundscape composition in Norwegian landscapes.
+- **[Espen Sommer Eide](https://www.sommer-eide.net/)** (1972–): Artist and musician working with field recordings, sound installations, and listening walks.
+- **[Jana Winderen](https://www.janawinderen.com/)** (1965–): Sound artist whose field recordings and installations focus on underwater and natural sound environments.
+- **[Maja S. K. Ratkje](https://ratkje.no/)** (1973–): Composer and performer integrating environmental sounds and experimental listening in her works.
+- **[Natasha Barrett](https://www.natashabarrett.org/)** (1972–): Composer and sound artist specializing in spatial audio, immersive sound installations, and electroacoustic composition, with a focus on environmental listening.
 
 These practitioners have contributed to both artistic and academic developments in the field, often collaborating across disciplines to deepen our understanding of sound and listening in Norwegian contexts.
 
