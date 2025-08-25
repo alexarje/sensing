@@ -244,8 +244,6 @@ Audio recordings allow for detailed analysis, creative manipulation, and sharing
 ```
 
 
-## References
-
 ```{bibliography}
 ```
 ## Questions
