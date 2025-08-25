@@ -104,6 +104,19 @@ Through soundwalking, Westerkamp demonstrated how attentive listening can deepen
 2. Stop whenever you hear something interesting 
 3. Write a note on why you stopped and what was interesting
 ```
+### Steven Feld and Acoustemology
+
+[Steven Feld](https://en.wikipedia.org/wiki/Steven_Feld) (1949–) is an American anthropologist and ethnomusicologist known for his pioneering work on the relationship between sound, culture, and perception. Feld introduced the concept of *acoustemology* as a blend of "acoustics" and "epistemology" to describe how knowledge and experience are shaped through sound and listening.
+
+Acoustemology emphasizes that listening is not just a sensory act but a way of knowing and engaging with the world. Feld’s research, particularly with the Kaluli people of Papua New Guinea, demonstrates how sound is deeply embedded in social life, memory, and identity. He explored how environmental sounds, music, and language are interconnected, and how communities use sound to make sense of their surroundings.
+
+Key aspects of acoustemology include:
+- **Sound as Knowledge**: Understanding that sound is a primary medium for learning, communicating, and relating to place.
+- **Cultural Listening**: Recognizing that listening practices are shaped by cultural context, history, and environment.
+- **Sonic Identity**: Investigating how communities define themselves and their spaces through distinctive soundscapes and musical traditions.
+
+Feld’s work encourages researchers and listeners to consider how sound shapes experience and meaning, and how listening can be a method for understanding both local and global cultures. Acoustemology has influenced fields such as anthropology, sound studies, and ethnomusicology, expanding the ways we think about the role of sound in human life.
+
 
 ## Sound objects
 
