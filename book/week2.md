@@ -2,73 +2,77 @@
 title: "Week 2: Listening"
 subtitle: Listening, describing, and understanding soundscapes, sound objects, and influential theories
 subject: "Disclaimer: Textbook in development"
-description: "This chapter explores the art and science of listening, focusing on how sounds and soundscapes are described, understood, and analyzed across disciplines. It introduces influential theories and thinkers, practical listening exercises, and tools for engaging with the sonic environment. Students will learn to identify sound objects, interpret soundscapes, and apply critical frameworks to deepen their listening skills."
+description: "This chapter explores the art and science of listening, focusing on how sounds and soundscapes are described, understood, and analyzed across disciplines. It introduces influential theories and thinkers, practical listening exercises, and tools for engaging with the sonic environment."
 exports:
   - format: pdf
 ---
 
 ## Describing sounds
 
-Recall last week's discussion about hearing and listening. We will get back to the mechanisms for hearing in the coming weeks&mdash;focusing on both the acoustics and psychoacoustics&mdash;but this week will focus on how we listen, what we listen to, and how we can describe the sound and reflect on its meaning.
+Recall last week's discussion about differences hearing and listening. We will get back to the mechanisms for both hearing in the coming weeks&mdash;focusing on both the acoustic and psychoacoustic parts&mdash;but this week will focus on how we listen, what we listen to, and how we can describe the sound and reflect on its meaning.
 
-```{exercise} Listen when standing
+```{exercise} Listen with close and open eyes
 1. Find a suitable location.
 2. Stand still for two minutes with your eyes closed.
 3. Listen attentively to the environment.
 4. Open your eyes and stand still for another two minutes.
 5. Listen attentively to the environment.
-6. Write down some reflections about what you heard. Did it change after opening the eyes?
+6. Reflect on what you heard. Did it change after opening the eyes?
 ```
 
 ### Many approaches to describing sounds
 
-Academic approaches to describing sounds and soundscapes vary across the three main directions we are considering in this course (musicology, psychology, and technology). They each tap into various subfields (or paradigms), each offering distinct frameworks and terminologies:
+Academic approaches to describing sound vary across the three main directions we are considering in this course (musicology, psychology, and technology). They each tap into various subfields (or paradigms), each offering distinct frameworks and terminologies:
 
-- **Acoustics**: Focuses on the physical properties of sound waves, such as frequency, amplitude, duration, and propagation in different media.  
+- **[Acoustics](https://en.wikipedia.org/wiki/Acoustics)**: Focuses on the physical properties of sound waves, such as frequency, amplitude, duration, and propagation in different media.  
 	*Example*: An acoustician might describe a clap in a concert hall as "a broadband impulse with a peak amplitude of 85 dB SPL, followed by a reverberation decay time of 1.8 seconds," using measurements and graphs to illustrate how sound behaves in the space.
 
-- **Psychoacoustics**: Investigates how humans perceive sound, using quantitative measures (frequency, loudness, spatial location) and perceptual attributes (brightness, roughness).  
+- **[Psychoacoustics](https://en.wikipedia.org/wiki/Psychoacoustics)**: Investigates how humans perceive sound, using quantitative measures (frequency, loudness, spatial location) and perceptual attributes (brightness, roughness).  
 	*Example*: A psychoacoustic study might report that "a 1000 Hz tone at 60 dB SPL is perceived as moderately loud and bright," and compare listener responses to tones with varying roughness or spatial placement.
 
-- **Music theory**: Focus on musical parameters (pitch, rhythm, timbre, dynamics) and cultural context.  
-	*Example*: A musicologist might describe a violin note as "a sustained, high-pitched tone with a bright timbre and gradual crescendo," using musical notation or a spectrogram to illustrate its frequency and amplitude over time.
+- **[Music theory](https://en.wikipedia.org/wiki/Music_theory)**: Focuses on musical parameters (pitch, rhythm, timbre, dynamics) and cultural context.  
+	*Example*: A musicologist might describe a violin tone as "a slightly sharp C, with a bright timbre, starting from pianissimo and with a gradual crescendo," using musical notation to visualize it on paper.
 
-- **Spectromorphology**: This specialized form of music theory analyzes the spectral (frequency) and morphological (shape, evolution) characteristics of sounds.  
+- **[Spectromorphology](https://en.wikipedia.org/wiki/Spectromorphology)**: This specialized form of music theory analyzes the spectral (frequency) and morphological (shape and evolution) characteristics of sounds.  
 	*Example*: A spectromorphological analysis could describe a cymbal crash as "an impulsive onset followed by a complex, evolving spectrum that decays over several seconds," visualized with a spectrogram showing frequency content over time.
 
-All of these descriptions focus specifically on describing the sound "itself" or how we *hear* it. There are also several approaches to studying the effects of sound on people or environments: 
+All of these descriptions focus specifically on describing the sound "itself" or how we *hear* it. There are also several (slightly overlapping) approaches to studying the effects of sound on people or environments: 
 
-- **Sound Studies**: An interdisciplinary field that examines sound as a cultural, social, and material phenomenon. Sound studies draw from media studies, anthropology, history, and philosophy to explore how sound shapes and is shaped by society, technology, and everyday life.  
+- **[Sound Studies](https://en.wikipedia.org/wiki/Sound_studies)**: An interdisciplinary field that examines sound as a cultural, social, and material phenomenon. Sound studies draw from media studies, anthropology, history, and philosophy to explore how sound shapes and is shaped by society, technology, and everyday life.  
 	*Example*: A sound studies scholar might analyze how urban noise regulations reflect social attitudes toward public space, or investigate the role of sound in shaping collective memory and identity.
 
-- **Acoustic Ecology**: Emphasizes environmental context, categorizing sounds as keynote, signal, or soundmark. Soundscapes are described in terms of their ecological function and impact.  
+- **[Acoustic Ecology](https://en.wikipedia.org/wiki/Acoustic_ecology)**: Emphasizes environmental context, categorizing sounds as keynote, signal, or soundmark. Soundscapes are described in terms of their ecological function and impact.  
 	*Example*: An acoustic ecologist could document a city park by noting "birdsong as a keynote, a distant siren as a signal, and the hourly chime of a church bell as a soundmark," analyzing how each sound shapes the experience of the space.
 
-- **Ethnography and Anthropology**: Uses qualitative methods such as interviews, field notes, and participatory observation to describe how communities interact with and interpret their sonic environments.  
+- **[Ethnography](https://en.wikipedia.org/wiki/Ethnography)**: This subbranch of [anthropology](https://en.wikipedia.org/wiki/Anthropology) uses qualitative methods such as interviews, field notes, and participatory observation to describe how communities interact with and interpret their sonic environments.  
 	*Example*: An ethnographer might record that "local residents describe the evening call to prayer as calming and unifying," supplementing this with field notes and interviews about its social significance.
 
-- **Linguistics and Semiotics**: Examines the meaning and communicative function of sounds, including onomatopoeia, prosody, and sound symbolism.  
+- **[Linguistics](https://en.wikipedia.org/wiki/Linguistics) and [Semiotics](https://en.wikipedia.org/wiki/Semiotics)**: Examines the meaning and communicative function of sounds, including onomatopoeia, prosody, and sound symbolism.  
 	*Example*: A linguist could analyze the word "buzz" as onomatopoeic, noting how its sound mimics the noise of a bee, or study how rising intonation in speech signals a question.
 
-There is no right or wrong when it combines to studying sound. All of these approaches (and more) aim to uncover various aspects of both the physical properties of sounds but also their meaning, context, and impact on listeners. We won't have time to cover all of these in detail in this course, but will look more closely at some of the closest ones to the fields of music psychology and technology.
+There is no right or wrong when it combines to studying sound. All of these approaches (and more) aim to uncover various aspects of both the physical properties of sounds but also their meaning, context, and impact on listeners. Several of them are also used in various combinations. We won't have time to cover all of these in detail in this course, but will look more closely at some of the closest ones to the fields of music psychology and technology. This week, we will focus on two main concepts that been influential in the development of our understanding of listening: *soundscapes* and *sound objects*.
 
 
 ## Soundscapes
 
-A *soundscape* refers to the acoustic environment as perceived or experienced by people, encompassing all the sounds that arise from both natural and human-made sources. Describing soundscapes involves several dimensions:
+A *[soundscape](https://en.wikipedia.org/wiki/Soundscape)* refers to the acoustic environment as perceived or experienced by people, encompassing all the sounds that arise from both natural and human-made sources. Describing soundscapes involves several dimensions:
 
 - **Physical Properties**: Documenting the types of sounds present (e.g., birdsong, traffic, water), their frequency ranges, loudness, and temporal patterns.
 - **Ecological Function**: Identifying the roles sounds play in the environment, such as signaling, masking, or providing information about ecological health.
-- **Spatial Characteristics**: Noting how sounds are distributed in space—directionality, distance, and reverberation within the environment.
-- **Perceptual Attributes**: Describing how listeners experience the soundscape—pleasantness, annoyance, tranquility, or stimulation.
+- **Spatial Characteristics**: Noting how sounds are distributed in space: directionality, distance, and reverberation within the environment.
+- **Perceptual Attributes**: Describing how listeners experience the soundscape: pleasantness, annoyance, tranquility, or stimulation.
 
-A comprehensive description of a soundscape often combines objective measurements such as sound level measuements and field recordings that can be used to make spectrograms with annotated sound maps and written descriptions to capture and analyze soundscapes. Together, these objective measurements, subjective impressions, and contextual information provide a holistic understanding of the sonic environment.
+A comprehensive description of a soundscape often combines "objective" measurements such as sound level measurements and field recordings that can be used to make spectrograms with annotated sound maps and written descriptions to capture and analyze soundscapes. Together, these objective measurements, subjective impressions, and contextual information provide a holistic understanding of the sonic environment.
+
+```{note} 
+The distinction between "objectivity" and "subjectivity" in research is complex and debated. It is important to note that the so-called objective approaches (relying on recording and measurements) are always based on context and subective choices. Similarly, subjective note-taking and interpretation can be systematized to reduce bias. In contemporary research, we try to use multi-method approaches that combine perspectives from the "qualitative" and "quantitative" directions. Integrating both perspectives provides a richer, more nuanced understanding of soundscapes, acknowledging that scientific inquiry into sound must balance measurement with meaning.
+```
 
 
 ### R. Murray Schafer and Acoustic Ecology
-[R. Murray Schafer](https://en.wikipedia.org/wiki/R._Murray_Schafer) (1933–2021) was one of the pioneers of soundscape studies. He defined the concept of *[soundscape](https://en.wikipedia.org/wiki/Soundscape)* as the acoustic environment as perceived by humans. He led the [World Soundscape Project](https://en.wikipedia.org/wiki/World_Soundscape_Project) from the 1960s at Simon Fraser University in Canada, a groundbreaking research initiative focused on studying, documenting, and analyzing the sonic environments of various locations. Through this work, Schafer and his team developed new methods for field recording, sound mapping, and acoustic analysis, aiming to understand how sounds shape our experience of place and community.
+[R. Murray Schafer](https://en.wikipedia.org/wiki/R._Murray_Schafer) (1933–2021) was one of the pioneers of soundscape studies. He was to propose and define *[soundscape](https://en.wikipedia.org/wiki/Soundscape)* as the acoustic environment as perceived by humans. Starting from the 1960s, he led the [World Soundscape Project](https://en.wikipedia.org/wiki/World_Soundscape_Project) at Simon Fraser University in Canada, a groundbreaking research initiative focused on studying, documenting, and analyzing the sonic environments of various locations. Through this work, Schafer and his team developed new methods for field recording, sound mapping, and acoustic analysis, aiming to understand how sounds shape our experience of place and community.
 
-Schafer's most famous book is *The Tuning of the World*, which introduced key concepts for analyzing soundscapes:
+Schafer's most famous book is *[The Tuning of the World](https://www.google.no/books/edition/The_Soundscape/-FsoDwAAQBAJ?hl=no&gbpv=0)* {cite}`schaferSoundscapeOurSonic1977`, which introduced key concepts for analyzing soundscapes:
 
 - **Keynote sounds**: These are background sounds that are fundamental to a particular environment, often heard unconsciously. Examples include the hum of traffic in a city or the rustling of leaves in a forest. Keynotes set the acoustic context but are not usually the focus of attention.
 
@@ -76,9 +80,7 @@ Schafer's most famous book is *The Tuning of the World*, which introduced key co
 
 - **Soundmarks**: Soundmarks are unique or characteristic sounds that are especially valued by a community or location, similar to landmarks in the visual environment. Examples might be the chimes of a local church bell, a distinctive factory whistle, or a waterfall. Soundmarks help define the identity of a place and are often preserved or celebrated.
 
-These concepts help listeners and researchers describe, analyze, and understand the structure and meaning of soundscapes in different environments. 
-
-Schafer’s laid the foundation for the field of [acoustic ecology](https://en.wikipedia.org/wiki/Acoustic_ecology) and inspired similar projects worldwide, encouraging interdisciplinary collaboration between musicians, scientists, urban planners, and environmentalists. The project advocated for the preservation of valuable soundscapes and raised awareness about the impact of noise pollution and urbanization on our acoustic environment. It also inspired the [World Forum for Acoustic Ecology (WFAE) Conference](https://www.wfae.net/), an international gathering bringing together researchers, artists, educators, and practitioners to explore the relationship between humans and their sonic environments.
+Schafer's work laid the foundation for the field of [acoustic ecology](https://en.wikipedia.org/wiki/Acoustic_ecology) and inspired similar projects worldwide, encouraging interdisciplinary collaboration between musicians, scientists, urban planners, and environmentalists. The project advocated for the preservation of valuable soundscapes and raised awareness about the impact of noise pollution and urbanization on our acoustic environment. It also inspired the [World Forum for Acoustic Ecology (WFAE) Conference](https://www.wfae.net/), an international gathering bringing together researchers, artists, educators, and practitioners to explore the relationship between humans and their sonic environments.
 
 Schafer also introduced the term [schizophonia](https://en.wikipedia.org/wiki/Schizophonia) to describe the separation of a sound from its source, often through recording technology. For example, when you hear a bird song played from a speaker, the sound is no longer coming from the bird itself, but from a device. This separation can change how we experience and relate to sounds, sometimes making them feel less "authentic" or connected to their natural context.
 
@@ -88,13 +90,14 @@ Schafer also introduced the term [schizophonia](https://en.wikipedia.org/wiki/Sc
 [Hildegard Westerkamp](https://en.wikipedia.org/wiki/Hildegard_Westerkamp) (1946–) worked with Schafer in the World Soundscape Project and is famous for developing the concept of [soundwalking](https://en.wikipedia.org/wiki/Soundwalking) as a reflective practice of walking and listening to the environment. This is not only a practice of listening but also a method of engaging with the environment in a mindful and reflective way. It encourages participants to become aware of the acoustic ecology of their surroundings, fostering a deeper connection to place and community. Soundwalking can be used as a tool for artistic inspiration, environmental awareness, and even therapeutic purposes. 
 
 Key aspects of soundwalking include:
+
 - **Active Listening**: Paying close attention to the layers of sound in the environment, from the most prominent to the subtle.
 - **Contextual Awareness**: Understanding how sounds interact with the physical and social context of a space.
 - **Documentation**: Participants may choose to record sounds, take notes, or create maps to capture their auditory experience.
 
 Hildegard Westerkamp’s soundwalking practice bridges both scientific research and artistic exploration. In her scientific work, Westerkamp used soundwalks as a method for gathering data about urban and natural soundscapes. Participants documented their listening experiences, helping researchers analyze acoustic environments, identify sources of noise pollution, and understand how people perceive and interact with their sonic surroundings. These soundwalks contributed to studies in acoustic ecology, urban planning, and environmental psychology.
 
-Artistically, Westerkamp transformed soundwalking into a creative process. She composed works based on field recordings and reflections gathered during soundwalks, such as her acclaimed piece "Kits Beach Soundwalk." Her compositions often blend environmental sounds with narration, inviting listeners to experience places through attentive listening. Westerkamp’s approach encourages audiences to engage with everyday sounds as musical material, blurring the boundaries between scientific observation and artistic expression.
+Artistically, Westerkamp transformed soundwalking into a creative process. She composed works based on field recordings and reflections gathered during soundwalks, such as her acclaimed piece *[Kits Beach Soundwalk](https://www.youtube.com/watch?v=hg96nU6ltLk)*. Her compositions often blend environmental sounds with narration, inviting listeners to experience places through attentive listening. Westerkamp’s approach encourages audiences to engage with everyday sounds as musical material, blurring the boundaries between scientific observation and artistic expression.
 
 Through soundwalking, Westerkamp demonstrated how attentive listening can deepen our understanding of environments, foster community awareness, and inspire new forms of sonic art.
 
@@ -104,33 +107,35 @@ Through soundwalking, Westerkamp demonstrated how attentive listening can deepen
 2. Stop whenever you hear something interesting 
 3. Write a note on why you stopped and what was interesting
 ```
+
 ### Steven Feld and Acoustemology
 
-[Steven Feld](https://en.wikipedia.org/wiki/Steven_Feld) (1949–) is an American anthropologist and ethnomusicologist known for his pioneering work on the relationship between sound, culture, and perception. Feld introduced the concept of *acoustemology* as a blend of "acoustics" and "epistemology" to describe how knowledge and experience are shaped through sound and listening.
+[Steven Feld](https://en.wikipedia.org/wiki/Steven_Feld) (1949–) is an American anthropologist and ethnomusicologist known for his pioneering work on the relationship between sound, culture, and perception. Feld introduced the concept of *[acoustemology](https://en.wikipedia.org/wiki/Acoustemology)* as a blend of "acoustics" and "epistemology" to describe how knowledge and experience are shaped through sound and listening.
 
 Acoustemology emphasizes that listening is not just a sensory act but a way of knowing and engaging with the world. Feld’s research, particularly with the Kaluli people of Papua New Guinea, demonstrates how sound is deeply embedded in social life, memory, and identity. He explored how environmental sounds, music, and language are interconnected, and how communities use sound to make sense of their surroundings.
 
 Key aspects of acoustemology include:
+
 - **Sound as Knowledge**: Understanding that sound is a primary medium for learning, communicating, and relating to place.
 - **Cultural Listening**: Recognizing that listening practices are shaped by cultural context, history, and environment.
 - **Sonic Identity**: Investigating how communities define themselves and their spaces through distinctive soundscapes and musical traditions.
 
-Feld’s work encourages researchers and listeners to consider how sound shapes experience and meaning, and how listening can be a method for understanding both local and global cultures. Acoustemology has influenced fields such as anthropology, sound studies, and ethnomusicology, expanding the ways we think about the role of sound in human life.
+Feld’s work encourages researchers and listeners to consider how sound shapes experience and meaning, and how listening can be a method for understanding both local and global cultures.
 
 
 ## Sound objects
 
-The soundscape concept describes complex sonic environments. Now, let us "zoom in" and investigate specific [sound objects](https://en.wikipedia.org/wiki/Sound_object), distinct, coherent units of sound, typically in the range of 0.5 to 5 seconds. 
+After having considered soundscapes more broadly, let us "zoom in" and investigate specific [sound objects](https://en.wikipedia.org/wiki/Sound_object) in more detail. The development of this concept came before that of soundscapes, coming out of a French "school" of composers and theorists.
 
 ### Pierre Schaeffer and the Sound Object
 
 The concept of sound object was proposed by the French composer and musicologist [Pierre Schaeffer](https://en.wikipedia.org/wiki/Pierre_Schaeffer) (1910–1995). He is renowned for pioneering [musique concrète](https://en.wikipedia.org/wiki/Musique_concr%C3%A8te), a form of electroacoustic music that uses recorded sounds as raw material. Throughout his work, Schaeffer's work laid the foundation for modern sound design, electronic music, and auditory research, influencing generations of composers and sound theorists.
 
-The sound object is at the core of Schaeffer's theoretical work. His argument was that when listening to sound, we do not hear the continuous sound but that our perception is grouped into a series of separate sound objects with specific properties. When we perceive speech, we hear words, not single phonemes. When we hear music, we hear tones and short phrases that fuse into "chunks" of sound. 
+The sound object&mdash;*l'objet sonore* in French&mdash;is at the core of Schaeffer's theoretical work. His argument was that when listening to sound, we do not hear the continuous sound but that our perception is grouped into a series of separate sound objects with specific properties. When we perceive speech, we hear words, not single phonemes. When we hear music, we hear tones and short phrases that fuse into "chunks" of sound, typically in the range of 0.5 to 5 seconds.
 
 Schaeffer also introduced the idea of *reduced listening* as a way to focus on the intrinsic qualities of sound *itself* rather than its source (sound-producing objects and actions) or semantic meaning. This includes a sound's texture, tone, and dynamics. 
 
-Through reduced listening, Schaeffer developed a large *spectromorphology* that can be used to describe any type of sound. We will not go into the whole system, but instead look at the general characterization of sound objects. He suggested three core types:
+Through reduced listening, Schaeffer developed a large *[spectromorphology](https://en.wikipedia.org/wiki/Spectromorphology)* that can be used to describe any type of sound. We will not go into the whole system, but instead look at the general characterization of sound objects. He suggested three core types:
 
 - **Impulsive**: Short, percussive sounds (e.g., a click or a drum hit).
 - **Sustained**: Continuous sounds with steady qualities (e.g., a drone or a held note).
@@ -140,19 +145,19 @@ The categories are coarse, but this model can still be helpful for describing th
 
 ![Schaeffer's three sound types](figures/impulsive-sustained-iterative.png)
 
-Schaeffer's thoughts have inspired numerous theorists and composers to date. He has been very influential in the development of [electroacoustic music](https://en.wikipedia.org/wiki/Electroacoustic_music), music that incorporates electronic technology for the production, manipulation, and reproduction of sound. It often involves recorded sounds, synthesis, and digital processing, allowing composers to explore new sonic possibilities beyond traditional instruments.
+Schaeffer's thoughts have inspired numerous theorists and composers to date. He is often considered the "father" of [electroacoustic music](https://en.wikipedia.org/wiki/Electroacoustic_music), music that incorporates electronic technology for the production, manipulation, and reproduction of sound. It often involves recorded sounds, synthesis, and digital processing, allowing composers to explore new sonic possibilities beyond traditional instruments.
 
-Schaeffer's focus on reduced listening has also inspired a specific type of electroacoustic music called [acousmatic music](https://en.wikipedia.org/wiki/Acousmatic_music), where sound is heard without seeing its originating cause. Acousmatic music, pioneered by Schaeffer, is presented through loudspeakers (including "loudspeaker orchestras") often in dark concert settings, emphasizing the experience of sound itself rather than its source.
+Schaeffer's focus on reduced listening has also inspired a specific type of electroacoustic music called [acousmatic music](https://en.wikipedia.org/wiki/Acousmatic_music), where sound is heard without seeing its originating cause. Acousmatic music, often presented through "loudspeaker orchestras" in dark concert settings, emphasize the experience of sound itself rather than its source.
 
 ### Expanding Schaeffer’s thinking
 
 Several theorists have built upon Pierre Schaeffer’s foundational ideas about sound objects and listening:
 
-- **Dennis Smalley** (University of London) formalized the concept of *spectromorphology*, providing a comprehensive vocabulary for describing the spectral and morphological evolution of sounds. Smalley’s approach is widely used in electroacoustic music analysis and has helped clarify how listeners perceive the shape and transformation of sound objects over time.
+- **[Dennis Smalley](https://en.wikipedia.org/wiki/Denis_Smalley)** (University of London) formalized the concept of *spectromorphology*, providing a comprehensive vocabulary for describing the spectral and morphological evolution of sounds. Smalley’s approach is widely used in electroacoustic music analysis and has helped clarify how listeners perceive the shape and transformation of sound objects over time.
 
-- **Lasse Thoresen** (Norwegian Academy of Music) has expanded spectromorphological analysis, creating practical frameworks for describing and notating sound objects in both electroacoustic and acoustic music. Thoresen’s work bridges theory and practice, making Schaeffer’s taxonomy accessible for composers and analysts.
+- **[Lasse Thoresen](https://en.wikipedia.org/wiki/Lasse_Thoresen)** (Norwegian Academy of Music) has expanded spectromorphological analysis, creating practical frameworks for describing and notating sound objects in both electroacoustic and acoustic music. Thoresen’s work bridges theory and practice, making Schaeffer’s taxonomy accessible for composers and analysts.
 
-- **Rolf Inge Godøy** (University of Oslo) has advanced Schaeffer’s concepts by developing detailed models for how listeners perceive and mentally represent sound objects. Godøy’s work emphasizes *gestural-sonorous objects*, linking sound perception to physical gestures and movement, and has contributed to the field of *music cognition* and *morphological analysis*.
+- **[Rolf Inge Godøy](https://www.hf.uio.no/imv/english/people/aca/emeriti/rolfig/index.html)** (University of Oslo) has advanced Schaeffer’s concepts by developing detailed models for how listeners perceive and mentally represent sound objects. Godøy’s work emphasizes *gestural-sonorous objects*, linking sound perception to physical gestures and movement, and has contributed to the field of *music cognition* and *morphological analysis*.
 
 - **[Michel Chion](https://en.wikipedia.org/wiki/Michel_Chion)** (1947–) has introduced the concept of *synchresis* to describe the perceptual phenomenon where a sound and a visual event are perceived as occurring simultaneously, even if they are artificially synchronized. This concept is central to audiovisual theory, as it highlights the human tendency to create a cohesive relationship between what is seen and heard. Synchresis plays a crucial role in film sound design, where it is used to enhance the emotional and narrative impact of scenes by aligning specific sounds with visual actions, regardless of their actual source or origin.
 
