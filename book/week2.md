@@ -153,29 +153,30 @@ Schaeffer's focus on reduced listening has also inspired a specific type of elec
 
 Several theorists have built upon Pierre Schaeffer’s foundational ideas about sound objects and listening:
 
-- **[Dennis Smalley](https://en.wikipedia.org/wiki/Denis_Smalley)** (University of London) formalized the concept of *spectromorphology*, providing a comprehensive vocabulary for describing the spectral and morphological evolution of sounds. Smalley’s approach is widely used in electroacoustic music analysis and has helped clarify how listeners perceive the shape and transformation of sound objects over time.
+- **[Dennis Smalley](https://en.wikipedia.org/wiki/Denis_Smalley)** (1946–, University of London) formalized the concept of *spectromorphology*, providing a comprehensive vocabulary for describing the spectral and morphological evolution of sounds. Smalley’s approach is widely used in electroacoustic music analysis and has helped clarify how listeners perceive the shape and transformation of sound objects over time.
 
-- **[Lasse Thoresen](https://en.wikipedia.org/wiki/Lasse_Thoresen)** (Norwegian Academy of Music) has expanded spectromorphological analysis, creating practical frameworks for describing and notating sound objects in both electroacoustic and acoustic music. Thoresen’s work bridges theory and practice, making Schaeffer’s taxonomy accessible for composers and analysts.
+- **[Lasse Thoresen](https://en.wikipedia.org/wiki/Lasse_Thoresen)** (1949–, Norwegian Academy of Music) has expanded spectromorphological analysis, creating practical frameworks for describing and notating sound objects in both electroacoustic and acoustic music. Thoresen’s work bridges theory and practice, making Schaeffer’s taxonomy accessible for composers and analysts.
 
-- **[Rolf Inge Godøy](https://www.hf.uio.no/imv/english/people/aca/emeriti/rolfig/index.html)** (University of Oslo) has advanced Schaeffer’s concepts by developing detailed models for how listeners perceive and mentally represent sound objects. Godøy’s work emphasizes *gestural-sonorous objects*, linking sound perception to physical gestures and movement, and has contributed to the field of *music cognition* and *morphological analysis*.
+- **[Rolf Inge Godøy](https://www.hf.uio.no/imv/english/people/aca/emeriti/rolfig/index.html)** (1955–, University of Oslo) has advanced Schaeffer’s concepts by developing detailed models for how listeners perceive and mentally represent sound objects. Godøy’s work emphasizes *gestural-sonorous objects*, linking sound perception to physical gestures and movement, and has contributed to the field of *embodied music cognition* and *morphological analysis*.
 
 - **[Michel Chion](https://en.wikipedia.org/wiki/Michel_Chion)** (1947–) has introduced the concept of *synchresis* to describe the perceptual phenomenon where a sound and a visual event are perceived as occurring simultaneously, even if they are artificially synchronized. This concept is central to audiovisual theory, as it highlights the human tendency to create a cohesive relationship between what is seen and heard. Synchresis plays a crucial role in film sound design, where it is used to enhance the emotional and narrative impact of scenes by aligning specific sounds with visual actions, regardless of their actual source or origin.
 
 
 ## Artistic explorations
 
-As the overview above has shown, the developments of  soundscape and sound object theory have been developed by people that identify both as artistic and scientific researchers. This may be uncommon in some fields, but here, theoretical development can be seen as coming out of artistic practice, and the artistic practice has been inspired by the theoretical development. Here, we can look at some influential works that have been part of the same development. 
+As the overview above has shown, the developments of soundscape and sound object theory have been developed by people that identify both as artistic and scientific researchers, producing both artistic and scientific results This may be uncommon in some fields, but within sound and music, theoretical development can be seen as coming out of artistic practice, and the artistic practice has been inspired by the theoretical development. Here, we will look at some influential works that have been part of the same development. 
 
 ### John Cage and 4'33''
 
-[John Cage](https://en.wikipedia.org/wiki/John_Cage) (1912–1992) was a groundbreaking American composer and music theorist whose work challenged traditional notions of music and sound. One of his most influential and controversial pieces is *[4'33''](https://en.wikipedia.org/wiki/4%E2%80%B233%E2%80%B3)*, composed in 1952. The piece consists of three movements, during which performers are instructed not to play their instruments. Instead, the focus shifts to the ambient sounds of the environment, making the audience's listening experience the central element of the composition. Cage's work emphasizes the idea that silence is never truly silent. The piece invites listeners to engage deeply with the sounds around them, blurring the line between music and environmental noise. *4'33''* is a seminal work in experimental music, influencing fields such as sound art, acoustic ecology, and contemporary composition.
+[John Cage](https://en.wikipedia.org/wiki/John_Cage) (1912–1992) was an American composer and music theorist whose work challenged traditional notions of sound and music. One of his most influential and controversial pieces is *[4'33''](https://en.wikipedia.org/wiki/4%E2%80%B233%E2%80%B3)*, composed in 1952. The piece consists of three movements, during which performers are instructed not to play their instruments. Instead, the focus shifts to the ambient sounds of the environment, making the audience's listening experience the central element of the composition. Cage's work emphasizes the idea that silence is never truly silent. The piece invites listeners to engage deeply with the sounds around them, blurring the line between music and environmental noise. *4'33''* is a seminal work in experimental music, influencing fields such as sound art, acoustic ecology, and contemporary composition.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JTEFKFiXSx4?si=Bh0A0SZ8V2OprjTs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Pauline Oliveros and Deep Listening
 
-[Pauline Oliveros](https://en.wikipedia.org/wiki/Pauline_Oliveros) (1932–2016) created the [Deep Listening](https://en.wikipedia.org/wiki/Deep_Listening) practice, emphasizing *sonic awareness* as heightened attention to sound and its context. Her *Sonic Meditations* is a collection of text-based instructions (1971) guiding groups in listening and sound-making exercises, fostering communal awareness and creativity. *Bye Bye Butterfly* (1965) was an early electronic composition blending live feedback and tape delay, reflecting on the transformation of sound and memory. 
-Throughout her long career she made numerous performances exploring acoustic space and group interaction. Oliveros’s work encourages active, inclusive listening and has influenced contemporary sound art, music therapy, and community music practices.
+[Pauline Oliveros](https://en.wikipedia.org/wiki/Pauline_Oliveros) (1932–2016) created the [Deep Listening](https://en.wikipedia.org/wiki/Deep_Listening) practice, emphasizing *sonic awareness* as heightened attention to sound and its context. Her *Sonic Meditations* is a collection of text-based instructions (1971) guiding groups in listening and sound-making exercises, fostering communal awareness and creativity. *[Bye Bye Butterfly](https://www.youtube.com/watch?v=DMCTxkFwLHw)* (1965) was an early electronic composition blending live feedback and tape delay, reflecting on the transformation of sound and memory. 
+
+Throughout her long career, Oliveros made numerous performances exploring acoustic space and group interaction. Oliveros’s work encourages active, inclusive listening and has influenced contemporary sound art, music therapy, and community music practices.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_QHfOuRrJB8?si=LfxTPI1GcmhLwbrI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -185,7 +186,7 @@ Throughout her long career she made numerous performances exploring acoustic spa
 
 ### Alvin Lucier and "I am sitting in a room"
 
-[Alvin Lucier](https://en.wikipedia.org/wiki/Alvin_Lucier) (1931–2021) was an American composer known for his experimental works exploring acoustic phenomena and the perception of sound. His iconic piece, *[I am sitting in a room](https://en.wikipedia.org/wiki/I_Am_Sitting_in_a_Room)* (1969), is a landmark in sound art and acoustic ecology. In this work, Lucier records himself reading a text describing the process: he is sitting in a room, recording his voice, and will repeatedly play back and re-record the tape. With each iteration, the resonant frequencies of the room reinforce themselves, gradually transforming the speech into pure tones shaped by the space’s acoustics. Eventually, the words become unintelligible, replaced by the unique sonic fingerprint of the room.
+[Alvin Lucier](https://en.wikipedia.org/wiki/Alvin_Lucier) (1931–2021) was an American composer known for his experimental works exploring acoustic phenomena and the perception of sound. His iconic piece, *[I am sitting in a room](https://en.wikipedia.org/wiki/I_Am_Sitting_in_a_Room)* (1969), is a landmark in sound art and acoustic ecology. In this work, Lucier records himself reading a text describing the process: he is sitting in a room, recording his voice, and repeatedly play back and re-record the tape. With each iteration, the resonant frequencies of the room reinforce themselves, gradually transforming the speech into pure tones shaped by the space’s acoustics. Eventually, the words become unintelligible, replaced by the unique sonic fingerprint of the room.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fAxHlLK3Oyk?si=quatI_I4Vrcz5BA_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -193,7 +194,7 @@ Throughout her long career she made numerous performances exploring acoustic spa
 
 ### Norwegian artists and practitioners
 
-Norway has a vibrant community of artists and researchers working with soundscapes, listening practices, and acoustic ecology:
+Norway has a vibrant community of artists and researchers working with soundscapes, listening practices, acoustic ecology, and electroacoustic composition:
 
 - **[Britt Pernille Frøholm](https://www.brittpernillefroholm.no/)** (1974–): Composer and performer exploring acoustic ecology and soundscape composition in Norwegian landscapes.
 - **[Espen Sommer Eide](https://www.sommer-eide.net/)** (1972–): Artist and musician working with field recordings, sound installations, and listening walks.
@@ -206,7 +207,7 @@ These practitioners have contributed to both artistic and academic developments 
 
 ## Capturing sound
 
-Let us now turn to how we can capture and represent sound in different ways. This can include written descriptions, visual representations, and audio recordings. Each approach offers unique insights into the qualities and context of sounds.
+Let us conclude this week with summarizing how we can capture and represent sound in different ways. This can include written descriptions, visual representations, and audio recordings. Each approach offers unique insights into the qualities and context of sounds.
 
 ### Writing about sound
 
@@ -242,12 +243,11 @@ Recording sounds is the most direct way to capture and preserve sonic events. Ke
 Audio recordings allow for detailed analysis, creative manipulation, and sharing of soundscapes and sonic objects with others.
 
 ```{exercise} Record soundscapes
-1. Walk slowly in a group, without talking 
-2. Continuously record the soundscape with a mobile device
-3. Listen to your recording and cut out interesting sounds
-4. Share your sounds by uploading at least one sound to [Freesound.org](https://freesound.org/)
+1. Turn on a sound recording device (e.g. mobile phone) 
+2. Walk slowly while listening attentively
+3. Listen to your recording and compare it to what you heard while walking
+4. Share your sound recording with reflections on [Freesound.org](https://freesound.org/)
 ```
-
 
 ```{bibliography}
 ```
