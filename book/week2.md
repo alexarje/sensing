@@ -9,9 +9,9 @@ exports:
 
 ## Describing sounds
 
-Recall last week's discussion about differences hearing and listening. We will get back to the mechanisms for both hearing in the coming weeks&mdash;focusing on both the acoustic and psychoacoustic parts&mdash;but this week will focus on how we listen, what we listen to, and how we can describe the sound and reflect on its meaning.
+Recall last week's discussion about the differences between hearing and listening. We will get back to the mechanisms for both hearing in the coming weeks&mdash;focusing on both the acoustic and psychoacoustic parts&mdash;but this week will focus on how we listen, what we listen to, and how we can describe the sound and reflect on its meaning.
 
-```{exercise} Listen with close and open eyes
+```{exercise} Listen with closed and open eyes
 1. Find a suitable location.
 2. Stand still for two minutes with your eyes closed.
 3. Listen attentively to the environment.
@@ -50,7 +50,7 @@ All of these descriptions focus specifically on describing the sound "itself" or
 - **[Linguistics](https://en.wikipedia.org/wiki/Linguistics) and [Semiotics](https://en.wikipedia.org/wiki/Semiotics)**: Examines the meaning and communicative function of sounds, including onomatopoeia, prosody, and sound symbolism.  
 	*Example*: A linguist could analyze the word "buzz" as onomatopoeic, noting how its sound mimics the noise of a bee, or study how rising intonation in speech signals a question.
 
-There is no right or wrong when it combines to studying sound. All of these approaches (and more) aim to uncover various aspects of both the physical properties of sounds but also their meaning, context, and impact on listeners. Several of them are also used in various combinations. We won't have time to cover all of these in detail in this course, but will look more closely at some of the closest ones to the fields of music psychology and technology. This week, we will focus on two main concepts that been influential in the development of our understanding of listening: *soundscapes* and *sound objects*.
+There is no right or wrong when it comes to studying sound. All of these approaches (and more) aim to uncover various aspects of both the physical properties of sounds but also their meaning, context, and impact on listeners. Several of them are also used in various combinations. We won't have time to cover all of these in detail in this course, but we will look more closely at some of the closest ones to the fields of music psychology and technology. This week, we will focus on two main concepts that have been influential in the development of our understanding of listening: *soundscapes* and *sound objects*.
 
 
 ## Soundscapes
@@ -62,10 +62,10 @@ A *[soundscape](https://en.wikipedia.org/wiki/Soundscape)* refers to the acousti
 - **Spatial Characteristics**: Noting how sounds are distributed in space: directionality, distance, and reverberation within the environment.
 - **Perceptual Attributes**: Describing how listeners experience the soundscape: pleasantness, annoyance, tranquility, or stimulation.
 
-A comprehensive description of a soundscape often combines "objective" measurements such as sound level measurements and field recordings that can be used to make spectrograms with annotated sound maps and written descriptions to capture and analyze soundscapes. Together, these objective measurements, subjective impressions, and contextual information provide a holistic understanding of the sonic environment.
+A comprehensive description of a soundscape often combines "objective" measurements, such as sound level measurements and field recordings, that can be used to make spectrograms with annotated sound maps and written descriptions to capture and analyze soundscapes. Together, these objective measurements, subjective impressions, and contextual information provide a holistic understanding of the sonic environment.
 
 ```{note} 
-The distinction between "objectivity" and "subjectivity" in research is complex and debated. It is important to note that the so-called objective approaches (relying on recording and measurements) are always based on context and subective choices. Similarly, subjective note-taking and interpretation can be systematized to reduce bias. In contemporary research, we try to use multi-method approaches that combine perspectives from the "qualitative" and "quantitative" directions. Integrating both perspectives provides a richer, more nuanced understanding of soundscapes, acknowledging that scientific inquiry into sound must balance measurement with meaning.
+The distinction between "objectivity" and "subjectivity" in research is complex and debated. It is important to note that the so-called objective approaches (relying on recording and measurements) are always based on context and subjective choices. Similarly, subjective note-taking and interpretation can be systematized to reduce bias. In contemporary research, we try to use multi-method approaches that combine perspectives from the "qualitative" and "quantitative" directions. Integrating both perspectives provides a richer, more nuanced understanding of soundscapes, acknowledging that scientific inquiry into sound must balance measurement with meaning.
 ```
 
 
@@ -125,13 +125,13 @@ Feld’s work encourages researchers and listeners to consider how sound shapes 
 
 ## Sound objects
 
-After having considered soundscapes more broadly, let us "zoom in" and investigate specific [sound objects](https://en.wikipedia.org/wiki/Sound_object) in more detail. The development of this concept came before that of soundscapes, coming out of a French "school" of composers and theorists.
+After having considered soundscapes more broadly, let us "zoom in" and investigate specific [sound objects](https://en.wikipedia.org/wiki/Sound_object) in more detail. The development of this concept came before that of soundscapes, emerging from a French "school" of composers and theorists.
 
 ### Pierre Schaeffer and the Sound Object
 
-The concept of sound object was proposed by the French composer and musicologist [Pierre Schaeffer](https://en.wikipedia.org/wiki/Pierre_Schaeffer) (1910–1995). He is renowned for pioneering [musique concrète](https://en.wikipedia.org/wiki/Musique_concr%C3%A8te), a form of electroacoustic music that uses recorded sounds as raw material. Throughout his work, Schaeffer's work laid the foundation for modern sound design, electronic music, and auditory research, influencing generations of composers and sound theorists.
+The concept of sound object was proposed by the French composer and musicologist [Pierre Schaeffer](https://en.wikipedia.org/wiki/Pierre_Schaeffer) (1910–1995). He is renowned for pioneering [musique concrète](https://en.wikipedia.org/wiki/Musique_concr%C3%A8te), a form of electroacoustic music that uses recorded sounds as raw material. Throughout his work, Schaeffer laid the foundation for modern sound design, electronic music, and auditory research, influencing generations of composers and sound theorists.
 
-The sound object&mdash;*l'objet sonore* in French&mdash;is at the core of Schaeffer's theoretical work. His argument was that when listening to sound, we do not hear the continuous sound but that our perception is grouped into a series of separate sound objects with specific properties. When we perceive speech, we hear words, not single phonemes. When we hear music, we hear tones and short phrases that fuse into "chunks" of sound, typically in the range of 0.5 to 5 seconds.
+The sound object&mdash;*l'objet sonore* in French&mdash;is at the core of Schaeffer's theoretical work. His argument was that when listening to sound, we do not hear the continuous sound, but that our perception is grouped into a series of separate sound objects with specific properties. When we perceive speech, we hear words, not single phonemes. When we hear music, we hear tones and short phrases that fuse into "chunks" of sound, typically in the range of 0.5 to 5 seconds.
 
 Schaeffer also introduced the idea of *reduced listening* as a way to focus on the intrinsic qualities of sound *itself* rather than its source (sound-producing objects and actions) or semantic meaning. This includes a sound's texture, tone, and dynamics. 
 
@@ -147,7 +147,7 @@ The categories are coarse, but this model can still be helpful for describing th
 
 Schaeffer's thoughts have inspired numerous theorists and composers to date. He is often considered the "father" of [electroacoustic music](https://en.wikipedia.org/wiki/Electroacoustic_music), music that incorporates electronic technology for the production, manipulation, and reproduction of sound. It often involves recorded sounds, synthesis, and digital processing, allowing composers to explore new sonic possibilities beyond traditional instruments.
 
-Schaeffer's focus on reduced listening has also inspired a specific type of electroacoustic music called [acousmatic music](https://en.wikipedia.org/wiki/Acousmatic_music), where sound is heard without seeing its originating cause. Acousmatic music, often presented through "loudspeaker orchestras" in dark concert settings, emphasize the experience of sound itself rather than its source.
+Schaeffer's focus on reduced listening has also inspired a specific type of electroacoustic music called [acousmatic music](https://en.wikipedia.org/wiki/Acousmatic_music), where sound is heard without seeing its originating cause. Acousmatic music, often presented through "loudspeaker orchestras" in dark concert settings, emphasizes the experience of sound itself rather than its source.
 
 ### Expanding Schaeffer’s thinking
 
@@ -186,7 +186,7 @@ Throughout her long career, Oliveros made numerous performances exploring acoust
 
 ### Alvin Lucier and "I am sitting in a room"
 
-[Alvin Lucier](https://en.wikipedia.org/wiki/Alvin_Lucier) (1931–2021) was an American composer known for his experimental works exploring acoustic phenomena and the perception of sound. His iconic piece, *[I am sitting in a room](https://en.wikipedia.org/wiki/I_Am_Sitting_in_a_Room)* (1969), is a landmark in sound art and acoustic ecology. In this work, Lucier records himself reading a text describing the process: he is sitting in a room, recording his voice, and repeatedly play back and re-record the tape. With each iteration, the resonant frequencies of the room reinforce themselves, gradually transforming the speech into pure tones shaped by the space’s acoustics. Eventually, the words become unintelligible, replaced by the unique sonic fingerprint of the room.
+[Alvin Lucier](https://en.wikipedia.org/wiki/Alvin_Lucier) (1931–2021) was an American composer known for his experimental works exploring acoustic phenomena and the perception of sound. His iconic piece, *[I am sitting in a room](https://en.wikipedia.org/wiki/I_Am_Sitting_in_a_Room)* (1969), is a landmark in sound art and acoustic ecology. In this work, Lucier records himself reading a text describing the process: he is sitting in a room, recording his voice, and repeatedly plays back and rerecords the tape. With each iteration, the resonant frequencies of the room reinforce themselves, gradually transforming the speech into pure tones shaped by the space’s acoustics. Eventually, the words become unintelligible, replaced by the unique sonic fingerprint of the room.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fAxHlLK3Oyk?si=quatI_I4Vrcz5BA_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -207,7 +207,7 @@ These practitioners have contributed to both artistic and academic developments 
 
 ## Capturing sound
 
-Let us conclude this week with summarizing how we can capture and represent sound in different ways. This can include written descriptions, visual representations, and audio recordings. Each approach offers unique insights into the qualities and context of sounds.
+Let us conclude this week by summarizing how we can capture and represent sound in different ways. This can include written descriptions, visual representations, and audio recordings. Each approach offers unique insights into the qualities and context of sounds.
 
 ### Writing about sound
 
@@ -229,7 +229,7 @@ Drawing sounds is a creative way to visualize sonic phenomena. Techniques includ
 - **Symbolic notation**: Use shapes, lines, and colors to depict qualities like loudness, pitch, or texture.
 - **Sound maps**: Create diagrams showing the spatial distribution of sounds in an environment.
 
-Visual representations can reveal patterns and relationships that are difficult to express in words, and are useful in both artistic and scientific contexts.
+Visual representations can reveal patterns and relationships that are difficult to express in words and are useful in both artistic and scientific contexts.
 
 ### Recording sounds
 
@@ -243,7 +243,7 @@ Recording sounds is the most direct way to capture and preserve sonic events. Ke
 Audio recordings allow for detailed analysis, creative manipulation, and sharing of soundscapes and sonic objects with others.
 
 ```{exercise} Record soundscapes
-1. Turn on a sound recording device (e.g. mobile phone) 
+1. Turn on a sound recording device (e.g., mobile phone) 
 2. Walk slowly while listening attentively
 3. Listen to your recording and compare it to what you heard while walking
 4. Share your sound recording with reflections on [Freesound.org](https://freesound.org/)
