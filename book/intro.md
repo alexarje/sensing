@@ -166,6 +166,4 @@ This course explores the psychological aspects of music perception and cognition
 :link: https://www.uio.no/studier/emner/hf/imv/MUS2830/
 This course delves into the intersection of music and technology, covering topics such as sound synthesis, digital audio processing, and algorithmic composition. Gain hands-on experience with tools and techniques used in creating and analyzing music through computational methods.
 :::
-
-:::
 ::::
