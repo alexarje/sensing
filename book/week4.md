@@ -176,6 +176,7 @@ A Note Graph is a graph-based representation of musical scores, where nodes repr
     *Diana Deutsch in conversation with Howard Burton* (2015), Open Agenda Publishing.
 
 
+
 ## Tools
 
 - **PaulXStretcher**
