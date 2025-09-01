@@ -101,45 +101,16 @@ Processes auditory information via the cerebral cortex. [Learn more](https://en.
 #### Auditory Cortex
 Responsible for sound processing. [Learn more](https://en.wikipedia.org/wiki/Auditory_cortex)
 
-### Digitization
 
-#### Input/Output (I/O)
-- **Analog-to-Digital Converters (ADC)**: Convert analog signals to digital. [Learn more](https://en.wikipedia.org/wiki/Analog-to-digital_converter)
-- **Digital-to-Analog Converters (DAC)**: Convert digital signals to analog. [Learn more](https://en.wikipedia.org/wiki/Digital-to-analog_converter)
+### Filtering
 
-#### Digital Audio
+```{exercise}
+:label: Phase in production
 
-Digital audio refers to the representation of sound in a digital format, enabling storage, manipulation, and playback using computers and digital devices. Key concepts include:
+Have you tried swapping the phase in a music track? Try [this phase cancellation](https://l2ork.music.vt.edu:3000/?url=VTWaves/Phase-Cancellation-Emscripten.pd) web experiment. 
+```
 
-- **Sampling Rate**: The number of samples taken per second to represent a sound wave. Common rates include:
-    - **44.1 kHz**: Standard for CDs, providing a frequency range up to 22.05 kHz. [Learn more](https://en.wikipedia.org/wiki/Sampling_(signal_processing))
-    - **48 kHz**: Widely used in video production and broadcasting.
-    - **96 kHz and 192 kHz**: High-resolution audio formats for professional and audiophile applications.
 
-- **Bit Depth**: Determines the resolution or precision of each audio sample, affecting dynamic range and noise levels:
-    - **16-bit**: Standard for CDs, offering a dynamic range of 96 dB.
-    - **24-bit**: Common in professional audio, providing a dynamic range of 144 dB.
-    - **32-bit**: Used in specialized applications for even greater precision. [Learn more](https://en.wikipedia.org/wiki/Audio_bit_depth)
-
-- **Compression**: Reduces file size by encoding audio data more efficiently:
-    - **Lossy Compression**: Formats like MP3 and AAC remove inaudible frequencies to save space, often at the cost of quality. [Learn more](https://en.wikipedia.org/wiki/Audio_data_compression)
-    - **Lossless Compression**: Formats like FLAC and ALAC preserve all audio data, ensuring no quality loss.
-
-- **Nyquist Theorem**: States that the sampling rate must be at least twice the highest frequency in the audio signal to accurately reconstruct it. This principle underpins the choice of standard sampling rates. [Learn more](https://en.wikipedia.org/wiki/Nyquist_rate)
-
-- **Dynamic Range**: The difference between the quietest and loudest parts of an audio signal. Higher bit depths allow for greater dynamic range, making them suitable for professional recording and mixing.
-
-- **File Formats**:
-    - **WAV**: Uncompressed audio format, widely used in professional settings.
-    - **MP3**: Popular lossy format for consumer audio.
-    - **FLAC**: Lossless format, ideal for audiophiles.
-    - **AAC**: Advanced lossy format, commonly used in streaming services.
-
-- **Audio Interfaces**: Devices that convert analog audio signals to digital (ADC) and digital signals back to analog (DAC). They are essential for recording and playback in digital audio workflows. [Learn more](https://en.wikipedia.org/wiki/Audio_interface)
-
-- **Latency**: The delay between input and output in a digital audio system. Low-latency systems are critical for real-time applications like live performances and audio monitoring.
-
-Digital audio has revolutionized the way sound is produced, distributed, and consumed, enabling innovations in music production, broadcasting, and multimedia applications.
 
 
 ### Audio Visualizations
