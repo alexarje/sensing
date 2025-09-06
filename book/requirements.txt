@@ -3,3 +3,6 @@ matplotlib
 numpy
 librosa
 music21
+scipy
+pandas
+sklearn

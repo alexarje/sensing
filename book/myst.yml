@@ -10,6 +10,9 @@ project:
   github: https://github.com/alexarje/sensing
   toc:
     - file: intro.md
+    - file: week1.md
+    - file: week2.md
+    - file: week3.ipynb
 
     
 site:
