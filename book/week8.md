@@ -1,6 +1,17 @@
 # Week 8: The Brain
 
 
+
+### Cognition
+
+#### The Brain
+Processes auditory information via the cerebral cortex. [Learn more](https://en.wikipedia.org/wiki/Cerebral_cortex)
+
+#### Auditory Cortex
+Responsible for sound processing. [Learn more](https://en.wikipedia.org/wiki/Auditory_cortex)
+
+
+
 ## The brain
 
 The brain is a highly complex organ that serves as the control center for the body’s functions and behaviors. It is composed of billions of neurons that communicate through electrical and chemical signals. These neural networks enable the brain to process sensory information, regulate bodily functions, generate thoughts and emotions, and coordinate movement.
