@@ -15,7 +15,6 @@ project:
     - file: week3.ipynb
     - file: week4.ipynb
 
-    
 site:
   template: book-theme
   options:

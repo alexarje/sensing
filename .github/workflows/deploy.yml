@@ -45,7 +45,7 @@ jobs:
             pip install -r book/requirements.txt
           fi
       - name: Build HTML Assets
-        run: myst build --html book
+        run: myst build --html book/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
