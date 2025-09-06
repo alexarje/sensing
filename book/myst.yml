@@ -13,6 +13,7 @@ project:
     - file: week1.md
     - file: week2.md
     - file: week3.ipynb
+    - file: week4.ipynb
 
     
 site:
