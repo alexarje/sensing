@@ -6,22 +6,11 @@ project:
   title: Sensing Sound and Music
   description: A book for the UiO course MUS2640
   keywords: [sensing, sound, music]
-  authors: [MUS2640University of Oslo]
+  authors: [MUS2640, University of Oslo]
   github: https://github.com/alexarje/sensing
   toc:
     - file: intro.md
-    - file: week1.md
-    - file: week2.md
-    - file: week3.ipynb
-    - file: week4.ipynb
-    - file: week5a.ipynb
-    - file: week5.md
-    - file: week6.md
-    - file: week7.md
-    - file: week8.md
-    - file: week9.md
-    - file: week10.md
-    - file: week11.md
+
     
 site:
   template: book-theme
