@@ -18,7 +18,7 @@ project:
     - file: book/week1.md
     - file: book/week2.md
     - file: book/week3.ipynb
-    - file: book/week4.md
+    - file: book/week4.ipynb
     - file: book/week5.md
     - file: book/week6.md
     - file: book/week7.md
